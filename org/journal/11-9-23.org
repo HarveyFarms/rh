@@ -1,0 +1,82 @@
+* TODO Morning Routine [100%] [9/9]
+:PROPERTIES:
+DEADLINE: <2023-11-09 Thu>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    Will have practice at 11AM
+    Did 3 300s and 1 150, still getting back in the groove of practicing after achilles trouble yesterday.
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I need to ramp things up with my agenda, constantly doing things to get my agenda cleared up.
+    Also, I need to go outside and work on my laptop, to get some sun in.
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    Do a good amount of python work, do some 240 notes, and some calc stuff aswell.
+    I have a discussion post for foundations that I can do quickly. But I want to
+    finish a lot of things up for this week today.
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    I'm feeling creative, lets go all out on my foundations post to show this
+
+This movie explained the use of bees in agriculture, and how recently (in the past 80 years) farmers have increased
+their farmland to make more crops, but how it's not sustainable because maintaining these fields causes harm to the
+bees (which are necessary for the crops) to be able to keep harmful insects/fungi off of the multitude of crops.
+Pollinators don't propose that we get rid of agriculture, it proposes that we can have a sustainable system of agriculture
+if we rethink and unlearn the past 80 years of the idea that we need to expand fields and rid of invaders with herbicides, insecticides, fungicides, etc.
+Pollinators wants to change the farming system. To create more diverse fields of crops and industrialize less natural land
+so bees can thrive and in turn the crops thrive. They show that eventually our recent system of agriculture will break down. To fix it they propose first
+that we have to realize the benefit that bees bring to agriculture and then we build our system around this knowledge along with other scientific data that's beneficial first to nature, then to our yield.
+
+- [X] Start planning today and use agenda to help
+- [X] git push before leaving
+* TODO [#A] Today's goals [78%] [11/14]
+:PROPERTIES:
+DEADLINE: <2023-11-09 Thu>
+:END:
+- [X] Prayer rope/book
+- [X] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The House of the Dead
+starting page: 1
+ending page  : 21
+study/read   : read
+- [X] call a friend/family member
+  ask dad about fertilizer grandpa uses.
+- [X] Duolingo
+- [X] Practice touch typing
+- [X] Do all Safeguard of the Souls that were missed
+- [X] *TRACK PRACTICE AT 11AM*
+- [X] *TRACK TEAM MEETING AT 7 PM*
+- [X] REDO python assignment (and make sure deadline agrees)
+- [ ] +finish python project planning, think of a fun game idea (not super mario)+
+- [ ] +start calc homework 10+
+- [ ] +work on ciss240 notes+
+- [X] finish discussion post for foundations
+- [X] go outside and work
+* TODO Evening Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-09 Thu>
+:END:
+- [X] Make sure all daily goals are met 
+- [X] Mobility/Isometrics
+  + /What did you do?/
+    stretched soleus/gastroc
+- [X] *Evening reflection*
+  + /How's it all going?/
+    It's going well, I didn't do much today, but what I did made me happy with the day.
+    Except when I fell into sin, this made me unhappy, I have to fully rely on God and realize that
+    the body that I'm pleasing is a body that will eventually decay in the ground.
+- [X] *Evening thanks*
+  + /How've you been blessed today?/
+    I've been blessed to eat today, so tomorrow I shall fast so I can stand before God more worthy and with a clearer vision of Him.
+- [X] *Evening creativity*
+  + /What do you want to express?/
+    cd ~/gh/ciss145/a/a06/ ; python3 a06q05.py
+    ^ run this in bash, very happy with myself
+- [X] Hygiene
+- [X] Prayer
+- [X] 7:30+ hours of sleep

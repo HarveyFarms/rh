@@ -1,0 +1,39 @@
+* TODO Morning Routine [100%] [9/9]
+:PROPERTIES:
+DEADLINE: <2023-11-10 Fri>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    Went to weights, had a strong jump shrug but iso sl squats killed me, then plyos after
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I was bad today at filling this out, these are my thoughts...
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    To finish my todo list entirely
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    feeling like doing todos
+- [X] Start planning today and use agenda to help
+- [X] git push before leaving
+* TODO [#A] Today's goals [66%] [6/9]
+:PROPERTIES:
+DEADLINE: <2023-11-10 Fri>
+:END:
+- [ ] Prayer rope/book
+- [X] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The House of the Dead
+starting page: 21
+ending page  : 42
+study/read   : read
+- [X] call a friend/family member
+- [X] Duolingo
+- [X] calc 10 hmwk
+- [ ] +python project planning+
+- [ ] +ciss240 and look ahead to a11+
+- [X] decide if nature walk is a good idea anytime this upcoming week
+- [X] create todos for scheduled things

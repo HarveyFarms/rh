@@ -1,0 +1,5 @@
+* TODO %^
+:PROPERTIES:
+SCHEDULED: %^t
+DEADLINE: %^t
+:END:

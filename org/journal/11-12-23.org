@@ -1,0 +1,71 @@
+* TODO Morning Routine [88%] [8/9]
+:PROPERTIES:
+DEADLINE: <2023-11-12 Sun>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    stretches
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I had a wet dream (sadly) but in the dream I remember repenting. I went in the bathroom and prostrated before God.
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    To go to Church and glorify Him who created me and gave me life.
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    I'm feeling smart so I'm gonna do extra homework today.
+- [X] Start planning today and use agenda to help
+- [ ] git push before leaving
+* TODO [#A] Today's goals [91%] [11/12]
+:PROPERTIES:
+DEADLINE: <2023-12-11>
+:END:
+- [X] Prayer rope/book
+- [ ] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The House of the Dead
+starting page: 60
+ending page  : 77
+study/read   : read
+- [X] call a friend/family member
+- [X] Duolingo
+- [X] Practice touch typing
+- [X] create TODOs for agenda
+- [X] add yesterday's list of daily goals to here
+- [X] Do all safeguard for the souls
+- [X] do ciss240 notes
+- [X] do all python assignments
+- [X] finish calc homework
+- [X] nature walk
+   keep thinking about when nature walk is going to happen so we can start planning writing that essay
+
+   I found a bird, I will be researching this bird and using it for my essay.
+*
+* TODO CALC hmwk 10 turn-in
+:PROPERTIES:
+DEADLINE: <2023-11-15 Wed>
+:END:
+* TODO Evening Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-12 Sun>
+:END:
+- [X] Make sure all daily goals are met 
+- [X] Mobility/Isometrics
+  + /What did you do?/
+    ankle isometrics
+- [X] *Evening reflection*
+  + /How's it all going?/
+    It's going okay, it just sucks not understanding ciss240 notes, when I just want to barge and get them done, instead I will ask during hangout
+- [X] *Evening thanks*
+  + /How've you been blessed today?/
+    With Church. Making new friends alongside seeing Fr. Michaels 25th anniversary of ordination was one of the greatest blessings of which I participated in today.
+    Things like this strengthen my faith.
+- [X] *Evening creativity*
+  + /What do you want to express?/
+    There are 10 types of people, those who understand binary and those who haven't found the derivative yet!
+- [X] Hygiene
+- [X] Prayer
+- [X] 7:30+ hours of sleep

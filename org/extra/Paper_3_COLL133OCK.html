@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-11-28 Tue 10:53 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Paper 3 for COLL-133-OCK (foundations)</title>
+<meta name="author" content="Ryan Harvey" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Paper 3 for COLL-133-OCK (foundations)</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org6e9e70c">1. Schedule for this paper</a>
+<ul>
+<li><a href="#org09cd9a7">1.1. Day 1</a></li>
+<li><a href="#org76e2ffb">1.2. Day 2</a></li>
+<li><a href="#orgd694446">1.3. Day 2 cont.</a></li>
+<li><a href="#orgf33f9ab">1.4. Day 3</a></li>
+<li><a href="#orgd4f26dd">1.5. Day 4</a></li>
+<li><a href="#org58a2dcd">1.6. Day 5</a></li>
+<li><a href="#orgd020222">1.7. Day 6</a></li>
+</ul>
+</li>
+<li><a href="#org6a48b49">2. How I found the organism</a></li>
+<li><a href="#org20f38fe">3. Details on the American Robin</a>
+<ul>
+<li><a href="#orga6620bd">3.1. pre-research</a></li>
+<li><a href="#orgb0f4fb7">3.2. paragraph</a></li>
+</ul>
+</li>
+<li><a href="#org6af9297">4. Merlin Bird App</a></li>
+<li><a href="#org965e468">5. Research on the American Robin</a>
+<ul>
+<li><a href="#org49cbe3b">5.1. resources</a></li>
+<li><a href="#org50bf43a">5.2. Structure of this section</a></li>
+<li><a href="#orgbcb2c3c">5.3. Write out</a></li>
+</ul>
+</li>
+<li><a href="#org70a7618">6. Citing sources</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6e9e70c" class="outline-2">
+<h2 id="org6e9e70c"><span class="section-number-2">1.</span> Schedule for this paper</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org09cd9a7" class="outline-3">
+<h3 id="org09cd9a7"><span class="section-number-3">1.1.</span> Day 1</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+How you found the organism (where, when, and more). Present this as a story
+using concrete details and images (in the manner of a personal essay).
+</p>
+</div>
+</div>
+<div id="outline-container-org76e2ffb" class="outline-3">
+<h3 id="org76e2ffb"><span class="section-number-3">1.2.</span> Day 2</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+research animal and put basic details, write more tmrw
+</p>
+</div>
+</div>
+<div id="outline-container-orgd694446" class="outline-3">
+<h3 id="orgd694446"><span class="section-number-3">1.3.</span> Day 2 cont.</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Details on the organism. What does it look (and if relevant, sound) like?
+</p>
+</div>
+</div>
+<div id="outline-container-orgf33f9ab" class="outline-3">
+<h3 id="orgf33f9ab"><span class="section-number-3">1.4.</span> Day 3</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+The app you used to identify the organism, including a discussion of how the app
+works. What was it like to use this app to identify your organism?
+</p>
+</div>
+</div>
+<div id="outline-container-orgd4f26dd" class="outline-3">
+<h3 id="orgd4f26dd"><span class="section-number-3">1.5.</span> Day 4</h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Research on the organism—distribution, behavior, conservation status, and
+anything else you are able to find out and consider relevant.
+</p>
+</div>
+</div>
+<div id="outline-container-org58a2dcd" class="outline-3">
+<h3 id="org58a2dcd"><span class="section-number-3">1.6.</span> Day 5</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Conclude the paper by discussing your thoughts and feelings about the organism
+now that you have worked hard to learn about it.
+</p>
+</div>
+</div>
+<div id="outline-container-orgd020222" class="outline-3">
+<h3 id="orgd020222"><span class="section-number-3">1.7.</span> Day 6</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Review the paper before turning in
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org6a48b49" class="outline-2">
+<h2 id="org6a48b49"><span class="section-number-2">2.</span> How I found the organism</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+In the middle of November on a random afternoon I set out on a hike. I went on a familiar trail North of Cosmo Park in Columbia, Missouri. My plan was to go in, find an animal, then head out, but the trail had me stay for hours. First, I walked a trail that dove right into a forest. I scared every living thing with my careless steps. As I was scaring the birds that I so badly wanted a picture of, I would try to chase the down which would make them run away even further. This wouldn't work. I changed my pace to a slower walk, but I was still trying to chase the birds down, and get a close-up picture of them. I realized my strategy wouldn't work. At this time, a group of hikers were coming in behind me, so I exited this forest trail as fast as I could because I was looking like a dork trying to get a picture of birds that were constantly running away from me. The next part of my journey on these trails restarted once I looped back around to the beginning of the trail path. I started again, not worried about chasing birds, but being quiet and taking pictures as birds would come by or as I would come by, on light feet. The problem was, I couldn't find any birds now! There would be one every now and again but not in any good shape for a picture! And as I continued my walk&#x2013;over an hour in already&#x2013;it seemed the amount of birds in the world were decreasing by the moment. I was hopeless. Instead of giving up, I continued on the trail and came upon a cliff. I looked over this cliff with wonder. And for the next thirty minutes, I went to all sides of the cliff and reached the bottom, taking it all in as a joyous experience. I decided to head back after this, I was happy with coming to the trail, even if my initial plan didn't go as I intended it to go. As I walked back, I happened upon another forest. As I walked in, I heard birds all around me, high in the trees. I knew pictures of them weren't possible, as they hid so perfectly it seemed they were invisible. They were only blessing me with their harmonious chirps, so I decided to download the Merlin app, which I thought would be of excellent use. I recorded multiple ten second durations of what I was hearing. While I was recording, I stood in awe. Everything was still and calm in my mind, though sounds were vibrating all around me and trees were raging against the wind. Merlin recognized one bird in particular, the American Robin. I also noticed this bird, with its high-pitched chirps. They were all around me, and though I didn't see them, I knew the Merlin app was correct in finding this bird. After a long journey of bird-finding strategies and emotional highs and lows, I finally found my bird, the American Robin.
+</p>
+</div>
+</div>
+<div id="outline-container-org20f38fe" class="outline-2">
+<h2 id="org20f38fe"><span class="section-number-2">3.</span> Details on the American Robin</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orga6620bd" class="outline-3">
+<h3 id="orga6620bd"><span class="section-number-3">3.1.</span> pre-research</h3>
+<div class="outline-text-3" id="text-3-1">
+<ul class="org-ul">
+<li>fairly large songbird with a large, round body, long legs, and fairly long tail.</li>
+<li>They're the largest North American Thrushes, and their profile offers a good chance to learn the basic
+shape of most thrushes. They make a good reference for comparison among other birds too&#x2026;</li>
+<li>Gray-brown color with warm orange underpants and dark heads. White patch can be seen on lower belly.</li>
+<li>Industrious birds that bound across lawns or stand erect, beak tilted forward, to survey their environs.
+In fall and winter they form large flocks and gather in trees to roost and eat berries.</li>
+<li>They are common across the continent in gardens, yards, fields, pastures, etc.</li>
+<li>the <b>sound</b> of the bird is often described as <i>cheerily</i>, <i>cheer up</i>, <i>cheer up</i>, <i>cheerily</i>, <i>cheer up</i></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb0f4fb7" class="outline-3">
+<h3 id="orgb0f4fb7"><span class="section-number-3">3.2.</span> paragraph</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+The American Robin is a fairly large songbird of a gray-brown color with warm orange underpants and dark heads. White patches can be see on their lower belly. They have large, round bodies with long legs and a fairly long tail. The sound of the American Robin is often described as <i>cheerily</i>, <i>cheer up</i>, <i>cheer up</i>, <i>cheerily</i>, <i>cheer up</i>.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org6af9297" class="outline-2">
+<h2 id="org6af9297"><span class="section-number-2">4.</span> Merlin Bird App</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+I used the app called the Merlin Bird ID. This app sound records from your phone, and through breakthrough machine learning technology, it identifies the bird(s) around you. Using this app greatly benefited my nature walk, as I didn't have to get menacingly close to the birds that I wanted to identify; it allowed me to be only as close as needed for the app to be able to hear the chirps of the birds. The accuracy of the app is outstanding, I recorded multiple times and though I picked up other birds that were also chirping, the app was consistently picking up the American Robin. I would recommend this app to anyone that is curious enough to identify what bird they're hearing without needing to see the bird.
+</p>
+</div>
+</div>
+<div id="outline-container-org965e468" class="outline-2">
+<h2 id="org965e468"><span class="section-number-2">5.</span> Research on the American Robin</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+<div id="outline-container-org49cbe3b" class="outline-3">
+<h3 id="org49cbe3b"><span class="section-number-3">5.1.</span> resources</h3>
+<div class="outline-text-3" id="text-5-1">
+<p>
+Will combine all basic description of the birds together, and cite each accordingly.
+But for more specifics, I will divide each to a certain source.
+</p>
+
+<ol class="org-ol">
+<li><a href="https://www.allaboutbirds.org/guide/American_Robin/overview">https://www.allaboutbirds.org/guide/American_Robin/overview</a>
+<ul class="org-ul">
+<li>Finding this bird
+The American Robin can be sighted in lawns or in a nearby park eating on earthworms. They are also commonly found via their frequent singing, which contains "clear, lilting musical whistles."</li>
+</ul></li>
+<li><a href="https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/American-Robin">https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/American-Robin</a>
+<ul class="org-ul">
+<li>Range</li>
+<li>Diet</li>
+</ul></li>
+<li><a href="https://kids.nationalgeographic.com/animals/birds/facts/american-robin">https://kids.nationalgeographic.com/animals/birds/facts/american-robin</a>
+Will use simple descriptors from this child-like website such as:
+<ul class="org-ul">
+<li>What they eat</li>
+<li>What eats them</li>
+<li>How they behave</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org50bf43a" class="outline-3">
+<h3 id="org50bf43a"><span class="section-number-3">5.2.</span> Structure of this section</h3>
+<div class="outline-text-3" id="text-5-2">
+<ol class="org-ol">
+<li>Describing the bird referencing all sources</li>
+<li>Common facts:
+<ul class="org-ul">
+<li>Range (B)</li>
+<li>Finding the bird (A)</li>
+<li>Diet (B)</li>
+<li>How they behave (C)</li>
+<li>What eats them (C)</li>
+</ul></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgbcb2c3c" class="outline-3">
+<h3 id="orgbcb2c3c"><span class="section-number-3">5.3.</span> Write out</h3>
+<div class="outline-text-3" id="text-5-3">
+<p>
+The American Robin is often characterized as the "early bird" that "gets the worm." This is because they are so common in North America and reside in almost all environments trying to pull worms out of the ground. The unique identifier of an American Robin is the male American Robin, who portrays all of the traits that make up what we call an American Robin. The males have distinct rust-colored feathers on their chest, a yellow bill, a black head, white outlines around their eyes, and they're the type of American Robin to sing the "cheerily, cheer up" song ("American Robin." National Wildlife Federation). Though the male American Robins represent their species the best, both the male and female American Robin work together and play a part in how expansive the American Robin range is. "American Robins live in woodlands, suburban backyards, parks, and grasslands with shrubs. Robins can be found year-round in the continental United States, and some migrate north to spend summers in Alaska" ("American Robin." National Wildlife Federation). They are also said to be the most widespread species of thrush in the United States ("American Robin." National Wildlife Federation). They are everywhere, but how does one find this bird? One should look around in their lawn for a bird stalking earthworms and most likely it will be an American Robin ("American Robin Overview"). It is well-known now that American Robins eat earthworms, but do they eat anything else? How do they catch their prey? The National Wildlife Federation states that American Robins are usually searching for food in flocks, where their flexible diet comes in to play, allowing them to eat anything from insects to berries, depending on the season and availability, of course ("American Robin."). Alongside their diet, the American Robin behavior is also telling of how they're able to procreate and expand their species far and wide across the continent. Their behavior consists of being active in the daytime, which allows them to search for food of all sorts easily. The American Robin is also advantaged in how quickly the American Robin flies after it hatches, which is around 2 weeks. Alongside this, the female American Robin is able to lay three to five blue eggs at a time ("American Robin." Animals). Finally, the predators of the American Robin include snakes, hawks, cats; they feast on the adult American Robin. And the predators of American Robin blue eggs are squirrels, blue jays, crows, and ravens ("American Robin." Animals).
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org70a7618" class="outline-2">
+<h2 id="org70a7618"><span class="section-number-2">6.</span> Citing sources</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>(A) “American Robin Overview, All about Birds, Cornell Lab of Ornithology.” Overview, All About Birds, Cornell Lab of Ornithology, www.allaboutbirds.org/guide/American<sub>Robin</sub>/overview. Accessed 26 Nov. 2023.</li>
+<li>(B) “American Robin.” National Wildlife Federation, www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/American-Robin. Accessed 26 Nov. 2023.</li>
+<li>(C) “American Robin.” Animals, kids.nationalgeographic.com/animals/birds/facts/american-robin. Accessed 26 Nov. 2023.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2023-11-21 Tue 00:00</p>
+<p class="author">Author: Ryan Harvey</p>
+<p class="date">Created: 2023-11-28 Tue 10:53</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,111 @@
+#+DAY November 1st, 2023
+
+* Big plans
+** Journals will be my everyday thing, whether it's everyday notes, habit tracker, todo list adder/modifier, etc.
+*** How will I start my journals?
+1) Most likely with the day, and anything extra if it's special or anything I will use tags to be able to find these special times
+2) Then a morning routine list, where I can check off boxes to make sure morning goes well
+3) Then just checking to-dos, making sure everything looks right and checking off/adding/modifying agenda as needed (with habit checkers there too)
+4) Throughout the day, I can use this journal to note ideas/goals/nextweekthings/schedule/and more todos to make sure agenda is perfect
+*** Just journals for org-mode usage?
+No, I will take notes in my other classes' github repos using .org files. I will use org-mode for note-taking/scheduling/projects etc. in any way that org offers for personal growth, management, and organization.
+It's just that journals will be an everyday usage, whereas others it depends. But journal will cover everything from day-to-day life with scheduling, and daily task management.
+* First day using org-journal
+/it's exciting/
+** What I want to do:
+- Create additional tags other than TODO for other things, such as GOALS, NEXT (next/upcoming ideas), and SCHEDULE (done, could've made a TODO of this)
+- Find a way to create a habit tracker in my org-agenda (trying now)
+  I will have to do this through an older file, with +1d on it so it will auto assign a day after finished for daily things and so on for weekly things
+* todos
+** DONE ciss240 a09
+:PROPERTIES:
+DEADLINE: <2023-11-03>
+:END:
+** TODO ciss145 a07
+:PROPERTIES:
+DEADLINE: <2023-11-05 Sun>
+:END:
+** TODO Paper 3 foundations
+:PROPERTIES:
+:END:
+** TODO Title IX training foundations
+:PROPERTIES:
+DEADLINE: <2023-11-23 Thu>
+:END:
+** TODO MS Powerpoint assignment foundations
+:PROPERTIES:
+DEADLINE: <2023-11-26 Sun>
+:END:
+** DONE Discussion board due foundation
+:PROPERTIES:
+DEADLINE: <2023-11-02 Thu>
+:END:
+** TODO Safeguard of the Soul
+:PROPERTIES:
+:LAST_REPEAT: [2023-11-04 Sat 11:51]
+:END:
+:PROPERTIES:
+:END:
+* Creating captures
+To be able to log daily (morning/evening) and weekly (every Saturday) habits
+and thought-provoking questions daily.
+** ideas
++ Morning routine
+  How I want my morning to be structured with org-mode as an assistant
+  1) immediate prayer
+  2) hygiene
+  3) making bed
+  4) mobilizing + strength (memorized and basic)
+     ^ all of this is done before getting on computer
+     v this is where capture comes in
+  5) checklist to mark off all above
+  6) Capture prompt (writing)
+     1. Morning reflection (life)
+     2. Morning intention (goal-setting/focus)
+     3. Morning creativity/problem solving (either solve a problem or express ideas in something tangible)
+  7) Plan out the day with checkboxes that you want to mark off throughout the day
+     Have a set list of checkboxes that stays constant everyday (reading, prayer, lectionary, lives of the saints, calling friends/family)
+     Refer to morning intention for goals to append into the daily checklist
+  8) Structure to-dos as necessary before you begin work
++ TODO captures
+  - I might make todo captures, to help things structure themselves right away
+  - examples:
+    - TODO deadline (self-explanatory, for things with deadline)
+    - TODO schedule (for events that have no particular deadline)
+    - TODO both (to be reminded daily until deadline, big projects, papers, etc.)
++ Praying routine
+  - Throughout the day, get atleast one praying routine in,
+    seperate from morning and evening prayers, it will either
+    be 33 prayers or 100 prayers. Allow it to be deeply meditative.
++ Temporary captures
+  Months like this one (11-2023), I have a plan to journal everyday of this month, so I will create temporary captures
+  that I will only use this month, and discard at the end of the month.
++ Evening routine  :capture:
+  A little different from morning, because a day has passed and reflection is more important than focus
+  1) Make sure all checkboxes for today are done
+  2) Mobility/Isometrics
+  3) Evening reflection (life holistically)
+  4) Evening thanks (thank God and recount all blessings today)
+  5) Evening creativity/problem solving (do what you want)
+     ^ this is last thing done on computer for the day
+     | this is after shutting the computer off,
+     V but will still be on list to be filled out in morning
+  6) hygiene
+  7) prayer
+  8) sleep (possibly read before bed)
+* Creating daily goals for a month etc.
+Scheduling in the beginning of the month and deadlining it at the end of the month tracks all days,
+I will use it for this month for Safeguard for the Soul by St. Nikodemos, but this can be used
+in all sorts of ways of varied amounts of days and seperation of amount 
+
+* Safeguard for the Soul by St. Nikodemos
+** Day 1 
+*** Concerning the Worth of Salvation
+1. My salvation is a matter entirely my own. If I do not have concern for it, who else will?
+2. My salvation is a matter concerning my whole soul and body. If I do not make sure of my salvation, who else will make sure of it for me?
+3. My salvation is a matter concerning all eternity. If I do not work for it, who else will work for it for me?
+   And what do I do? Why don't I care at all for the salvation of my soul? I do not have anything better than this soul. I do not have anything
+   worth more than this immortal soul. So, if I lose it just one time, I will have lost the greatest good for all eternity.
+
+   /Offer all of your effort to the Holy Trinity through the Virign and your Guardian Angel, and your patron Saint that you have as a protector,
+   so that the effort you put forth may be unto the glory of God and unto the salvation of your soul./

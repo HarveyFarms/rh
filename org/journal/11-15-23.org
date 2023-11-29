@@ -1,0 +1,84 @@
+* TODO Morning Routine [100%] [9/9]
+:PROPERTIES:
+DEADLINE: <2023-11-15 Wed>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    Track practice we did 3 x 350s and 3 x 200s
+    I have table tennis tournament later, so that'll be fun.
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I'm feeling good about life, I want to stay with God, no matter what.
+    I still fear for me and Ava's relationship, I want to write a note that
+    shows the differences in our main values and show it to her and see if
+    those things seem to be deal-breakers for long-term. I did ruin the
+    relationship by fornicating with her, and I will forever be sorry for that.
+
+    It can still mend, we would have to come to an agreement on values and end all
+    I'm not leaving the Church and I want a woman who can atleast come to Church and
+    strive to know God as I do (so that they can also help me in my progress & vice versa)
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    Get started on the project plans that I didn't do yesterday, do some more quizzes, and
+    a11 for ciss240, check out python's assignments, and definitely get some ciss240 notes done.
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    Would God not make Himself known?
+    Would God not give His faithful servants a path and helpers on this path?
+
+    We are made in God's image, the image of the highest Good, yet we choose
+    defilement and seperation from this God towards evil, this is evident.
+
+    Therefore how are we able to derive our own path after this? God gave us
+    a path that is sure and helps us spiral up toward Him, we shall praise Him
+    for this and struggle on this path to know Him and commune with Him.
+- [X] Start planning today and use agenda to help
+- [X] git push before leaving 
+  make sure you take everything you need for the day
+* TODO [#A] Today's goals [33%] [5/15]
+:PROPERTIES:
+DEADLINE: <2023-11-15 Wed>
+:END:
+- [X] Prayer rope/book
+- [X] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : Orthodox Faith, Life, and Worship
+starting page: 200
+ending page  : 220
+study/read   : study
+book         : The House of the Dead 
+starting page: 77
+ending page  : 95
+study/read   : read
+- [ ] call a friend/family member
+- [X] Duolingo
+- [X] Practice touch typing
+- [ ] create TODOs for agenda
+- [X] ciss240 a11 work
+- [ ] ciss240 notes
+- [ ] ciss240 quiz work
+- [ ] check python d2l and do all assignments
+- [ ] do all safeguard for the souls missed
+- [ ] pygame plan
+- [ ] foundations paper plan
+- [ ] make sure calc hmwk is turned in and done well
+- [ ] get info about ping pong tournament
+* TODO Evening Routine [0%] [0/8]
+:PROPERTIES:
+DEADLINE: <2023-11-15 Wed>
+:END:
+- [ ] Make sure all daily goals are met 
+- [ ] Mobility/Isometrics
+  + /What did you do?/
+- [ ] *Evening reflection*
+  + /How's it all going?/
+- [ ] *Evening thanks*
+  + /How've you been blessed today?/
+- [ ] *Evening creativity*
+  + /What do you want to express?/
+- [ ] Hygiene
+- [ ] Prayer
+- [ ] 7:30+ hours of sleep

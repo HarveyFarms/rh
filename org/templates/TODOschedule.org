@@ -1,0 +1,4 @@
+* TODO %^
+:PROPERTIES:
+SCHEDULED: %^t %?
+:END:

@@ -1,0 +1,81 @@
+* TODO Morning Routine [88%] [8/9]
+:PROPERTIES:
+DEADLINE: <2023-11-11 Sat>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    some isos, stretches
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I am getting mad at myself for not using my agenda completely (and finishing all the tasks) which I'm not sure is justified or not.
+    I will instead of working all day also realizing focus and efficiency are also needed.
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    Get python done, look at both calc and ciss240 notes and do all impending homework.
+- [ ] *Morning creativity*
+  + /Feeling creative or smart?/
+    I'm feeling smart, realized during work the equation for percents of numbers:
+
+    a times p = b
+
+    a being the number that is percent p of b.
+
+    5 times 0.2 = 1
+
+    AKA 20% of 5 is 1.
+
+- [X] Start planning today and use agenda to help
+- [X] git push before leaving
+* TODO [#A] Today's goals [41%] [5/12]
+:PROPERTIES:
+DEADLINE: <2023-11-11 Sat>
+:END:
+- [X] Prayer rope/book
+- [ ] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The House of the Dead
+starting page: 42
+ending page  : 60
+study/read   : read
+- [X] call a friend/family member
+- [X] Duolingo
+- [X] Practice touch typing
+- [X] create TODOs for agenda
+- [ ] Do all safeguard for the souls
+- [ ] do ciss240 notes
+- [ ] do all python assignments
+- [ ] finish calc homework
+- [ ] nature walk
+   keep thinking about when nature walk is going to happen so we can start planning writing that essay
+- [ ] ask security if they can help you find your outfit for track
+* TODO Evening Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-11 Sat>
+:END:
+- [X] Make sure all daily goals are met 
+- [X] Mobility/Isometrics
+  + /What did you do?/
+    Just some toe walks.
+- [X] *Evening reflection*
+  + /How's it all going?/
+    It's going well, I'm growing in God and discipline, and I want to continue this and further improve this. Glory be to God.
+- [X] *Evening thanks*
+  + /How've you been blessed today?/
+    At work I was blessed by my coworkers and seeing little children, which reminded me of Matthew 19:14
+
+    But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
+
+    Then I went to Church, where I experienced heavenly, incorruptible blessedness, and I will experience tomorrow again as well, God willing.
+
+- [X] *Evening creativity*
+  + /What do you want to express?/
+    With Christ, despair turns to hope.
+    With Christ, enslavement turns to freedom.
+    With Christ, pride turns to humility.
+    With Christ, hate turns to love.
+- [X] Hygiene
+- [X] Prayer
+- [X] 7:30+ hours of sleep

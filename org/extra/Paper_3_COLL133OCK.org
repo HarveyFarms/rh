@@ -1,0 +1,69 @@
+#+TITLE: Paper 3 for COLL-133-OCK (foundations)
+#+AUTHOR: Ryan Harvey
+#+DATE: <2023-11-21 Tue>
+* Schedule for this paper
+** Day 1
+How you found the organism (where, when, and more). Present this as a story
+using concrete details and images (in the manner of a personal essay).
+** Day 2
+research animal and put basic details, write more tmrw
+** Day 2 cont.
+Details on the organism. What does it look (and if relevant, sound) like?
+** Day 3
+The app you used to identify the organism, including a discussion of how the app
+works. What was it like to use this app to identify your organism?
+** Day 4
+Research on the organism—distribution, behavior, conservation status, and
+anything else you are able to find out and consider relevant.
+** Day 5
+Conclude the paper by discussing your thoughts and feelings about the organism
+now that you have worked hard to learn about it.
+** Day 6
+Review the paper before turning in
+* How I found the organism
+In the middle of November on a random afternoon I set out on a hike. I went on a familiar trail North of Cosmo Park in Columbia, Missouri. My plan was to go in, find an animal, then head out, but the trail had me stay for hours. First, I walked a trail that dove right into a forest. I scared every living thing with my careless steps. As I was scaring the birds that I so badly wanted a picture of, I would try to chase the down which would make them run away even further. This wouldn't work. I changed my pace to a slower walk, but I was still trying to chase the birds down, and get a close-up picture of them. I realized my strategy wouldn't work. At this time, a group of hikers were coming in behind me, so I exited this forest trail as fast as I could because I was looking like a dork trying to get a picture of birds that were constantly running away from me. The next part of my journey on these trails restarted once I looped back around to the beginning of the trail path. I started again, not worried about chasing birds, but being quiet and taking pictures as birds would come by or as I would come by, on light feet. The problem was, I couldn't find any birds now! There would be one every now and again but not in any good shape for a picture! And as I continued my walk--over an hour in already--it seemed the amount of birds in the world were decreasing by the moment. I was hopeless. Instead of giving up, I continued on the trail and came upon a cliff. I looked over this cliff with wonder. And for the next thirty minutes, I went to all sides of the cliff and reached the bottom, taking it all in as a joyous experience. I decided to head back after this, I was happy with coming to the trail, even if my initial plan didn't go as I intended it to go. As I walked back, I happened upon another forest. As I walked in, I heard birds all around me, high in the trees. I knew pictures of them weren't possible, as they hid so perfectly it seemed they were invisible. They were only blessing me with their harmonious chirps, so I decided to download the Merlin app, which I thought would be of excellent use. I recorded multiple ten second durations of what I was hearing. While I was recording, I stood in awe. Everything was still and calm in my mind, though sounds were vibrating all around me and trees were raging against the wind. Merlin recognized one bird in particular, the American Robin. I also noticed this bird, with its high-pitched chirps. They were all around me, and though I didn't see them, I knew the Merlin app was correct in finding this bird. After a long journey of bird-finding strategies and emotional highs and lows, I finally found my bird, the American Robin.
+* Details on the American Robin
+** pre-research
+- fairly large songbird with a large, round body, long legs, and fairly long tail.
+- They're the largest North American Thrushes, and their profile offers a good chance to learn the basic
+  shape of most thrushes. They make a good reference for comparison among other birds too...
+- Gray-brown color with warm orange underpants and dark heads. White patch can be seen on lower belly.
+- Industrious birds that bound across lawns or stand erect, beak tilted forward, to survey their environs.
+  In fall and winter they form large flocks and gather in trees to roost and eat berries.
+- They are common across the continent in gardens, yards, fields, pastures, etc.
+- the *sound* of the bird is often described as /cheerily/, /cheer up/, /cheer up/, /cheerily/, /cheer up/
+** paragraph 
+The American Robin is a fairly large songbird of a gray-brown color with warm orange underpants and dark heads. White patches can be see on their lower belly. They have large, round bodies with long legs and a fairly long tail. The sound of the American Robin is often described as /cheerily/, /cheer up/, /cheer up/, /cheerily/, /cheer up/.
+* Merlin Bird App  
+I used the app called the Merlin Bird ID. This app sound records from your phone, and through breakthrough machine learning technology, it identifies the bird(s) around you. Using this app greatly benefited my nature walk, as I didn't have to get menacingly close to the birds that I wanted to identify; it allowed me to be only as close as needed for the app to be able to hear the chirps of the birds. The accuracy of the app is outstanding, I recorded multiple times and though I picked up other birds that were also chirping, the app was consistently picking up the American Robin. I would recommend this app to anyone that is curious enough to identify what bird they're hearing without needing to see the bird.
+* Research on the American Robin 
+** resources
+Will combine all basic description of the birds together, and cite each accordingly.
+But for more specifics, I will divide each to a certain source.
+
+1) https://www.allaboutbirds.org/guide/American_Robin/overview
+   - Finding this bird
+     The American Robin can be sighted in lawns or in a nearby park eating on earthworms. They are also commonly found via their frequent singing, which contains "clear, lilting musical whistles."
+2) https://www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/American-Robin
+   - Range
+   - Diet
+3) https://kids.nationalgeographic.com/animals/birds/facts/american-robin
+   Will use simple descriptors from this child-like website such as:
+   - What they eat
+   - What eats them
+   - How they behave
+** Structure of this section
+1) Describing the bird referencing all sources
+2) Common facts:
+   + Range (B)
+   + Finding the bird (A)
+   + Diet (B)
+   + How they behave (C)
+   + What eats them (C)
+
+** Write out 
+The American Robin is often characterized as the "early bird" that "gets the worm." This is because they are so common in North America and reside in almost all environments trying to pull worms out of the ground. The unique identifier of an American Robin is the male American Robin, who portrays all of the traits that make up what we call an American Robin. The males have distinct rust-colored feathers on their chest, a yellow bill, a black head, white outlines around their eyes, and they're the type of American Robin to sing the "cheerily, cheer up" song ("American Robin." National Wildlife Federation). Though the male American Robins represent their species the best, both the male and female American Robin work together and play a part in how expansive the American Robin range is. "American Robins live in woodlands, suburban backyards, parks, and grasslands with shrubs. Robins can be found year-round in the continental United States, and some migrate north to spend summers in Alaska" ("American Robin." National Wildlife Federation). They are also said to be the most widespread species of thrush in the United States ("American Robin." National Wildlife Federation). They are everywhere, but how does one find this bird? One should look around in their lawn for a bird stalking earthworms and most likely it will be an American Robin ("American Robin Overview"). It is well-known now that American Robins eat earthworms, but do they eat anything else? How do they catch their prey? The National Wildlife Federation states that American Robins are usually searching for food in flocks, where their flexible diet comes in to play, allowing them to eat anything from insects to berries, depending on the season and availability, of course ("American Robin."). Alongside their diet, the American Robin behavior is also telling of how they're able to procreate and expand their species far and wide across the continent. Their behavior consists of being active in the daytime, which allows them to search for food of all sorts easily. The American Robin is also advantaged in how quickly the American Robin flies after it hatches, which is around 2 weeks. Alongside this, the female American Robin is able to lay three to five blue eggs at a time ("American Robin." Animals). Finally, the predators of the American Robin include snakes, hawks, cats; they feast on the adult American Robin. And the predators of American Robin blue eggs are squirrels, blue jays, crows, and ravens ("American Robin." Animals).
+* Citing sources
+- (A) “American Robin Overview, All about Birds, Cornell Lab of Ornithology.” Overview, All About Birds, Cornell Lab of Ornithology, www.allaboutbirds.org/guide/American_Robin/overview. Accessed 26 Nov. 2023. 
+- (B) “American Robin.” National Wildlife Federation, www.nwf.org/Educational-Resources/Wildlife-Guide/Birds/American-Robin. Accessed 26 Nov. 2023. 
+- (C) “American Robin.” Animals, kids.nationalgeographic.com/animals/birds/facts/american-robin. Accessed 26 Nov. 2023. 

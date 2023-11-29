@@ -1,0 +1,76 @@
+* TODO Morning Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-27 Mon>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    Will go to weights, probably cleans and such
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I like waking up early, gives me time to pray even before I have weights at 6 A.M.
+    Also my alarm as Christos Anesti is a life saver, it reminds me that I should listen to
+    holy music, for it is life-giving and directs me on the path of Christ.
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    To simply get work done, pomodoro technique style
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    Nope, I'm going to need to be smart for my math quiz though, which I'll study over beforehand.
+- [X] Start planning today and use agenda to help
+  make sure you take everything you need for the day
+* TODO [#A] Today's goals [75%] [9/12]
+:PROPERTIES:
+DEADLINE: <2023-11-27 Mon>
+:END:
+- [X] git push before leaving 
+- [X] Prayer rope/book
+- [X] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The House of the Dead
+starting page: 126
+ending page  : 139
+study/read   : read
+- [X] call a friend/family member
+- [X] Duolingo
+- [X] Practice touch typing
+- [X] create TODOs for agenda
+- [X] Hearnes center practice
+- [X] pygame midterm *FINISHED*
+
+- [ ] foundations paper 3
+- [ ] work on some ciss240 quizzes + a12
+- [ ] look more into and possibly start othello or pygame project
+
+* TODO Evening Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-27 Mon>
+:END:
+- [X] Make sure all daily goals are met 
+- [X] Mobility/Isometrics
+  + /What did you do?/
+    Did practice, I won't do much. Instead I'll rest until tomorrow's test.
+- [X] *Evening reflection*
+  + /How's it all going?/
+    It's going well. I didn't get all of my to-dos done but I finished a big assignment,
+    so now I can focus on other assignments without being worried about the pygame assigment.
+- [X] *Evening thanks*
+  + /How've you been blessed today?/
+    God blessed me with an able body to practice today. God also blessed me with fellowship of friends
+    such as Jace, Lathon, Taylor, Prophet, Marc, Sheldon, Cameron, Noah, etc.
+    God blessed me by granting me to struggle for the fast, which I will continue to do for Him, and
+    to better prepare myself for Him.
+- [X] *Evening creativity*
+  + /What do you want to express?/
+    I'm setting big goals for myself in the future,
+    will I live up to these goals?
+
+    Where will I be in the next year, God? Only you know.
+
+    I'll trust in You, for You will keep me, and I shall
+    call you my Shepherd all the days of my life. Amen.
+- [X] Hygiene
+- [X] Prayer
+- [X] 7:30+ hours of sleep

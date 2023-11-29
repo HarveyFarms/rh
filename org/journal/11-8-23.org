@@ -1,0 +1,87 @@
+* DONE Morning Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-08 Wed>
+:END:
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength
+  + /What did you do?/ 
+    practice at the track, messed up my achilles, I think though...
+- [X] *Morning reflection*
+  + /What are your thoughts?/
+    I feel like schoolwork is going to drown me so these next couple of days I have to make it my goal to
+    knock out schoolwork left and right and get projects started while also finishing notes for certain classes,
+    and still learning touch typing...
+- [X] *Morning intention*
+  + /Overall focus of today?/
+    To do what I mentioned above...
+- [X] *Morning creativity*
+  + /Feeling creative or smart?/
+    It's not even morning and I'm doing this checklist so I'm feeling something alright
+- [X] Start planning today
+* DONE [#A] Today's goals [100%] [11/11]
+:PROPERTIES:
+DEADLINE: <2023-11-08 Wed>
+:END:
+- [X] Prayer rope/book
+- [X] Read/Note 10 pages or Read 20 pages of book
+  - Input book(s) and all info here:
+book         : The Orthodox Faith, Life, and Worship
+starting page: 171
+ending page  : 200
+study/read   : study
+- [X] call a friend/family member
+- [X] Duolingo
+- [X] Practice touch typing
+- [X] Redo python assignment again
+- [X] make progress on a10 for ciss240
+- [X] Think and work on pygame project
+- [X] finish and finalize calc 1 homework
+- [X] don't play too much at ping pong club, work on homework mainly
+  failed lol
+- [X] plug in mouse and laptop before going to sleep
+
+* TODO Foundations essay nature walk
+:PROPERTIES:
+SCHEDULED: <2023-11-11 Sat> 
+:END:
+* TODO REDO PYTHON ASSIGNMENT
+:PROPERTIES:
+DEADLINE: <2023-11-09 Thu>
+:END:
+* DONE Evening Routine [100%] [8/8]
+:PROPERTIES:
+DEADLINE: <2023-11-08>
+:END:
+- [X] Make sure all daily goals are met 
+- [X] Mobility/Isometrics
+  + /What did you do?/
+    just stretched calves after disastrous practice.
+- [X] *Evening reflection*
+  + /How's it all going?/
+    It's not going the best, practice ending early and fear of achilles/ankle doesn't make me feel the best.
+    Yet somehow I feel ontop of the world when playing ping pong, hopping all over the place, that brought me joy.
+    Overall, I was pretty productive today so I'm happy with that, I just hope I can get started on my projects in
+    a reasonable amount of time and be able to get them all done and have them well done aswell. 
+- [X] *Evening thanks*
+  + /How've you been blessed today?/
+    Friends again I'd say. Though college is a scary world when I really think about it, these people don't make it half
+    bad, I thank God for them.
+- [X] *Evening creativity*
+  + /What do you want to express?/
+
+    Sleep, the one act that takes one from the world.
+    Even one who is attached and loves the world.
+    I think God gave us sleep to signify things,
+    how daily deeds lead us throughout the day,
+    and all of the sudden it starts slowing down
+    and coming to an end, a temporary death.
+    Sleep also tells of how we are attached to
+    wordly things when we wake up, like how I think
+    of unsolvable math equations or when we want to
+    stay in bed and be slothful.
+    
+- [X] Hygiene
+- [X] Prayer
+- [X] 7:30+ hours of sleep
