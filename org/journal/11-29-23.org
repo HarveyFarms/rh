@@ -28,7 +28,7 @@ DEADLINE: <2023-11-29 Wed>
     the height of a statue subtracting the top from the bottom? No, that would give you a negative answer,
     though the answer would be correct if it was an absolute value, you would subtract the bottom from the
     top.
-* TODO [#A] Today's goals [61%] [8/13]
+* TODO [#A] Today's goals [100%] [13/13]
 :PROPERTIES:
 DEADLINE: <2023-11-29 Wed>
 :END:
@@ -42,15 +42,15 @@ book         : The House of the Dead
 starting page: 147
 ending page  : 165
 study/read   : read
-- [ ] call a friend/family member
+- [X] call a friend/family member
 - [X] Duolingo
 - [X] Practice touch typing
 - [X] create TODOs for agenda
 - [X] math hmwk
-- [ ] ciss240 project
-- [ ] pygame project
-- [ ] mobility
-- [ ] practice
+- [X] ciss240 project - made good progress on this
+- [X] pygame project
+- [X] mobility
+- [X] practice
 * TODO Evening Routine [0%] [0/8]
 :PROPERTIES:
 DEADLINE: <2023-11-29 Wed>
