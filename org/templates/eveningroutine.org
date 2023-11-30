@@ -12,5 +12,6 @@ DEADLINE: %t
 - [ ] *Evening creativity*
   + /What do you want to express?/
 - [ ] Hygiene
+- [ ] Make sure everything is plugged in
 - [ ] Prayer
 - [ ] 7:30+ hours of sleep

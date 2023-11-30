@@ -13,7 +13,7 @@ DEADLINE: <2023-11-30 Wed>
   + /Overall focus of today?/
 - [ ] *Morning creativity*
   + /Feeling creative or smart?/
-* TODO [#A] Today's goals [0%] [0/8]
+* TODO [#A] Today's goals [11%] [1/9]
 :PROPERTIES:
 DEADLINE: <2023-11-30 Wed>
 :END:
@@ -27,7 +27,7 @@ DEADLINE: <2023-11-30 Wed>
 - [ ] Duolingo
 - [ ] Practice touch typing
 - [ ] create TODOs for agenda
-- [ ] finish up and turn in paper 3 foundations
+- [X] finish up and turn in paper 3 foundations
 * TODO Evening Routine [0%] [0/8]
 :PROPERTIES:
 DEADLINE: <2023-11-30 Wed>
@@ -44,3 +44,7 @@ DEADLINE: <2023-11-30 Wed>
 - [ ] Hygiene
 - [ ] Prayer
 - [ ] 7:30+ hours of sleep
+* TODO python exam
+:PROPERTIES:
+DEADLINE: <2023-12-13 Wed 10:00>
+:END:

@@ -132,7 +132,7 @@
 (require 'org-id)
 (setq org-id-link-to-org-use-id 'create-if-interactive)
 
-(setq org-journal-dir "~/gh/myorg/journal/")
+(setq org-journal-dir "~/RH/org/journal/")
 
 (setq global-auto-revert-non-file-buffers t)
 (setq auto-revert-verbose nil)
@@ -141,25 +141,25 @@
 (setq org-capture-templates
       '(("e" "Evening routine"
 	 plain (here)
-	 (file "~/gh/myorg/templates/eveningroutine.org"):immediate-finish t)
+	 (file "~/RH/org/templates/eveningroutine.org"):immediate-finish t)
       ("m" "Morning routine"
 	 plain (here)
-	 (file "~/gh/myorg/templates/morningroutine.org"):immediate-finish t)
+	 (file "~/RH/org/templates/morningroutine.org"):immediate-finish t)
       ("b" "Book entry"
 	 plain (here)
-	 (file "~/gh/myorg/templates/book.org"):immediate-finish t)
+	 (file "~/RH/org/templates/book.org"):immediate-finish t)
       ("t" "TODO schedule and deadline"
 	 plain (here)
-	 (file "~/gh/myorg/templates/TODOboth.org"):immediate-finish t)
+	 (file "~/RH/org/templates/TODOboth.org"):immediate-finish t)
       ("d" "TODO deadline"
 	 plain (here)
-	 (file "~/gh/myorg/templates/TODOdeadline.org"):immediate-finish t)
+	 (file "~/RH/org/templates/TODOdeadline.org"):immediate-finish t)
       ("s" "TODO schedule"
 	 plain (here)
-	 (file "~/gh/myorg/templates/TODOschedule.org"):immediate-finish t)
+	 (file "~/RH/org/templates/TODOschedule.org"):immediate-finish t)
       ("j" "deadline today"
          plain (here)
-         (file "~/gh/myorg/templates/propertydeadlinetoday.org"):immediate-finish t)))
+         (file "~/RH/org/templates/propertydeadlinetoday.org"):immediate-finish t)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -179,7 +179,7 @@
 (setq org-todo-keywords
       '((sequence "TODO" "|" "DONE")))
 
-(setq org-agenda-files '("~/gh/myorg/journal/"))
+(setq org-agenda-files '("~/RH/org/journal/"))
 
 (setq org-deadline-warning-days 6)
 
@@ -223,6 +223,7 @@
   (elscreen-start))
 
 ;; Set up keybindings
+(global-set-key (kbd "C-x 8") 'elscreen-previous)
 (global-set-key (kbd "C-x 9") 'elscreen-next)
 (global-set-key (kbd "C-x 0") 'elscreen-create)
 (global-set-key (kbd "C-x +") 'elscreen-goto)
