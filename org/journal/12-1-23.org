@@ -1,18 +1,39 @@
-* TODO Morning Routine [0%] [0/7]
+* TODO Morning Routine [100%] [7/7]
 :PROPERTIES:
 DEADLINE: <2023-12-01 Fri>
 :END:
-- [ ] Prayer/Lectionary/Lives of the Saints
-- [ ] Hygiene
-- [ ] Made bed
-- [ ] Mobility/Strength ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+- [X] Prayer/Lectionary/Lives of the Saints
+- [X] Hygiene
+- [X] Made bed
+- [X] Mobility/Strength ideas: [[~/kettlebell.org][w/kettlebell]] [[~/mobility.org][w/o kettlebell]]
   + /What did you do?/ 
-- [ ] *Morning reflection*
+    the w/o kettlebell mobility
+- [X] *Morning reflection*
   + /What are your thoughts?/
-- [ ] *Morning intention*
+    I think I need to get some sleep.
+
+    My problem is that I put off going to sleep because I
+    know I'll have to pray before I sleep, so I procrastinate
+    because the devil convinces me that praying is not worth
+    my time and I can do other things, etc. when that cannot
+    be further from the truth.
+
+    I should purge this idea, pray to God, and get good sleep.
+- [X] *Morning intention*
   + /Overall focus of today?/
-- [ ] *Morning creativity*
+    Finish up some assignments, start some assignments/projects.
+    Take it slightly easy today. Eat well for meet tmrw.
+- [X] *Morning creativity*
   + /Feeling creative or smart?/
+    The devil is scared that I might follow the One True God.
+    So he, with all of his might, tempts me to stay away from
+    the One who cast him out for his evil will.
+
+    God allows this, that I might grow in Him, and I believe it's
+    working. Nevertheless, I shall continue to take up my cross
+    and not work alone, but with God (and His all-powerful name) on my side
+    and with my Church community, that we might grow to be godly and
+    ever-pleasing to God the Father.
 * TODO [#A] Today's goals [0%] [0/8]
 :PROPERTIES:
 DEADLINE: <2023-12-01 Fri>
