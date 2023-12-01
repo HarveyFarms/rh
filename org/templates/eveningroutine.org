@@ -3,7 +3,7 @@
 DEADLINE: %t
 :END:
 - [ ] Make sure all daily goals are met %?
-- [ ] Mobility/Isometrics
+- [ ] Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
   + /What did you do?/
 - [ ] *Evening reflection*
   + /How's it all going?/

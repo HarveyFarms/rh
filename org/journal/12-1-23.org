@@ -1,6 +1,6 @@
-* TODO Morning Routine [0%] [0/8]
+* TODO Morning Routine [0%] [0/7]
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-01 Fri>
 :END:
 - [ ] Prayer/Lectionary/Lives of the Saints
 - [ ] Hygiene
@@ -13,9 +13,9 @@ DEADLINE: %t
   + /Overall focus of today?/
 - [ ] *Morning creativity*
   + /Feeling creative or smart?/
-* TODO [#A] Today's goals [0%] [0/3]
+* TODO [#A] Today's goals [0%] [0/8]
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-01 Fri>
 :END:
 - [ ] Start planning today and use agenda to help
 - [ ] git push before leaving 
@@ -27,3 +27,20 @@ DEADLINE: %t
 - [ ] Duolingo
 - [ ] Practice touch typing
 - [ ] create TODOs for agenda
+* TODO Evening Routine [0%] [0/9]
+:PROPERTIES:
+DEADLINE: <2023-12-01 Fri>
+:END:
+- [ ] Make sure all daily goals are met 
+- [ ] Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+  + /What did you do?/
+- [ ] *Evening reflection*
+  + /How's it all going?/
+- [ ] *Evening thanks*
+  + /How've you been blessed today?/
+- [ ] *Evening creativity*
+  + /What do you want to express?/
+- [ ] Hygiene
+- [ ] Make sure everything is plugged in
+- [ ] Prayer
+- [ ] 7:30+ hours of sleep
