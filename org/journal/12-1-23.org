@@ -34,37 +34,72 @@ DEADLINE: <2023-12-01 Fri>
     and not work alone, but with God (and His all-powerful name) on my side
     and with my Church community, that we might grow to be godly and
     ever-pleasing to God the Father.
-* TODO [#A] Today's goals [63%] [7/11]
+* TODO [#A] Today's goals [90%] [10/11]
 :PROPERTIES:
 DEADLINE: <2023-12-01 Fri>
 :END:
 - [X] Start planning today and use agenda to help
 - [X] git push before leaving 
   make sure you take everything you need for the day
-- [ ] Prayer rope/book
-- [ ] Read/Note 10 pages or Read 20 pages of book
+- [X] Prayer rope/book
+* TODO [ ] Read/Note 10 pages or Read 20 pages of book 
   - Input book(s) and all info here:
-- [ ] call a friend/family member
+**** The House of the Dead
+***** starting page: 183
+***** ending page  : 188
+***** study/read   : read
+- [X] call a friend/family member
 - [X] Duolingo
 - [X] Practice touch typing
 - [X] create TODOs for agenda
 - [X] finish a12
-- [ ] start pygame (find pictures for game and get it started)
+- [X] start pygame (find pictures for game and get it started)
 - [X] watch math lesson and do some math hmwk
-* TODO Evening Routine [0%] [0/9]
+* TODO Evening Routine [100%] [9/9]
 :PROPERTIES:
 DEADLINE: <2023-12-01 Fri>
 :END:
-- [ ] Make sure all daily goals are met 
-- [ ] Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+- [X] Make sure all daily goals are met
+- [X] Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
   + /What did you do?/
-- [ ] *Evening reflection*
+    kettlebell mobility
+- [X] *Evening reflection*
   + /How's it all going?/
-- [ ] *Evening thanks*
+    It's going well, some days I just learn a lot of things all over the place
+    even if necessarily they aren't from classes. I'm learning a lot in college
+    and it's not just college things.
+- [X] *Evening thanks*
   + /How've you been blessed today?/
-- [ ] *Evening creativity*
+    God has blessed me with fellowship among my CS people, He has also kept me,
+    even though I didn't fast today. Praised be His name. For always He gives me
+    more than I'm worthy of.
+- [X] *Evening creativity*
   + /What do you want to express?/
-- [ ] Hygiene
-- [ ] Make sure everything is plugged in
-- [ ] Prayer
-- [ ] 7:30+ hours of sleep
+    I believe in one God, the Father Almighty, Creator of Heaven and earth, and of
+    all things visible and invisible.
+
+    And in one Lord, Jesus Christ, the only-begotten Son of God, begotten of the Father
+    before all ages, Light of Light. True God of True God. Begotten not created, of one
+    essence with the Father, through Whom all things are made.
+
+    Who for us men and for our salvation came down from Heaven and was incarnate of the Holy
+    Spirit and the Virgin Mary and became Man. He was crucified for us under Pontius Pilate,
+    He suffered and was buried. And He rose on the third day, according to the Scriptures.
+
+    He ascended into Heaven and is seated at the right hand of the Father, His Kingdom shall
+    have no end.
+
+    And in the Holy Spirit, the Lord, the Creator of Life, who proceeds from the Father. Who
+    together with the Father and the Son is worshipped and glorified. Who spoke through the
+    prophets.
+
+    In One, Holy, Catholic and Apostolic Church.
+    I confess one Baptism for the remission of sins.
+    I look for the resurrection of the dead, and the
+    life of the age to come. Amen.
+- [X] Hygiene
+- [X] Make sure everything is plugged in
+- [X] Prayer
+- [X] 7:30+ hours of sleep 
+[[~/CC/cs145/ryan_harvey_pygame_project/character.png]]
+[[id:read][click]]
