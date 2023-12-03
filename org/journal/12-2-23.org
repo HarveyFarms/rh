@@ -1,0 +1,85 @@
+* DONE Morning Routine 
+:PROPERTIES:
+DEADLINE: <2023-12-02 Sat>
+:END:
+** DONE Prayer/Lectionary/Lives of the Saints
+** DONE Hygiene
+** DONE Made bed
+** DONE Mobility/Strength ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+*** /What did you do?/ 
+Did some mobility with kettlebell in the morning
+** DONE Morning reflection
+*** /What are your thoughts?/
+I'm a little anxious for my meet today, I'm not sure how good I'll perform. I'm scared
+that I'll underperform and that will discourage me for future meets/practices. I shall
+lay aside these thoughts that do me no good, and instead keep loving the Lord, and perform
+as best as I can that gives Him all of the glory.
+** DONE Morning intention
+*** /Overall focus of today?/
+Focus is to try and get some work done, but not be hyperfocused on it.
+Instead, have fun at the meet, perform well, and see my family that is coming to watch me.
+Glory to You, O God.
+** DONE Morning creativity
+*** /Feeling creative or smart?/
+I plan to start working on pygame/reversi today, and for pygame I'm going to be
+creative with my layout and all of the images I make for the game. It's going to
+be fun. I just can't wait till I have python done with so I can focus more on C++
+and maybe come back to python at a later time. I need to solve problems first with
+something like C++, so I have a general understanding of things/formulas before it's
+heavily simplified with Python.
+* TODO [#A] Today's goals
+:PROPERTIES:
+DEADLINE: <2023-12-02 Sat>
+:END:
+** DONE Start planning today and use agenda to help
+** DONE git push before leaving 
+*** make sure you take everything you need for the day
+** Prayer rope/book
+** DONE Read/Note 10 pages or Read 20 pages of book
+*** Input book(s) and all info here:
+**** The House of the Dead
+***** starting page: 188
+***** ending page  : 205
+***** study/read   : read
+** DONE call a friend/family member
+** DONE Duolingo
+** DONE Practice touch typing
+** DONE create TODOs for agenda
+** pygame project
+goal today is to start placing all of my objects on the screen and be able to move my character
+also make classes for character, enemy, and friend. And start outlining functions.
+** ciss240 reversi project
+** Some math homework
+I can get it on my supernote before I leave the meet so I can do it on the bus.
+It seems my hotspot doesnt work on the bus so this is the alternative I have until
+I figure that out.
+* TODO Evening Routine
+:PROPERTIES:
+DEADLINE: <2023-12-02 Sat>
+:END:
+** Make sure all daily goals are met 
+** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+*** /What did you do?/
+** Evening reflection
+*** /How's it all going?/
+** Evening thanks
+*** /How've you been blessed today?/
+** Evening creativity
+*** /What do you want to express?/
+** Hygiene
+** Make sure everything is plugged in
+** Prayer
+** 7:30+ hours of sleep
+* TODO foundations presentation
+:PROPERTIES:
+DEADLINE: <2023-12-05 Tue>
+:END:
+* TODO Super revision day (before finals)
+:PROPERTIES:
+DEADLINE: <2023-12-09 Sat>
+:END:
+
+High importance, need to study this week and even during finals week
+review for Calc, ciss240 and ciss145. If confident in all of these
+then look at pointer notes for ciss240 and starting leaning away from
+python and start focusing only on ciss240.
