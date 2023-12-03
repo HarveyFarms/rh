@@ -27,7 +27,7 @@ be fun. I just can't wait till I have python done with so I can focus more on C+
 and maybe come back to python at a later time. I need to solve problems first with
 something like C++, so I have a general understanding of things/formulas before it's
 heavily simplified with Python.
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-02 Sat>
 :END:
@@ -45,11 +45,11 @@ DEADLINE: <2023-12-02 Sat>
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
-** pygame project
+** DONE pygame project
 goal today is to start placing all of my objects on the screen and be able to move my character
 also make classes for character, enemy, and friend. And start outlining functions.
-** ciss240 reversi project
-** Some math homework
+** TODO ciss240 reversi project
+** DONE Some math homework
 I can get it on my supernote before I leave the meet so I can do it on the bus.
 It seems my hotspot doesnt work on the bus so this is the alternative I have until
 I figure that out.
@@ -57,16 +57,42 @@ I figure that out.
 :PROPERTIES:
 DEADLINE: <2023-12-02 Sat>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
 *** /What did you do?/
-** Evening reflection
+will do some kettlebell things when I get back to my dorm
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+With this new setup I have for org-journal I can make headers "DONE" and
+if I don't finish something, I can leave a "TODO" on it. so I
+can come back to it tomorrow.
+
+I need to have some focus on track. I did alright today but I'm afraid that
+I will slip away from the sport. These last couple days I've been doing well on
+some little mobility exercises but maybe I need to find a time throughout the week
+to go to the gym and get some good ATG work in, to cover all needed areas and then
+maximize good sprinting/workouts at practice (focus/performance-wise)
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Evening creativity
+What a blessed day filled with lovely people in my life.
+My mom, dad, laura, grandma and grandpa Harvey came down
+to see me run track today, in which I ran a 52.87
+and then in the 4x4 I ran a 53.7
+
+My teammates, my coaches, and all who support me behind the
+scenes and even feed me, thank you God for them. Have mercy
+on them and help me on my path to repentance that I may live
+a better life in You and serve back those who serve me.
+** DONE Evening creativity
 *** /What do you want to express?/
-** Hygiene
+Every day, I want to improve in God. 
+But I feel that I don't...
+I feel the same old person I was years ago.
+I don't see any difference.
+Maybe God allows this, so that
+we may repent and never forget our
+wrongdoings against Him.
+** DONE Hygiene
 ** Make sure everything is plugged in
 ** Prayer
 ** 7:30+ hours of sleep
