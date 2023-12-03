@@ -34,7 +34,7 @@ DEADLINE: <2023-12-02 Sat>
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
+** DONE Prayer rope/book
 ** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
 **** The House of the Dead
@@ -48,12 +48,12 @@ DEADLINE: <2023-12-02 Sat>
 ** DONE pygame project
 goal today is to start placing all of my objects on the screen and be able to move my character
 also make classes for character, enemy, and friend. And start outlining functions.
-** TODO ciss240 reversi project
+** TODO _ciss240 reversi project_
 ** DONE Some math homework
 I can get it on my supernote before I leave the meet so I can do it on the bus.
 It seems my hotspot doesnt work on the bus so this is the alternative I have until
 I figure that out.
-* TODO Evening Routine
+* DONE Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-02 Sat>
 :END:
@@ -93,9 +93,9 @@ Maybe God allows this, so that
 we may repent and never forget our
 wrongdoings against Him.
 ** DONE Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
 * TODO foundations presentation
 :PROPERTIES:
 DEADLINE: <2023-12-05 Tue>
