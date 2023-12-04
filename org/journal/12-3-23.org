@@ -38,27 +38,27 @@ I will also make those in Heaven cry over me, the sheep who is lost and cannot b
 I have to pray continually to the Almighty True God. 
 
 "Pray in the Spirit at all times and on every occasion. Stay alert and be persistent in your prayers _for all believers everywhere_" Ephesians 6:18
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-03 Sun>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Prayer rope/book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
-** call a friend/family member
+**** The House of the Dead
+***** starting page: 207
+***** ending page  : 223
+***** study/read   : read
+** DONE call a friend/family member
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
-** CS145 pygame
-** M201 homework
-** CS240 project
+** DONE CS145 pygame
+** DONE M201 homework
+** DONE CS240 project
 * TODO Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-03 Sun>
