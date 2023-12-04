@@ -47,7 +47,7 @@ DEADLINE: <2023-12-03 Sun>
 *** make sure you take everything you need for the day
 ** DONE Prayer rope/book
 ** DONE Read/Note 10 pages or Read 20 pages of book
-*** Input book(s) and all info here:
+*** Input book(s) and all info here: 
 **** The House of the Dead
 ***** starting page: 207
 ***** ending page  : 223
@@ -59,20 +59,45 @@ DEADLINE: <2023-12-03 Sun>
 ** DONE CS145 pygame
 ** DONE M201 homework
 ** DONE CS240 project
-* TODO Evening Routine
+* DONE Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-03 Sun>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
 *** /What did you do?/
-** Evening reflection
+just some easy kettlebell mobility
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+I have the urge to say "it's going alright" or "well" or whatever.
+But I sin constantly and my relationships around me are getting shattered.
+I know to trust in the Lord, but I don't even know if I can trust in myself to do that.
+
+Baptism is a need, and living by Christ's commandments is also a need. Theosis is something
+I want to strive for and I feel I need to strive for to achieve salvation and eternal love
+with the Creator of all, our Creator.
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Evening creativity
-*** /What do you want to express?/
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+I've been blessed by solitude, but at the same time I used this solitude to do horrible things.
+Solitude benefitted me greatly, until I used it for vain pleasure.
+
+I want to rid of my phone and unworthy distractions (that my phone is amazing at doing)
+
+I will see about how I go about this.
+** DONE Evening creativity
+*** /What do you want to express?/                        
+here are all of the discrete math symbols I learned today:
+[[~/Pictures/Screenshots/ez.png]]
+along with others such as conditional statements (p -> q) p therefore q, or q is the necessary precondition for p
+and biconditional statements (p <-> q) p if and only if q, if p then q, and vice versa.
+
+conditional statements can be arranged in inverse, contrapositive and converse notation. Only contrapositive always
+retains truth value with the original (p -> q) conditional statement (they're equivalent). And inverse and converse
+are also equivalent.
+
+ps. inline images in org mode can't have a header name in the format [[path/to/file][header]\]
+** DONE Hygiene                                            
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
