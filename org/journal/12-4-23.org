@@ -25,14 +25,14 @@ determing bitwise operations works as so: (true = 1, false = 0)
 bitwise OR takes the true over the false
 bitwise AND takes the false over the true
 bitwise XOR is true if and only if the bits are true and false, exclusive or.
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-04 Mon>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
+** DONE Prayer rope/book
 ** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
 **** The House of the Dead
@@ -43,7 +43,7 @@ DEADLINE: <2023-12-04 Mon>
 ***** starting page: 60 
 ***** ending page  : 80
 ***** study/read   : study
-** call a friend/family member
+** DONE call a friend/family member
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
@@ -52,26 +52,51 @@ should've checked that my PHIL 101 conflicts with CS350
 ** +Talk to those in Calc for calc-based physics+
 ** +Turn in sheet if 5 sign it (maybe 4)+
 didn't have math today, I will continue asking
-** ciss240 reversi algorithm
-** calc homework
+** DONE ciss240 reversi algorithm
+** _calc homework_
+will do tmrw, didn't have class today.
+need to study up on 5.2 to make sure I'm
+ready for quiz wednesday
 ** DONE pygame project
 can't figure something out, despairing as of now ... 
 
 when i come back to this, check variable names and check for spelling errors
-* TODO Evening Routine
+* DONE Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-04 Mon>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
 *** /What did you do?/
-** Evening reflection
+simple kettlebell mobility for lower body, had a good upper body workout at the gym today
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+I feel kind of sad about life. It seems there's so much evil that it's hopeless. I know this
+is a temporary feeling but just tonight I was talking to Ava of how I love Mr. Higgins anyway,
+even though he assigns her a lot of homework and she went off on me. Of course I forgive her,
+but I just want to talk to her about true, core values before we continue on at all in the relationship.
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Evening creativity
+I've been blessed with friends who are better than me.
+With teachers who don't deserve me, with families who
+show me a better example than what I can return them.
+
+Glory to God for all things.
+** DONE Evening creativity
 *** /What do you want to express?/
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+My God, My God, I have thirsted for You.
+
+How often has my flesh longed after You, in a barren
+and parched land?
+
+Thus I have appeared before You in the sanctuary, that I might see
+Your power and Your Glory.
+
+For Your mercy is better than life, my lips shall praise You.
+
+Thus will I bless You in my life, I will lift up my hands in Your Name.
+
+** DONE Hygiene
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
