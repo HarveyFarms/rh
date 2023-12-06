@@ -1,4 +1,4 @@
-* DONE Morning Routine 
+* DONE [#A] Morning Routine 
 :PROPERTIES:
 DEADLINE: <2023-12-05 Tue>
 :END:
@@ -39,21 +39,26 @@ chasteness, and ultimately a complete obedience to His will.
 The earth that the Lord made is good, but our corruption of it and our very selves is what should be hated.
 Those who don't hate this corruption are willfully blinding themselves, so as to not know and live out Truth.
 
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-05 Tue>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Prayer rope/book
+** +Read/Note 10 pages or Read 20 pages of book+
+didn't get to read, did a lot today though, but I should read before 12 AM most days,
+if not, I have to make sure to set 1 hour in the afternoon/evening to read
+:PROPERTIES:
+:ID:       63a01494-f65b-4362-812e-1b2a3b92fc29
+:END:
 *** Input book(s) and all info here:
 **** 
 ***** starting page:
 ***** ending page  : 
 ***** study/read   : 
-** call a friend/family member
+** DONE call a friend/family member
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
@@ -61,28 +66,52 @@ DEADLINE: <2023-12-05 Tue>
 ** DONE 11AM practice
 ** DONE ciss240 project
 ** DONE ciss145 project
-* TODO Evening Routine
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-05 Tue>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
 *** /What did you do?/
-** Evening reflection
+kettlebell mobility
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+It's all going alright, I just need to get to work instead of on my phone and waste time.
+And all of my work should be towards/tied to theosis.
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Evening creativity
+I thank God for those who feed me. They don't know I'm supposed to be fasting, they're feeding a man in their eyes.
+For that I thank them. I reprimand myself for allowing myself to fall away from the fast again and again. For selfish
+reasons that would never be fulfilled. I prepared with tuna, but I never even fell back on that. I was too eager to
+eat which was shown when walking back to the dorm after Dulany.
+** DONE Evening creativity
 *** /What do you want to express?/
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
-* TODO Secret Santa gift track
+My God, I do not know all the reasons why Your One, Holy, Catholic, and Apostolic Church
+follows such an ascetic path vs other Christian denominations. But I do know that this is
+Your Church and this is the tried and True path to Theosis. I shall be obedient to what
+Your Church shows me, because through the Church, You are the One behind it all.
+** DONE Hygiene
+** DONE Make sure everything is plugged in
+[[id:63a01494-f65b-4362-812e-1b2a3b92fc29][read]]
+** DONE Prayer
+** DONE 7:30+ hours of sleep
+* TODO White Elephant gift track
 :PROPERTIES:
 SCHEDULED: <2023-12-05 Tue +1d> 
 :END:
 * TODO ciss145 final
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed 10:00>
+:END:
+* TODO ciss240 final
+:PROPERTIES:
+DEADLINE: <2023-12-12 Tue 8:00>
+:END:
+* TODO calc 1 final
+:PROPERTIES:
+DEADLINE: <2023-12-12 Tue 10:00>
+:END:
+* TODO ciss240 a13
+:PROPERTIES:
+DEADLINE: <2023-12-08 Fri>
 :END:
