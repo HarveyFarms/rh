@@ -57,10 +57,10 @@ DEADLINE: <2023-12-05 Tue>
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
-** foundations presentation
-** 11AM practice
-** ciss240 project
-** ciss145 project
+** DONE foundations presentation
+** DONE 11AM practice
+** DONE ciss240 project
+** DONE ciss145 project
 * TODO Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-05 Tue>
@@ -81,4 +81,8 @@ DEADLINE: <2023-12-05 Tue>
 * TODO Secret Santa gift track
 :PROPERTIES:
 SCHEDULED: <2023-12-05 Tue +1d> 
+:END:
+* TODO ciss145 final
+:PROPERTIES:
+DEADLINE: <2023-12-13 Wed 10:00>
 :END:
