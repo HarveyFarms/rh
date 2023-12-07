@@ -231,3 +231,5 @@
 
 (setq ibuffer-never-show-predicates
       (list "\\*scratch\\*" "\\*Messages\\*" "output\\*"))
+
+(setq org-ellipsis "▾")
