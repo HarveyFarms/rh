@@ -233,3 +233,8 @@
       (list "\\*scratch\\*" "\\*Messages\\*" "output\\*"))
 
 (setq org-ellipsis "▾")
+
+(use-package ox-reveal
+  :ensure t)
+
+(setq org-reveal-root "file:///~/RH/dependencies/reveal.js")
