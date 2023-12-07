@@ -238,3 +238,4 @@
   :ensure t)
 
 (setq org-reveal-root "file:///~/RH/dependencies/reveal.js")
+
