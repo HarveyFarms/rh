@@ -95,10 +95,6 @@ Your Church shows me, because through the Church, You are the One behind it all.
 [[id:63a01494-f65b-4362-812e-1b2a3b92fc29][read]]
 ** DONE Prayer
 ** DONE 7:30+ hours of sleep
-* TODO White Elephant gift track
-:PROPERTIES:
-SCHEDULED: <2023-12-05 Tue +1d> 
-:END:
 * TODO ciss145 final
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed 10:00>
