@@ -67,18 +67,6 @@ Conclude the paper by discussing your thoughts and feelings about the organism
 now that you have worked hard to learn about it.
 ** Day 6
 Review the paper before turning in
-* TODO pygame
-:PROPERTIES:
-DEADLINE: <2023-12-08 Fri>
-:END:
-* TODO pygame plan
-:PROPERTIES:
-:END:
-** List of todos 
-- [ ] plan out project, all needed elements on a document (more expansive than proposal)
-- [ ] study pygame modules and functions + note all needed functions for the game
-- [ ] write pseudocode for the game within the ultimate document
-- [ ] create list under this one for all needed to-dos for the code...
 * TODO thanksgiving break
 :PROPERTIES:
 :END:

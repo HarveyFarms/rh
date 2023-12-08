@@ -43,19 +43,20 @@ DEADLINE: <2023-12-07 Thu>
 ***** ending page  : 
 ***** study/read   : 
 ** call a friend/family member
-** DONE Duolingo
+** DONE COMMENT Duolingo
 started duo music, maybe it'll be worthwhile
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
-** TODO python presentation
+** DONE python presentation
 :PROPERTIES:
 SCHEDULED: <2023-12-07 Thu>
 :END:
-** pygame project (add high scores (up to 10))
+** DONE pygame project (add high scores (up to 10))
+figure this out when you get back from white elephant
 ** DONE finish othello project
 ** start a13 for cs240
 ** after above is done, start studying for finals
-** GET PRESENT FOR WHITE ELEPHANT from 2 Pm to 6:30 in Hinshaw building
+** DONE GET PRESENT FOR WHITE ELEPHANT from 2 Pm to 6:30 in Hinshaw building
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-07 Thu>
