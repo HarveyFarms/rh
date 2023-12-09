@@ -27,6 +27,7 @@ DEADLINE: %t
 ***** starting page:
 ***** ending page  : 
 ***** study/read   : 
+***** summarization:
 ** call a friend/family member
 ** Duolingo
 ** Practice touch typing

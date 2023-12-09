@@ -31,15 +31,27 @@ I might study calc-based physics in my free time just so I'm able to do that.
                       DEADLINE: <2023-12-08 Fri>
 :END:
 ** DONE Start planning today and use agenda to help
-** git push before leaving 
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
 ** Prayer rope/book
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** The House of the Dead
+***** starting page: 238
+***** ending page  : 258
+***** study/read   : read
+***** summarization:
+This was the third chapter of the Hospital section.
+It started off talking about executioners and their
+psychology and practice on the convicts.
+
+Then it shifted more toward hospital life, where it
+mentioned mentally ill convicts who would show up in
+the hospital.
+
+Finally, it ended with general life in the hospital.
+It was described that though the hospital isn't the best,
+it's one of the places where Alexander can rest.
 ** call a friend/family member
 ** DONE Duolingo
 ** DONE Practice touch typing
