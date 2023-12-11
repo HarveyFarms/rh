@@ -5,14 +5,12 @@ DEADLINE: %t
 ** Prayer/Lectionary/Lives of the Saints
 ** Hygiene
 ** Made bed
-** Mobility/Strength ideas: [[~/RH/org/extra/kettlebell.org][w/kettlebell]] [[~/RH/org/extra/mobility.org][w/o kettlebell]]
+** Mobility/Strength ideas: [[~/RH/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/RH/org/extra/atg/mobility.org][w/o kettlebell]]
 *** /What did you do?/ 
 ** Morning reflection
 *** /What are your thoughts?/
 ** Morning intention
 *** /Overall focus of today?/
-** Morning creativity
-*** /Feeling creative or smart?/
 * TODO [#A] Today's goals
 :PROPERTIES:
 DEADLINE: %t

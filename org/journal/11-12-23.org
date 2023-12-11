@@ -21,7 +21,7 @@ DEADLINE: <2023-11-12 Sun>
 - [ ] git push before leaving
 * TODO [#A] Today's goals [91%] [11/12]
 :PROPERTIES:
-DEADLINE: <2023-12-11>
+DEADLINE: <2023-11-11>
 :END:
 - [X] Prayer rope/book
 - [ ] Read/Note 10 pages or Read 20 pages of book

@@ -76,18 +76,14 @@
  '(org-level-4 ((t (:height 1.05 :weight bold))))
  '(org-level-5 ((t (:height 1.0 :weight bold)))))
 
-(load-theme 'tao-yin t)
+(load-theme 'doom-one t)
 
 (defun switch-theme (theme-number)
-  "Switch between themes.
-   1 - tao-yin
-   2 - doom-one
-   3 - doom-one-light"
   (interactive "P")
   (cond
-   ((equal theme-number 1) (load-theme 'tao-yin t))
+   ((equal theme-number 1) (load-theme 'doom-nord-light t))
    ((equal theme-number 2) (load-theme 'doom-one t))
-   ((equal theme-number 3) (load-theme 'doom-one-light t))
+   ((equal theme-number 3) (load-theme 'doom-gruvbox t))
    (t (message "Invalid theme number"))))
 
 (global-set-key (kbd "C-c t 1") (lambda () (interactive) (switch-theme 1)))

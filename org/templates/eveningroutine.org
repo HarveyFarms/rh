@@ -3,14 +3,14 @@
 DEADLINE: %t
 :END:
 ** Make sure all daily goals are met %?
-** Mobility/Isometrics ideas: [[~/kettlebell.org][w/kettlebell]] [[mobility.org][w/o kettlebell]]
+** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
 *** /What did you do?/
 ** Evening reflection
 *** /How's it all going?/
 ** Evening thanks
 *** /How've you been blessed today?/
-** Evening creativity
-*** /What do you want to express?/
+** Remembrance 
+*** /Enter any sins you have committed today./
 ** Hygiene
 ** Make sure everything is plugged in
 ** Prayer
