@@ -69,7 +69,6 @@ DEADLINE: <2023-11-29 Wed>
 - [ ] 7:30+ hours of sleep
 * TODO Mobility
 :PROPERTIES:
-SCHEDULED: <2023-11-29 Wed +1w>
 :END:
 ** Why
 Need to get in a good habit of covering my body's mobility needs,

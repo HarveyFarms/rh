@@ -80,7 +80,6 @@ Review the paper before turning in
 ** if extra time, understand org-mode bette
 * TODO Othello project ciss240
 :PROPERTIES:
-SCHEDULED: <2023-12-12 Tue +5d> 
 :END:
 ** steps
 - Work on this slowly

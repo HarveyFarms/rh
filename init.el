@@ -167,6 +167,13 @@
  '(display-line-numbers-type 'relative)
  '(fringe-mode 0 nil (fringe))
  '(global-display-line-numbers-mode t)
+ '(gnus-expert-user t)
+ '(gnus-interactive-exit nil)
+ '(gnus-message-archive-group "\"Gmail]/Sent Mail\"")
+ '(gnus-novice-user nil)
+ '(gnus-secondary-select-methods '((nntp "news.gmane.io")))
+ '(gnus-select-method '(nnweb "mail.google.com"))
+ '(message-send-mail-function 'smtpmail-send-it)
  '(safe-local-variable-values '((git-commit-major-mode . git-commit-elisp-text-mode)))
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
@@ -234,4 +241,10 @@
   :ensure t)
 
 (setq org-reveal-root "file:///~/RH/dependencies/reveal.js")
+
+(defun open-chrome ()
+  (interactive)
+  (browse-url "https://www.youtube.com/watch?v=lcrVmGOMXeA")) 
+
+(global-set-key (kbd "C-c p") 'open-chrome) ; Adjust the keybinding
 

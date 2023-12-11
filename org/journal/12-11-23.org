@@ -1,7 +1,7 @@
 * DONE [#A] Morning Routine 
 :PROPERTIES:
 DEADLINE: <2023-12-11 Mon>
-:END:
+END:
 ** DONE Prayer/Lectionary/Lives of the Saints
 ** DONE Hygiene
 ** DONE Made bed
@@ -23,21 +23,31 @@ both ciss240 and calc 1
 :PROPERTIES:
 DEADLINE: <2023-12-11 Mon>
 :END:
-** Start planning today and use agenda to help
-** git push before leaving 
+** DONE Start planning today and use agenda to help
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
 ** Prayer rope/book
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** Hypostatic Prayer
+***** starting page: 78
+***** ending page  : 101
+***** study/read   : study
 ***** summarization:
+This was the ending of commentary on the Lord's prayer.
+
+It talked of temptations, and how theologically it is used for our good
+and it doesn't come from God, but God allows it so that we might become
+athletes for Him.
+
+Also practically it talked of how man should avoid temptations, and even
+the environment that entraps him. It talks of how Christ endured temptations,
+and how He sets the best example where the Saints then showed a great example for
+us to follow that we might become partakers of the divine grace as well.
 ** call a friend/family member
-** Duolingo
-** Practice touch typing
-** create TODOs for agenda
+** DONE Duolingo
+** DONE Practice touch typing
+** DONE create TODOs for agenda
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-11 Mon>
@@ -55,3 +65,40 @@ DEADLINE: <2023-12-11 Mon>
 ** Make sure everything is plugged in
 ** Prayer
 ** 7:30+ hours of sleep
+* TODO Weightlifting Plan
+:PROPERTIES:
+SCHEDULED: <2023-12-11 Mon +1w> 
+SCHEDULED: <2023-12-12 Mon +1w> 
+SCHEDULED: <2023-12-13 Mon +1w> 
+SCHEDULED: <2023-12-14 Mon +1w> 
+SCHEDULED: <2023-12-15 Mon +1w> 
+:END:
+** Monday
+Conditioning running + light but high reps
+
+accessories: lower back, hamstrings, triceps, chest
+** Tuesday
+mobility day
+
+accessories: ankle plyos (extensive), balance strength, abs
+** Wednesday
+Heavy day (sprints/lactic threshold) and heavy but low reps
+
+accessories: ankle strengthening, abs
+** Thursday
+extensive/intensive plyos for hips, back, upper body, etc.
+
+accessories: abs
+** Friday
+Heavy day (top speed) and heavy but low reps
+
+accessories: biceps, upper back, quads
+* TODO Holy Nativity
+:PROPERTIES:
+DEADLINE: <2023-12-25 Mon 9:00>
+:END:
+* TODO CS Club project presentation
+:PROPERTIES:
+:LOCATION: BROWN 101
+DEADLINE: <2023-12-14 Thu 14:00>
+:END:

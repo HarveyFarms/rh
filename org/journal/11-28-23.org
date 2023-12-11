@@ -95,7 +95,6 @@ DEADLINE: <2023-12-01 Fri>
 :END:
 * TODO ciss240 project
 :PROPERTIES:
-DEADLINE: <2023-12-14 Thu>
 :END:
 * TODO math hmwk
 :PROPERTIES:
