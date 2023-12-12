@@ -24,7 +24,7 @@ To get finals done, then straight to studying python.
 DEADLINE: <2023-12-12 Tue>
 :END:
 ** DONE Start planning today and use agenda to help
-** git push before leaving 
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
 ** Prayer rope/book
 ** Bible Plan
