@@ -32,8 +32,8 @@ some kettlebell "wake-up" movements
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed>
 :END:
-** Start planning today and use agenda to help
-** git push before leaving 
+** DONE Start planning today and use agenda to help
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
 ** Prayer rope/book
 ** Bible Plan
@@ -49,6 +49,8 @@ DEADLINE: <2023-12-13 Wed>
 ** Duolingo
 ** Practice touch typing
 ** create TODOs for agenda
+** CISS145 FINAL
+** weightlifting afterwards
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed>
