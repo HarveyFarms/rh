@@ -1,0 +1,68 @@
+* TODO [#A] Morning Routine 
+:PROPERTIES:
+DEADLINE: <2023-12-13 Wed>
+:END:
+** DONE Prayer/Lectionary/Lives of the Saints
+** DONE Hygiene
+** DONE Made bed
+** DONE Morning reflection & thanksgiving
+*** /What are your thoughts?/
+This morning has been going very well, reading Scripture and my book in the morning
+is an amazing idea and I might even go to bed earlier and wake up early so I can
+get all of my reading done for the day. I should finish my dostoyevsky book before
+Friday and during Christmas break I can finish my Hypostatic Prayer book aswell.
+
+I thank God for the peace He gives me, the constant remembrance of wrongs that
+helps me draw closer to Him that contrast with His godly and ever-so perfect
+example, that is possible for us through Him.
+
+May Glory and dominion be with Him always now and forever, and to ages of ages. Amen.
+** DONE Morning intention
+*** /Overall focus of today?/
+I have a python exam, so this may be the last day I use python (unless in the future I
+want to crank out a quick program or I end up using it for another class or my main
+language--but that will be in some time ...). After the exam I plan to head straight to
+the gym, to do some olympic weightlifing and some mobility/accessories. It won't be
+heavily structured it will just be a fun day mostly.
+** DONE Mobility/Strength ideas: [[~/RH/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/RH/org/extra/atg/mobility.org][w/o kettlebell]]
+*** /What did you do?/ 
+some kettlebell "wake-up" movements
+
+* TODO [#A] Today's goals
+:PROPERTIES:
+DEADLINE: <2023-12-13 Wed>
+:END:
+** Start planning today and use agenda to help
+** git push before leaving 
+*** make sure you take everything you need for the day
+** Prayer rope/book
+** Bible Plan
+<2023-12-11 Mon>--<2023-12-13 Wed> (C-cy) or (C-ucy)
+[[../extra/bible-plan.pdf][Bible Plan]]
+** Read/Note 10 pages or Read 20 pages of book
+*** Input book(s) and all info here:
+**** 
+***** starting page:
+***** ending page  : 
+***** study/read   : 
+***** summarization:
+** Duolingo
+** Practice touch typing
+** create TODOs for agenda
+* TODO [#A] Evening Routine
+:PROPERTIES:
+DEADLINE: <2023-12-13 Wed>
+:END:
+** Make sure all daily goals are met 
+** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+*** /What did you do?/
+** Evening reflection
+*** /How's it all going?/
+** Evening thanks
+*** /How've you been blessed today?/
+** Remembrance 
+*** /Enter any sins you have committed today./
+** Hygiene
+** Make sure everything is plugged in
+** Prayer
+** 7:30+ hours of sleep

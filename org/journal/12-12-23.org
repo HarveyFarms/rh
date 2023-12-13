@@ -114,6 +114,6 @@ I have been filled with pride. Instead of taking today's accomplishments with
 humility, I immediately started boasting and broke the fast the entire day for
 no good reason, other than me choosing to be unworthy in the sight of God.
 ** DONE Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
