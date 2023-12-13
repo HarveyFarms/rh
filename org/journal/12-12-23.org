@@ -19,48 +19,101 @@ hymn Him to the ages. Amen.
 ** DONE Morning intention
 *** /Overall focus of today?/
 To get finals done, then straight to studying python.
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-12 Tue>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
-** Bible Plan
+** DONE Prayer rope/book
+** DONE Bible Plan
 <2023-12-11 Mon>--<2023-12-12 Tue> (C-cy) or (C-ucy)
 [[../extra/bible-plan.pdf][Bible Plan]]
 
 We will do this after our finals
-** Read/Note 10 pages or Read 20 pages of book
+*** Thoughts
+I plan to continue this on my Supernote but I have the
+pdf there if it's ever needed and the days are counted
+above.
+
+I want to take notes on these individual sections, but
+I plan instead to just read the Bible as is and under-
+line/note in the Bible as needed, and if I have any
+quick thoughts I can put them here in the org-file
+just so I can articulate what I just read.
+*** Reflection
+Glory to You, our God, Glory to You.
+
+The creation account, the beginning of Psalms and Proverbs
+and also the beginning of the Gospel according to Matthew.
+
+The extra pages that expounded on doctrine were helpful, and
+I should read these as they come along in my plan. Because
+alongside reading the creation account, I also learned more of
+the Trinity in the Old Testament, Ancestral Sin, and Creation
+in general that expounds upon how Orthodox believers should
+go about reading the Old Testament compared to how "science"
+tries to persuade men other ways. The main message of the last
+point was that men should ultimately know God created all things,
+and that creation or the world isn't inherently bad. I think this
+covers a good portion theologically. 
+
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** The House of the Dead
+***** starting page: 170
+***** ending page  : 188
+***** study/read   : read
 ***** summarization:
-** call a friend/family member
-** Duolingo
-** Practice touch typing
-** create TODOs for agenda
-** Do all TODOs after finals
-** CISS240 FINAL
-** MATH201 FINAL
-** STUDY FOR PYTHON
+Dostoyevsky started this chapter after the last horrific chapter's ending
+with a story on vagrants, or those who are able to leave prison. He expounds
+that this is the desire of convicts in the spring, as the season aligns with
+such thoughts. He then goes on to talk about work in the spring, and how he
+worked brick-moving and how that made him physically stronger.
+
+The chapter ended with a rumor that a general would be coming to the prison.
+This excited the convicts, and they devised how they would tell the general,
+who was doing inspection, all of the complaints they had of Major.
+
+This ended up not happening, and the coming of the general was one of awe,
+and stiffness.
+** DONE Duolingo
+** DONE Practice touch typing
+** DONE create TODOs for agenda
+** DONE Do all TODOs after finals
+** DONE CISS240 FINAL
+** DONE MATH201 FINAL
+** DONE STUDY FOR PYTHON
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-12 Tue>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
 *** /What did you do?/
-** Evening reflection
+mobility with kettlebell 
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+It's going well ... slow. 
+
+A life without delusions is a life of patience and trust in God.
+
+I haven't lived this life in a while, and I haven't lived a true life
+in a while as well. Let me return back to a true life, O God.
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Remembrance 
+Through tests, God has blessed me with a clear head and knowledge where I needed it.
+
+Through taking these tests, I got to be with some of my great friends, who should
+continue being my friends forevermore.
+
+** DONE Remembrance 
 *** /Enter any sins you have committed today./
-** Hygiene
+I have been filled with pride. Instead of taking today's accomplishments with
+humility, I immediately started boasting and broke the fast the entire day for
+no good reason, other than me choosing to be unworthy in the sight of God.
+** DONE Hygiene
 ** Make sure everything is plugged in
 ** Prayer
 ** 7:30+ hours of sleep

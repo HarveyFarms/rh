@@ -5,7 +5,7 @@
 (setq pop-up-windows nil)
 (setq ring-bell-function 'ignore)
 
-(add-to-list 'load-path "~/src/org-mode/lisp")
+(add-to-list 'load-path "~/RH/org/src/org-mode/lisp")
 
 ;; Add Melpa package source when using package list
 (require 'package)
@@ -118,7 +118,7 @@
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
 
-(setq org-directory "~/gh/myorg/")
+(setq org-directory "~/RH/org/")
 
 (require 'org)
 (setq org-startup-indented t)
@@ -135,27 +135,15 @@
 (global-auto-revert-mode 1)
 
 (setq org-capture-templates
-      '(("e" "Evening routine"
+      '(("t" "today's routine"
 	 plain (here)
-	 (file "~/RH/org/templates/eveningroutine.org"):immediate-finish t)
-      ("m" "Morning routine"
-	 plain (here)
-	 (file "~/RH/org/templates/morningroutine.org"):immediate-finish t)
+	 (file "~/RH/org/templates/todaysroutine.org"):immediate-finish t)
       ("b" "Book entry"
 	 plain (here)
 	 (file "~/RH/org/templates/book.org"):immediate-finish t)
-      ("t" "TODO schedule and deadline"
-	 plain (here)
-	 (file "~/RH/org/templates/TODOboth.org"):immediate-finish t)
-      ("d" "TODO deadline"
+      ("d" "TODO"
 	 plain (here)
 	 (file "~/RH/org/templates/TODOdeadline.org"):immediate-finish t)
-      ("s" "TODO schedule"
-	 plain (here)
-	 (file "~/RH/org/templates/TODOschedule.org"):immediate-finish t)
-      ("j" "deadline today"
-         plain (here)
-         (file "~/RH/org/templates/propertydeadlinetoday.org"):immediate-finish t)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
