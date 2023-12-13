@@ -143,7 +143,7 @@
 	 (file "~/RH/org/templates/book.org"):immediate-finish t)
       ("d" "TODO"
 	 plain (here)
-	 (file "~/RH/org/templates/TODOdeadline.org"):immediate-finish t)
+	 (file "~/RH/org/templates/TODOdeadline.org"):immediate-finish t)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
