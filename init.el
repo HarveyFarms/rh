@@ -5,7 +5,7 @@
 (setq pop-up-windows nil)
 (setq ring-bell-function 'ignore)
 
-(add-to-list 'load-path "~/RH/org/src/org-mode/lisp")
+(add-to-list 'load-path "~/src/org-mode/lisp")
 
 ;; Add Melpa package source when using package list
 (require 'package)
