@@ -64,6 +64,8 @@ honors all of his authoritative life.
 ** DONE Duolingo
 ** DONE Practice touch typing
 ** DONE create TODOs for agenda
+** pointers notes
+** calc-based physics
 ** CS Club project presentation 2PM BROWN 101
 * TODO [#A] Evening Routine
 :PROPERTIES:

@@ -128,7 +128,7 @@
 (require 'org-id)
 (setq org-id-link-to-org-use-id 'create-if-interactive)
 
-(setq org-journal-dir "~/RH/org/journal/")
+(setq org-journal-dir "~/rh/org/journal/")
 
 (setq global-auto-revert-non-file-buffers t)
 (setq auto-revert-verbose nil)
@@ -137,13 +137,13 @@
 (setq org-capture-templates
       '(("t" "today's routine"
 	 plain (here)
-	 (file "~/RH/org/templates/todaysroutine.org"):immediate-finish t)
+	 (file "~/rh/org/templates/todaysroutine.org"):immediate-finish t)
       ("b" "Book entry"
 	 plain (here)
-	 (file "~/RH/org/templates/book.org"):immediate-finish t)
+	 (file "~/rh/org/templates/book.org"):immediate-finish t)
       ("d" "TODO"
 	 plain (here)
-	 (file "~/RH/org/templates/TODOdeadline.org"):immediate-finish t)))
+	 (file "~/rh/org/templates/TODOdeadline.org"):immediate-finish t)))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -170,7 +170,7 @@
 (setq org-todo-keywords
       '((sequence "TODO" "|" "DONE")))
 
-(setq org-agenda-files '("~/RH/org/journal/"))
+(setq org-agenda-files '("~/rh/org/journal/"))
 
 (setq org-deadline-warning-days 6)
 
@@ -228,7 +228,7 @@
 (use-package ox-reveal
   :ensure t)
 
-(setq org-reveal-root "file:///~/RH/dependencies/reveal.js")
+(setq org-reveal-root "file:///~/rh/dependencies/reveal.js")
 
 (defun open-chrome ()
   (interactive)
