@@ -1,10 +1,11 @@
 * TODO [#A] Morning Routine 
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-14 Thu>
 :END:
 ** Prayer/Lectionary/Lives of the Saints
 ** Hygiene
 ** Made bed
+*** /What did you do?/ 
 ** Morning reflection & thanksgiving
 *** /What are your thoughts?/
 ** Morning intention
@@ -12,14 +13,14 @@ DEADLINE: %t
 ** Mobility/Strength ideas: [[~/RH/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/RH/org/extra/atg/mobility.org][w/o kettlebell]]
 * TODO [#A] Today's goals
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-14 Thu>
 :END:
 ** Start planning today and use agenda to help
 ** git push before leaving 
 *** make sure you take everything you need for the day
 ** Prayer rope/book
 ** Bible Plan
-<2023-12-11 Mon>--%t (C-cy) or (C-ucy)
+<2023-12-11 Mon>--<2023-12-14 Thu> (C-cy) or (C-ucy)
 [[../extra/bible-plan.pdf][Bible Plan]]
 ** Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
@@ -30,13 +31,12 @@ DEADLINE: %t
 ***** summarization:
 ** Duolingo
 ** Practice touch typing
-*** /Enter typing speed & accuracy/
 ** create TODOs for agenda
 * TODO [#A] Evening Routine
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-14 Thu>
 :END:
-** Make sure all daily goals are met %?
+** Make sure all daily goals are met 
 ** Evening reflection
 *** /How's it all going?/
 ** Evening thanks

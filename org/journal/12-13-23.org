@@ -1,4 +1,4 @@
-* TODO [#A] Morning Routine 
+* DONE [#A] Morning Routine 
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed>
 :END:
@@ -28,35 +28,52 @@ heavily structured it will just be a fun day mostly.
 *** /What did you do?/ 
 some kettlebell "wake-up" movements
 
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Prayer rope/book
-** Bible Plan
+** DONE Prayer rope/book
+** DONE Bible Plan
 <2023-12-11 Mon>--<2023-12-13 Wed> (C-cy) or (C-ucy)
 [[../extra/bible-plan.pdf][Bible Plan]]
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** The House of the Dead
+***** starting page: 288
+***** ending page  : 321
+***** study/read   : read
 ***** summarization:
-** Duolingo
-** Practice touch typing
-** create TODOs for agenda
-** CISS145 FINAL
-** weightlifting afterwards
-* TODO [#A] Evening Routine
+****** first read (288-302)
+This chapter was all about animals in prison. It talked of how the convicts acted toward the animals
+and what some convicts would do to the animals after the animal "disappears." This chapter led me
+to believe that the narrator has more humanity in him than the other convicts do but also that the
+convicts do have humanity left and sometimes it is shown through animals.
+****** second read (302-321)
+This chapter was about a complaint that the commoners made, but the complaint wasn't the main theme
+of the chapter, rather it was about how the majority of the prison population of commoners didn't
+see the noblemen or any outside foreigner to be "like them," such that even during the complaint
+to the Major about the prison food, the commoners took it to the narrator when he tried to join
+in the effort. This seemed the case because he had his own food, but so was there other commoners
+or non-foreigners that were also apart of the complaint effort. This had a great impact on the
+narrator, to such an extent that he ended up asking one of his commoner acquaintances (that was
+at the very least polite to him) why it was so. This ended in the narrator getting his answer,
+that his people are seperate from the majority or the main group of people.
+** DONE Duolingo
+** DONE Practice touch typing
+** DONE create TODOs for agenda
+** DONE CISS145 FINAL
+** DONE weightlifting afterwards
+** +ciss245 pointer notes+
+** DONE calc-based physics self-study
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-13 Wed>
 :END:
-** Make sure all daily goals are met 
-** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** DONE Make sure all daily goals are met 
+** DONE Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
 *** /What did you do?/
 ** Evening reflection
 *** /How's it all going?/
@@ -64,6 +81,18 @@ DEADLINE: <2023-12-13 Wed>
 *** /How've you been blessed today?/
 ** Remembrance 
 *** /Enter any sins you have committed today./
+Gluttony and breaking the fast yet again ...
+
+Lust and masturbation ..
+It raised the question to me,
+
+"Who even are you, Ryan? Deep down, are you a follower of Christ or a
+follower of the world? Do you trust Christ? Or would you rather indulge
+in vain, temporal pleasures? Are you really apart of Christ's flock, or
+is it just a fad?"
+
+New rule, no instagram, or snapchat, or anything unless someone messages us on there
+and it is urgent ...
 ** Hygiene
 ** Make sure everything is plugged in
 ** Prayer
