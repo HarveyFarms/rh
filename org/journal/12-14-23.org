@@ -67,6 +67,8 @@ honors all of his authoritative life.
 ** pointers notes
 ** calc-based physics
 ** CS Club project presentation 2PM BROWN 101
+** laundry
+** git pull when on PC
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-14 Thu>
