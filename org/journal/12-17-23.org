@@ -1,0 +1,70 @@
+* DONE [#A] Morning Routine 
+:PROPERTIES:
+DEADLINE: <2023-12-17 Sun>
+:END:
+** DONE Prayer/Lectionary/Lives of the Saints
+** DONE Hygiene
+** DONE Made bed
+** DONE Morning reflection & thanksgiving
+*** /What are your thoughts?/
+I'm grateful for God, and I can't wait to attend Divine Services.
+Also class, today will be filled with so much good.
+
+Keep me from sin today, Lord.
+** DONE Morning intention
+*** /Overall focus of today?/
+To go to Church, that's it.
+Finish daily todos as well, come back from Church and work on
+pointers&arrays, calc-based physics, and maybe some SDL/LaTeX.
+** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
+* TODO [#A] Today's goals
+:PROPERTIES:
+DEADLINE: <2023-12-17 Sun>
+:END:
+** DONE Start planning today and use agenda to help
+** create TODOs for agenda
+** Get some sun
+https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed3b58061b74e52a0ed5dc
+** Bible Plan
+<2023-12-11>--<2023-12-17 Sun>
+(C-cy) or (C-ucy) after putting in current day to find count
+** Read/Note 10 pages or Read 20 pages of book
+*** Input book(s) and all info here:
+**** 
+***** starting page:
+***** ending page  : 
+***** study/read   : 
+***** summarization:
+** DONE Duolingo
+** DONE Practice touch typing
+*** /Enter typing speed & accuracy/
+
+wpm: 70
+acc: 95
+
+wpm: 69
+acc: 93
+
+wpm: 66
+acc: 93
+
+wpm: 78
+acc: 99
+** DONE git push before leaving 
+*** make sure you take everything you need for the day
+* TODO [#A] Evening Routine
+:PROPERTIES:
+DEADLINE: <2023-12-17 Sun>
+:END:
+** Make sure all daily goals are met 
+** Evening reflection
+*** /How's it all going?/
+** Evening thanks
+*** /How've you been blessed today?/
+** Remembrance 
+*** /Enter any sins you have committed today./
+** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** Hygiene
+** Make sure everything is plugged in
+** Prayer
+** 7:30+ hours of sleep
