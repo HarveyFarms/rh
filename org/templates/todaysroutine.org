@@ -19,8 +19,6 @@ DEADLINE: %t
 ** Get some sun
 https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed3b58061b74e52a0ed5dc
 ** Bible Plan
-<2023-12-11 Mon>--%t (C-cy) or (C-ucy)
-[[../extra/bible-plan.pdf][Bible Plan]]
 ** Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
 **** 

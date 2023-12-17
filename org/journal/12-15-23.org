@@ -37,9 +37,6 @@ will probably add a "go outside" todo
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
 definitely need to do this ...
-** DONE Bible Plan
-<2023-12-11 Mon>--<2023-12-15 Fri> 4d (C-cy) or (C-ucy)
-[[../extra/bible-plan.pdf][Bible Plan]]
 ** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
 **** The House of the Dead

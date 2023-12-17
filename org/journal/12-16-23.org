@@ -28,23 +28,46 @@ DEADLINE: <2023-12-16 Sat>
 :END:
 ** DONE Start planning today and use agenda to help
 ** DONE create TODOs for agenda
-** Get some sun
+** DONE Get some sun
 https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed3b58061b74e52a0ed5dc
-** Bible Plan
-<2023-12-11 Mon>--<2023-12-16 Sat> (C-cy) or (C-ucy)
-[[../extra/bible-plan.pdf][Bible Plan]]
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** Hypostatic Prayer
+***** starting page: 101
+***** ending page  : 117
+***** study/read   : study
 ***** summarization:
+This was the Person-Hypostasis chapter, in which it described many things.
+One of these being, that Christ is the ultimate example and without Him,
+we wouldn't understand neither ourselves nor God fully. He is the total
+recapitulation of the creation and fall of man. Though the Trinity as a
+whole (The essence of God (Father) and His corresponding energies) plays
+a part in man's salvation, the Word of God is the aspect in which we
+know the Father through the Holy Spirit.
+
+It also talked of the opposing views outside of Christianity, and how they
+all fail to "unite" individuals with the whole personhood of humanity.
+They fail to provide comfort resulting in, when looking at their system
+and what it can provide, nihilistic loneliness.
 ** DONE Duolingo
-** Practice touch typing
+** DONE Practice touch typing
 *** /Enter typing speed & accuracy/
+wpm: 80
+acc: 97
+
+wpm: 71
+acc: 95
+
+wpm: 72
+acc: 94
+
+wpm: 74
+acc: 96
 ** DONE git push before leaving 
 *** make sure you take everything you need for the day
+** DONE Go to shopping event with Laura
+** CISS 245 Pointers & Arrays
+** Calc-based Physics
 * TODO [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-16 Sat>
@@ -71,3 +94,22 @@ habit, I just go into templates and reset the starting day and if I don't want t
 can rid of it in the template altogether. This means that it all depends on my template and
 what my template does will help me see it in my daily todos as well as automatically update
 my org-agenda accordingly.
+
+I just figured out that it's not working exactly how I need it, I may have to delete the header
+of the Bible plan. Let me experiment... 
+
+I figured that I will just make a todo such that I can visit the todo if I want to to find out the day count
+(usually only if i don't have my supernote with me) but in the future I imagine I will find out a better way
+for todos.
+
+* TODO Figure out SDL & LaTeX
+:PROPERTIES:
+SCHEDULED: <2023-12-16 Sat +1d>
+:END:
+
+* TODO Bible Plan
+:PROPERTIES:
+SCHEDULED: <2023-12-16 Sat +1d>
+:END:
+<2023-12-11>-- 
+(C-cy) or (C-ucy) after putting in current day to find count
