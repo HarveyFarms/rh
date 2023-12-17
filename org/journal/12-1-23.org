@@ -34,7 +34,7 @@ DEADLINE: <2023-12-01 Fri>
     and not work alone, but with God (and His all-powerful name) on my side
     and with my Church community, that we might grow to be godly and
     ever-pleasing to God the Father.
-* TODO [#A] Today's goals [90%] [10/11]
+* TODO Today's goals [90%] [10/11]
 :PROPERTIES:
 DEADLINE: <2023-12-01 Fri>
 :END:

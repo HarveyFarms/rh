@@ -118,7 +118,7 @@
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
 
-(setq org-directory "~/RH/org/")
+(setq org-directory "~/rh/org/")
 
 (require 'org)
 (setq org-startup-indented t)
