@@ -23,7 +23,7 @@ along with some weightlifting.
 If I have time at the end of the day I can return to pointers & arrays
 chapter.
 ** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-18 Mon>
 :END:
@@ -53,23 +53,34 @@ https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed
 |      79 |          93% |
 | avg wpm | avg accuracy |
 |      78 |          96% |
-** git push before leaving 
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
-** Weightlifting Plan
+** +Weightlifting Plan+
 file:./12-11-23.org
-* TODO [#A] Evening Routine
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-18 Mon>
 :END:
-** Make sure all daily goals are met 
-** Evening reflection
+** DONE Make sure all daily goals are met 
+** DONE Evening reflection
 *** /How's it all going?/
-** Evening thanks
+Laura, my dad and I argued about religion and beliefs for over two hours.
+Afterwards I felt hopeless.
+
+Also at the track today it seemed my hands were about to freeze.
+** DONE Evening thanks
 *** /How've you been blessed today?/
-** Remembrance 
+The Lord blessed me with life.
+
+He blesses me in all ways and in ways I can't even bring to mind now because I am
+tired and am in constant agitation with my mind after arguing for You, the True God.
+** DONE Remembrance 
 *** /Enter any sins you have committed today./
-** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+Failing to even confess my beliefs well or live them out prior to confessing them, have mercy on me, Lord.
+
+Despondency, after I saw Remi run off and not care to tell others or even help out in getting him back.
+** DONE Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** DONE Hygiene
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
