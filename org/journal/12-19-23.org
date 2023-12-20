@@ -25,13 +25,23 @@ https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed
 ** DONE Bible Plan
 <2023-12-11>--<2023-12-19 Tue>
 (C-cy) or (C-ucy) after putting in current day to find count
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** Hypostatic Prayer
+***** starting page: 117
+***** ending page  : 139
+***** study/read   : study
 ***** summarization:
+The first chapter, types and definitions of hypostatic prayer, led the
+other chapters in that it described certain types and examples the fa-
+ithful can look up to in order to do hypostatic prayer correctly. One
+major takeaway is Christ's prayer in Gethsemane, in which He was swea-
+ting blood after praying for the whole world, both for those in the p-
+ast, present and future. This prayer is intense because it strikes the
+essence of mankind, that we need God because we have fallen, we conti-
+nue to fall and we will fall in the future. It's a sad reality but Ch-
+rist saves us from this reality. He destroyed death by death. Glory be
+to Him.
 ** DONE Duolingo
 ** DONE Practice touch typing
 *** /Enter typing speed & accuracy/
@@ -45,8 +55,15 @@ https://weather.com/weather/today/l/0f232700d9bbfeb0c6c4ba83829403b5ed0b132230ed
 
 avg wpm: 78
 avg acc: 96%
-** git push before leaving 
+** DONE git push before leaving 
 *** make sure you take everything you need for the day
+** DONE pointers & arrays notes
+did well, understood a lot. Took hours on one problem and never figured it out.
+Tried to simplify it a million times, might come back later to it just to get it
+solved but yea pissed ya boy off.
+** DONE Plan
+file:./12-11-23.org
+** calc-based physics
 ** LaTeX practice
 ** figure out SDL
 * TODO [#A] Evening Routine
