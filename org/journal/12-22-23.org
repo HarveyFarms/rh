@@ -1,36 +1,39 @@
-* TODO [#A] Morning Routine 
+* DONE [#A] Morning Routine 
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-22 Fri>
 :END:
-** Prayer/Lectionary/Lives of the Saints
-** Hygiene
-** Made bed
-** Morning thanksgiving & reflection 
+** DONE Prayer/Lectionary/Lives of the Saints
+** DONE Hygiene
+** DONE Made bed
+** Morning reflection & thanksgiving
 ** Morning intention
 ** Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
 * TODO [#A] Today's goals
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-22 Fri>
 :END:
-** Bible Plan
+** DONE Bible Plan
 started this on 12-12-23
-** Duolingo
-** Practice touch typing
+** DONE Duolingo
+** DONE Practice touch typing
 | wpm | acc |
 |     |     |
-** Read/Note 10 pages or Read 20 pages of book
+** DONE Read/Note 10 pages or Read 20 pages of book
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** Hypostatic Prayer
+***** starting page: 157
+***** ending page  : 171
+***** study/read   : study
 ***** summarization:
-** git push
+Liturgical prayer, and all that surrounds it, was mentioned.
+** pointers and functions note
+only 8 pages!!
+[[~/Downloads/images.jpeg]]
 * TODO [#A] Evening Routine
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-22 Fri>
 :END:
-** Make sure all daily goals are met %?
+** Make sure all daily goals are met 
 ** Evening reflection
 ** Evening thanks
 ** Remembrance 
