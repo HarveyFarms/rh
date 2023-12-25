@@ -29,7 +29,7 @@ and we may be in eternal harmony and love with our Creator...
 ** DONE Morning intention
 To go throughout the day not taken in by the world, but rather taken in by God. 
 ** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-23 Sat>
 :END:
@@ -52,25 +52,46 @@ It expounded more on Divine Liturgy, speaking of:
 The stages of Divine Liturgy
 Christ's offering
 How our personal sanctification leads to a better understanding and experience of God.
-** git push
-** Track workout then gym
-** practice pointers
-** look at ciss240 website
-** Make and complete ciss240.org file
+** DONE git push
+** DONE Track workout then gym
+** DONE practice pointers
+** DONE look at ciss245 website
+** DONE Make and complete ciss240.org file
 ** Do some calc 1 problems, look at calc 2
 ** calc-based physics reading/problems
 ** Do dishes
-** Figure out plan for Lord's day tomorrow
-* TODO [#A] Evening Routine
+** DONE Figure out plan for Lord's day tomorrow
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-23 Sat>
 :END:
-** Make sure all daily goals are met 
-** Evening reflection
-** Evening thanks
-** Remembrance 
-** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+** DONE Make sure all daily goals are met 
+** DONE Evening reflection
+This past week has been full of highs and lows:
+- From me following the fast to a T, to splurging out at grandmas
+- from me not working a damn to working with grandma and grandpa all day 
+- from me caring of my faith to me not caring and falling into sin
+
+  this week I learned a lot, not too much for school or learning in the worldly sense,
+  but in the spiritual sense. It's indescribable how much knowledge and the knowledge
+  itself, but it's a climb towards theosis, and I need more and more humility along with
+  an abundant overflowing of repentant tears.
+** DONE Evening thanks
+I thank the Lord for not destroying me. I fear His patience and mercy might turn into wrath,
+I need to amend my ways for my good and loving Lord.
+** DONE Remembrance 
+I've committed onanism (Gen 38:10) which the Lord hates, and I need to truly want the Lord,
+and not be Matthew 7:21-23 hypocrites ("Lord, Lord, have we not prophesied in Your name",etc.etc.)
+
+To do this, I've blocked my phone from everything. All notifications, and extra things. I've even
+simplified my wallpapers and applications such that I barely use my phone anymore unless I *really* need it,
+even then, I will only use it for that intended purpose, and be on watch for any distractions.
+
+I've broken the fast yet again. I know that in future fasts I will improve, and I will ever grow accustomed to orthodox
+fasting, which my whole life I've been anti-fast, and eat until I'm full and eat whenever, Lord have mercy on me, and help
+me amend my ways.
+** DONE Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** DONE Hygiene
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
