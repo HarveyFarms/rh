@@ -22,7 +22,7 @@ To simply get my daily todos done before heading to grandma Harveys house. I'll 
 physics stuff as well as some calculus. I also want to code but I'm not sure where to start... I may try
 to expand on that one project of the social media following chart.
 ** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-25 Mon>
 :END:
@@ -53,25 +53,42 @@ as well as have a fearful night before hand. It summed up all of these things
 saying that the whole of a Christian life is to prepare oneself, by having
 contrition and repentance to the point of worthy tears, so that they are like
 the prodigal son in saying, "Father, make me one of your hired servants."
-** git push
-* TODO [#A] Evening Routine
+** DONE git push
+** DONE Do some calculus practice
+** calc-based physics reading/exercises
+** project of social media following
+Make comments in your code! While writing code from beginning!
+It's a good practice!
+** DONE Look at some of the books from Christmas gifts
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-25 Mon>
 :END:
-** Make sure all daily goals are met 
-** Evening reflection
-** Evening thanks
-** Remembrance 
-** Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
-** Hygiene
-** Make sure everything is plugged in
-** Prayer
-** 7:30+ hours of sleep
+** DONE Make sure all daily goals are met 
+** DONE Evening reflection
+Today was a good Christmas. Not the best since I couldn't go to Church but seeing family was great.
 
-Glory to the Father and the Son and the Holy Spirit. Both now and forever and to ages of ages. Amen.
+I got work done but I am ever reminded of how much better I should be spending my time and actually
+getting things done in that time period. But first I need to eliminate distractions.
+** DONE Evening thanks
+Thank You Lord, for showing Mankind love when You sent down Your only-begotten
+Son and Word to humanity, to raise Mankind from where it had fallen aforetime.
 
-| Names | Age | Gender |
-| Ryan  |  19 | Male   |
-| Laura |  39 | Female |
-| Kerry |  42 | Male   |
-| Jaren |  19 | Male   |
+Thank You God for every breath You give me.
+** DONE Remembrance 
+I was a glutton today.
+
+I have contrition in the mornings/evenings and sometimes throughout the day but
+I never hold fast to good and wise practices that the Lord has laid down for me
+to keep. I need to work on this, I need to improve my prayer and this is a good
+way to do that.
+** DONE Mobility/Isometrics ideas: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+Did some fun kettlebell on a band axe swings, with some extensive ankle plyometrics and pullups.
+** DONE Hygiene
+** DONE Make sure everything is plugged in
+** DONE Prayer
+** DONE 7:30+ hours of sleep
+* TODO Finish Algorithms to Live By book before 2nd semester 
+:PROPERTIES:
+SCHEDULED: <2023-12-25 Mon +1d>
+:END:
