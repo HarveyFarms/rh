@@ -1,6 +1,6 @@
-* TODO [#A] Morning Routine 
+* DONE [#A] Morning Routine 
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-27 Wed>
 :END:
 ** Prayer/Lectionary/Lives of the Saints
 ** Hygiene
@@ -10,7 +10,7 @@ DEADLINE: %t
 ** Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
 * TODO [#A] Today's goals
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-27 Wed>
 :END:
 ** Bible Plan
 started this on 12-12-23
@@ -26,11 +26,12 @@ started this on 12-12-23
 ***** study/read   : 
 ***** summarization:
 ** git push
+** actually get good sleep tonight
 * TODO [#A] Evening Routine
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-27 Wed>
 :END:
-** Make sure all daily goals are met %?
+** Make sure all daily goals are met 
 ** Evening reflection
 ** Evening thanks
 ** Remembrance 
