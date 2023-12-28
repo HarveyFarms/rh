@@ -1,0 +1,97 @@
+* DONE [#A] Morning Routine 
+:PROPERTIES:
+DEADLINE: <2023-12-28 Thu>
+:END:
+** DONE Prayer/Lectionary/Lives of the Saints
+** DONE Morning thanksgiving & reflection 
+I thank God for not destroying me while I'm still an unrepentant sinner,
+He is the true, merciful God.
+
+I thank the Holy Trinity for having brought to me the true faith, of which
+I can grow stronger and not fall away in lack of faiths in other beliefs.
+
+I walked the dogs, and will be with them for the next couple days because
+everyone else left for Texas. I plan to get work done, eat healthy and
+take care of the dogs.
+** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
+* TODO [#A] Today's goals
+:PROPERTIES:
+DEADLINE: <2023-12-28 Thu>
+:END:
+** DONE Plan
+To see how this day goes so I can gauge my other days.
+I want to take the dogs out multiple times a day, and
+not have them in their crates for long periods of time.
+
+I also want to get all of my daily things done for the day
+so I have time for coding, math, and other things I want
+to do over the break
+
+I'm still not sure about working out, I wouldn't mind going
+to the warehouse but do I really want to? No, not really.
+It sucks that I have this mindset, and we'll see I may force myself to go.
+** DONE Bible
+*** Old Testament
+Jacob comes to see his son Joseph in Egypt. The famine continues and people
+have to sell their land and eventually their freedom to Joseph so that they can eat.
+
+It gives a genealogy of Joseph and his brothers, of which some names are recognizable.
+
+Then, it tells of how Jacob is nearing his earthly life, so he gets Joseph to promise that
+he will bury him in the land of Canaan, the land of his people.
+
+Then, Jacob blesses Joseph's sons, Ephraim and Manasseh, that they will continue in the faith
+of Abraham and follow the God that was revealed to them. Joseph tries to make this blessing only
+for Manasseh, the first-born, but Jacob insists that they both be blessed, so that their seed
+will prevail and eventually bear the Messiah himself.
+*** Psalms
+Psalm 19 is about rejoicing and exalting the Lord God and His salvation for His people.
+*** Proverbs
+These proverbs tell me to not fear my enemies when I'm intimidated by them, rather fear the Lord.
+Because going against Him is wicked, but going against wickedness He will uphold me.
+
+It talks of practical wisdom and guidance:
+1. Give to the poor, and don't delay such a thing.
+2. Don't harm a friend, for they trust in you.
+*** New Testament
+The Pharisees saw Jesus' disciples eating some grain from
+grainfields on the Sabbath, and rebuked Him. He responded
+using the OT, saying that Daniel and his followers ate of
+the priestly bread in the temple, because the Law is not
+made for man, but man for the Law. Human needs aren't
+overlooked, and they are of higher priority than the Law.
+
+Then Jesus went and healed people, and told them not to tell,
+so that it may be fulfilled in Isaiah 42:1-4, for three reasons:
+
+1. the growing hostility of the Jewish leaders
+2. the people's misunderstanding of the Messiah as an earthly, political leader
+3. our Lord's desire to evoke genuine faith not based solely on marvelous signs.
+** DONE Duolingo
+** DONE Typing
+| wpm | accuracy | word count |
+|  99 |       98 |         10 |
+| 121 |      100 |         10 |
+|  83 |       92 |         25 |
+|  95 |       99 |         25 |
+|  94 |      100 |         25 |
+|  95 |       99 |         25 |
+|  88 |       96 |         50 |
+|  90 |       96 |         50 |
+|  84 |       95 |        100 |
+** Read
+*** Input book(s) and all info here:
+**** 
+***** starting page:
+***** ending page  : 
+***** study/read   : 
+***** summarization:
+** Git 
+* TODO [#A] Evening Routine
+:PROPERTIES:
+DEADLINE: <2023-12-28 Thu>
+:END:
+** Reflection
+** Thanks
+** Remembrance 
+** Mobility: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
