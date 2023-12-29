@@ -14,7 +14,7 @@ I walked the dogs, and will be with them for the next couple days because
 everyone else left for Texas. I plan to get work done, eat healthy and
 take care of the dogs.
 ** DONE Mobility/Strength ideas: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-28 Thu>
 :END:
@@ -79,19 +79,100 @@ so that it may be fulfilled in Isaiah 42:1-4, for three reasons:
 |  88 |       96 |         50 |
 |  90 |       96 |         50 |
 |  84 |       95 |        100 |
-** Read
+** DONE Read
 *** Input book(s) and all info here:
-**** 
-***** starting page:
-***** ending page  : 
-***** study/read   : 
+**** Hypostatic Prayer
+***** starting page: 251
+***** ending page  : 285
 ***** summarization:
-** Git 
-* TODO [#A] Evening Routine
+"The Incomprehensible Character of Self-reproach"
+The words "Keep thy mind in hell and despair not" may perplex people, but
+the deep meaning and practicality of these words describes the ethos of the
+Orthodox Christian. Keeping ones mind in hell is acknowledging the worldly
+and spiritual powers that are against Him and the One whose image is bestowed
+on him. To know this state and to repent for partaking in this devilish plot
+against Him is keeping ones mind in hell, and forsaking not is when the Christian
+has faith, hopes, and loves his God who will deliver him and all through Him who
+died for our sins.
+The chapter continues talking of demonology, and how our turning from God is different,
+in that their rebellion is eternal, whereas ours is temporal and we can fix it through and
+in Christ.
+It talks of how God allows temptations to arise in us, so that we may overcome them and
+show our love for God. So that we are strengthened and truly live a rational life which
+God hath provided. Though, we aren't perfect, so when our created will has suffered greatly,
+and we fall into despair, we shouldn't stay there long, and return to God who will extend
+His almighty hand to His faithful. God is always there, whether we need Him or not, but we
+always need Him, so that we are strengthened and become deified after being worthy and taking
+His most pure Body and Blood in the mysteries of His Church.
+On the words that Saint Silouan received, he said, "Since then I have stayed my mind in hell
+and I burn in the sombre fire, yearning after the Lord and seeking Him in tears."
+
+This chapter kept clarifying what the individual words mean, so that interpretation doesn't fall
+outside of Christ's Church and its teachings.
+
+The next chapter "Thanksgiving" shows an inverse to the words that St. Silouan received, where first
+the faithful one thanks God for all that one can list, and in doing this they are ever reminded of
+how they themselves corrupt the good things that Christ has given them.
+
+Finished this book, it was a great book to show and explain Christ's way of life, which included praying
+and suffering, and how these two are the biggest parts of a Christian life, to call upon the Lord our God
+and to go throughout this harsh world living in His commandments which brings His creation to how it should
+be, good, when He created it. The Christian life, as shown in this book, is one of dying daily to the ways
+of the world, and to live in Christ, who has destroyed death by death.
+**** Algorithms to Live By
+***** starting page: 59
+***** ending page  : 84
+***** summarization:
+The _sorting_ algorithm:
+
+two main ways it is used:
+
+1. a systemic way to sort ordinally n amount of things
+   You have to compare these, meaning you have to atleast see everything once,
+   but then have to see comparatively which ones are "higher/lower" than others.
+   
+2. an organic way to sort cardinally any new amount of things
+   things aren't necessarily "sorted" like how a list or array of numbers would be,
+   it is organic, like little fish not bumping into sharks in the see or little monkeys
+   not fighting the biggest monkey in the kingdom, these things happen naturally because
+   there's a measure or cardinal number that is a guiding factor in these processes.
+
+** DONE Git 
+** DONE Gym
+** DONE SDL practice
+* DONE [#A] Evening Routine
 :PROPERTIES:
 DEADLINE: <2023-12-28 Thu>
 :END:
-** Reflection
-** Thanks
-** Remembrance 
-** Mobility: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+** DONE Reflection
+Today went amazing, I finished _Hypostatic Prayer_, and I thought
+that I would go straight on to read the Divine Liturgy book but I
+think I will wait on that so that I'm only reading one book right
+now because I do want to prepare for next semester at least a little
+bit where right now it seems I'm reading more than what seems good for
+me, since I'm trying to finish two books quickly by reading 30+ pages
+of both, which right now I want to do to get some books finished, but I
+shouldn't do that of two books if I want to get some computer/other work
+done as well. I could manage it, only if I fixed my sleep schedule and
+pomodoro'd and efficiently maxed my day out but this is also a break,
+so I don't want to go into next semester like these semesters were merged
+together ( which is what it would seem like if I tried to read two books
+in huge chunks while noting them alongside the Bible which I've started
+noting to recap what I've read better alongside the computer/math work
+I want to get done to be better prepared for next semester. )
+** DONE Thanks
+I thank God for this day, as usual on a day that goes amazing in the morning, I'm disobedient
+to God and I sin gravely, such a grave sin where a man was killed because he wasted his seed
+as I do as well, and this all starts with pride which then leads to lust and so on...
+** DONE Remembrance 
+I've sinned in pride, which led to these sins, in order:
+I've sinned in gluttony, by eating abundantly and not having prudence to go shopping
+for longer lasting, more fulfilling meals that I wouldn't have the trouble of understanding
+measurements (if i were more prudent), God help me to understand myself, my appetite and the
+cause of all sin, pride.
+After this, I was despondent, on my phone, the laziest, most sloth filled hobby that I could ever do,
+yet I feed it everyday, have mercy on me.
+Then, finally, while all of these sins piled on me, I couldn't discern what God wanted me to do, and I
+sinned in lust, have mercy on me. I shall call upon Your name everyday Lord, when the demons try to tear
+me away from You.
+** DONE Mobility: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]

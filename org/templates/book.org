@@ -1,5 +1,4 @@
 **** %?
 ***** starting page:
 ***** ending page  : 
-***** study/read   : 
 ***** summarization:

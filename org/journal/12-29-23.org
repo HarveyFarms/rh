@@ -1,0 +1,138 @@
+* DONE [#A] Morning Routine 
+:PROPERTIES:
+DEADLINE: <2023-12-29 Fri>
+:END:
+** DONE Prayer/Lives of the Saints/Lectionary
+** DONE Thanksgiving
+Thank You Lord, for the peaceful night that You granted me.
+
+Thank You Lord, for helping me rise out of bed, by Your Cross,
+O Savior, I realized where I need to be spiritually.
+** DONE Reflection
+Woke up at 3 AM, slept a little longer until 3:45, sat in
+bed for a bit, pondering because I had to pee and it was
+about time to get up, I made the sign of the cross and
+started my day.
+
+My dream was a weird one, it had to do with a bus, parties,
+and people in my class from high school.
+** DONE Mobility: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
+* TODO [#A] Today's goals
+:PROPERTIES:
+DEADLINE: <2023-12-29 Fri>
+:END:
+** DONE Plan & Agenda
+Nothing on the agenda, but I do want to have SDL & LaTeX on my mind
+during the rest of break as well as getting work done for other classes
+
+List for today:
+- Get daily things done
+- Let dogs out for a walk
+- Go to the gym
+- Go grocery shopping
+- Come home and eat lunch
+- Take care of the dogs
+- Find a topic to study
+- Do pomodoro on that topic
+- When done/satisfied, move to next topic
+- Try to get 2-3 topics done today
+** DONE Bible 
+*** Old Testament
+Chapter 49 and 50 of Genesis were the last chapters.
+It ended with Jacob (Israel) prophesying of his sons
+and then passing away, where Joseph and all of his brothers
+buried Jacob where Abraham, Isaac, etc. were buried.
+Then Joseph passed away, and he promised his brethren that
+God was surely visit them and bring them out of the land to
+the land that God swore to their fathers, Abraham, Isaac, and
+Jacob. This prefigures both the exodus out of Egypt and the
+resurrection from the dead.
+*** Psalms
+Ps 20 starts with a king who believes and hopes in God and
+is in return blessed by Him. It then talks of how God will
+destroy His enemies, namely the devil and his angels.
+
+"Ps 20 is also a royal psalm, because it is a prophecy of the King's triumphal
+Ascension, in which He is also the End."
+*** Proverbs
+continued from yesterday:
+It talks of practical wisdom and guidance:
+1. Give to the poor, and don't delay such a thing.
+2. Don't harm a friend, for they trust in you.
+3. Don't quarell with a man, lest he do you harm.
+4. Don't incur the reproach of evil men, neither seek their ways. 
+   incur: to become liable or subject to.
+
+4 continued:
+- For every lawless man is unclean before the Lord, and he does not sit among
+  the righteous
+- The curse of God is in the houses of the ungodly, but He blessed the dwellings
+  of the righteous
+- The Lord opposes the arrogant, but He gives grace to the humble.
+- The wise shall inherit glory, but the ungodly exalt dishonor.
+
+This wisdom is important because I constantly at it, but reading it straight on, when
+my mind is in a state of cloudiness and carelessness would set me on straight paths.
+
+I have to realize that temptations are ~temporary~. They will go away.
+
+Proverbs is truly a life-giving book, so is the rest of the Bible, but proverbs speaks to those
+who want to follow the ways of righteousness, with practical and wise advice.
+*** New Testament
+Firstly, Christ healed a demon-possessed man and the Scribes/Pharisees said that
+He casts demons away by the ruler of demons, Christ points out their hypocrisy
+and mentions many things including, "How can you enter a strong man's house and
+plunder his goods without binding the strong man up?" Jesus then ends by saying
+that those who deny the works of the Holy Spirit condemn theirselves, and harden
+their own hearts, and are unrepentant because of this. Also, He mentions how man
+will have to give an account for every idle word (sin) that man shall speak (commit).
+
+The Pharisees then ask Christ for a sign, but He rebukes them, essentially saying that
+this sinful generation wants a sign but it shall not be given to them, because of their 
+wicked intent, except the sign of the resurrection, which Paul even claims to be the sign
+that he would give, "We preach Christ crucified, unto the Jews a stumblingblock and unto
+the Greeks foolishness."
+** DONE Duolingo
+** DONE Typing
+| wpm | accuracy | word count |
+| 107 |      100 |         10 |
+|  91 |       96 |         10 |
+| 110 |       98 |         10 |
+|  96 |       99 |         25 |
+|  84 |       92 |         25 |
+|  90 |       95 |         25 |
+|  94 |       97 |         25 |
+| 114 |      100 |         25 |
+|  94 |       97 |         50 |
+|  88 |       96 |         50 |
+| 104 |       99 |         50 |
+98 wpm
+98 accuracy
+305 total words
+** Read
+*** Input book(s) and all info here:
+**** Algorithms to Live By
+***** starting page:
+***** ending page  : 
+***** summarization:
+** Git
+** Take dogs for a walk
+** Gym
+** Shopping
+** chapter28 project
+** calc
+** SDL practice
+** physics
+** LaTeX practice
+* TODO [#A] Evening Routine
+:PROPERTIES:
+DEADLINE: <2023-12-29 Fri>
+:END:
+** Reflection
+** Thanks
+** Remembrance 
+** Mobility: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+* Break study
+:PROPERTIES:
+SCHEDULED: <2023-12-29 Fri +1d>
+:END:

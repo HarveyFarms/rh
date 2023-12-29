@@ -112,9 +112,8 @@ I figured that I will just make a todo such that I can visit the todo if I want 
 (usually only if i don't have my supernote with me) but in the future I imagine I will find out a better way
 for todos.
 
-* TODO Figure out SDL & LaTeX
+* Figure out SDL & LaTeX
 :PROPERTIES:
-SCHEDULED: <2023-12-16 Sat +1d>
 :END:
 
 

@@ -88,7 +88,6 @@ Did some fun kettlebell on a band axe swings, with some extensive ankle plyometr
 ** DONE Make sure everything is plugged in
 ** DONE Prayer
 ** DONE 7:30+ hours of sleep
-* TODO Finish Algorithms to Live By book before 2nd semester 
+* Finish Algorithms to Live By book before 2nd semester 
 :PROPERTIES:
-SCHEDULED: <2023-12-25 Mon +1d>
 :END:
