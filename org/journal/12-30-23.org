@@ -1,6 +1,6 @@
 * todo [#A] Daily
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-30 Sat>
 :END:
 ** Morning
 *** Prayer/Lives of the Saints/Lectionary
@@ -30,6 +30,6 @@ DEADLINE: %t
 *** Mobility
 * todo [#A] Plan [/]
 :PROPERTIES:
-DEADLINE: %t
+DEADLINE: <2023-12-30 Sat>
 :END:
 - [ ]

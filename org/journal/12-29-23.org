@@ -17,7 +17,7 @@ started my day.
 My dream was a weird one, it had to do with a bus, parties,
 and people in my class from high school.
 ** DONE Mobility: [[~/rh/org/extra/atg/kettlebell.org][w/kettlebell]] [[~/rh/org/extra/atg/mobility.org][w/o kettlebell]]
-* TODO [#A] Today's goals
+* DONE [#A] Today's goals
 :PROPERTIES:
 DEADLINE: <2023-12-29 Fri>
 :END:
@@ -109,29 +109,22 @@ the Greeks foolishness."
 98 wpm
 98 accuracy
 305 total words
-** Read
+** DONE Git
+** DONE Read
 *** Input book(s) and all info here:
 **** Algorithms to Live By
-***** starting page:
-***** ending page  : 
+***** starting page: 84
+***** ending page  : 103
 ***** summarization:
-** Git
-** Take dogs for a walk
-** Gym
-** Shopping
-** chapter28 project
-** calc
-** SDL practice
-** physics
-** LaTeX practice
-* TODO [#A] Evening Routine
-:PROPERTIES:
-DEADLINE: <2023-12-29 Fri>
-:END:
-** Reflection
-** Thanks
-** Remembrance 
-** Mobility: [[../extra/atg/kettlebell.org][w/kettlebell]] [[../extra/atg/mobility.org][w/o kettlebell]]
+After the chapter of sorting, this chapter discussed caching,
+or organizing bits of memory for ease of usage (in terms of
+time cost to find a bit of memory).
+** DONE Take dogs for a walk
+** DONE chapter28 project
+** DONE Shopping
+** DONE calc
+** DONE physics
+** DONE Get Laura's packages
 * Break study
 :PROPERTIES:
 SCHEDULED: <2023-12-29 Fri +1d>
