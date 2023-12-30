@@ -206,7 +206,7 @@
 (setq ibuffer-never-show-predicates
       (list "\\*scratch\\*" "\\*Messages\\*" "output\\*"))
 
-(setq org-ellipsis "⬇")
+(setq org-ellipsis "˯")
 
 (use-package ox-reveal
   :ensure t)
