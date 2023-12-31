@@ -1,0 +1,118 @@
+#+title: Last day of 2023
+#+author: Ryan Harvey
+* todo [#A] Daily
+:PROPERTIES:
+DEADLINE: <2023-12-31 Sun>
+:END:
+** done Morning
+*** done Prayer/Lives of the Saints/Lectionary
+*** done Thanksgiving
+Lord, after reading the lectionary for today, I'm ever reminded of my temporary time on this earth.
+I'm reminded that I truly want it to go to you. For you have given me Life. Thank You, Lord.
+*** done Reflection
+Yesterday wasn't the best day, I finished the daily todos, but it was a long trudge
+through that process. I even read in my _Algorithms to Live By_ book right after
+sinning and wasting most of my day on my phone the error of procrastinating, that
+it's simply the right answer to the wrong problem, meaning I'm doing things, keeping
+busy but it's not on the thing(s) I truly need to be prioritizing, and I need to think
+about my personal Interrupt Coalescing, or the rate at which I can be interrupted, especially
+by my phone. I need to establish this, because I've stated it before:
+
+~Only use your phone when you're out and doing things, and use it for short intervals when you can't do anything other than use it.~
+*** done Mobility
+** Daily TODOs
+*** done Duolingo
+*** done Typing
+| wpm | accuracy | word count |
+| 121 |      100 |         10 |
+| 108 |      100 |         10 |
+| 103 |      100 |         10 |
+| 101 |      100 |         10 |
+| 112 |      100 |         25 |
+| 107 |      100 |         25 |
+| 101 |       99 |         25 |
+*** done Bible 
+**** Old Testament
+Chapters 4-6 of Exodus:
+- Attesting Miracles
+  Moses, after hearing from God that he should deliver Israel's kin from Egypt,
+  doubted that they would believe him, so God gave Moses the power of certain
+  miracles, in which the people would be convinced. Moses then set out and talked 
+  with Aaron about this plan and they headed into Egypt, where they worked signs
+  and the Israelites believed that their God was going to deliver them.
+
+  One important part of this chapter is when God said, "But I will harden his heart,
+  and he will not let the people go." in reference to the Pharaoh when Moses asks
+  to deliver his people from Egypt. This is important because it doesn't mean God is
+  controlling the Pharaoh and hardening his heart Himself, this isn't how things work.
+  Yes, He could do that, but He doesn't do that, for He is a merciful God who wants
+  all to come to Him, not a select few. This verse says this because the words 'will'
+  and 'permit' are used interchangeably here. It's because of a presupp (of word/concept fallacy)
+  to immediately blaspheme against God who wants His people, everyone He created, to come to Him
+  of their own volition.
+- Moses and Aaron before Pharaoh 
+  Moses and Aaron asked the Pharaoh to release the Israelites so they could worship God. The Pharaoh
+  denied them this request, saying, "Who is He, that I should obey His voice to let Israel go? I do not
+  know the Lord, nor will I let Israel go." This showed his pride and arrogance, for he did know the Lord,
+  he denied Him, though, and took up lordship as himself.
+  The Pharaoh instead multiplied the sufferings of the Israelites, which in turn made the Israelites rebel
+  against Moses. Both Moses and the Israelites were frusturated because of the multiplied work, they weren't
+  patient and didn't care for the virtue, instead they rebelled in their mind against the God that cared for them.
+- God Promises Israel's Deliverance
+  After Moses' lamentation, God told him again that He would deliver them. Moses then told the people this but they were
+  unbelieving, so God told Moses to go to the Pharaoh again, and tell him to release those in bondage.
+**** Psalms
+This continues yesterday's psalm 21. Yesterday it was lamenting of the horrible position of the believer,
+the suffering that the believer had to endure because of his circumstance and his self-reproach. The second
+half, read today was a joyous one, one of a resurrection. The believer now exalts the Lord his God, saying:
+
+~I will declare my name to my brethren; In the midst of the church I will sing to You.~
+~You who fear the Lord, praise Him. All you seed of Jacob, glorify Him; Fear Him, all you seed of Israel.~
+~For He has not despised nor scorned the beggar's supplication, Nor has He turned away His face from me; And when I cried out to Him, He heard me.~
+~My praise is from You in the great church; I will pay my vows before those who fear Him.~
+**** Proverbs
+The reading is from Proverbs chapter 4 verses 9-12:
+- Christ is speaking to us, as a Father to a son, commanding him to
+  follow in His words, so that the years of our life will increase,
+  ~that many ways of life may be ours~. For HE teaches us ways of wisdom,
+  and sets us on upright paths. If we walk, our steps won't be confined,
+  if we run we will not grow weary. We must keep this instruction, and
+  guard it with our lives...
+**** New Testament
+Christ starts with the parable of the mustard seed. One that is ~least of all seeds~,
+but is grown greater than all herbs and becomes a tree.
+
+Christ then told the parable of the Hidden Treasure and the Pearl of Great Price, of which
+the Fathers interpretation shows us that the treasures and pearls prior to the special hidden
+treasure or pearl represent all of the wisdom of the world, of which is void of the fulness of
+Christ. When the believer sees the hidden treasure that is Christ, he sells all he has in order
+to fully embrace this treasure which is everlasting, lest his prior treasures hold him back from
+doing so.
+
+Christ also tells of another version of the wheat and the tares, this time of a dragnet and fish
+of all types. This time the bad fish are thrown away, even when caught in the net, which means that
+those in the Church are still subject to punishment.
+
+Christ asks his disciples if they understood all things, they replied affirmitavely. Christ then said that
+they're like a householder now who brings out his treasure things new and old, referencing both the new and
+old testament.
+
+The reading ends with Christ being doubted by people at Nazareth, where He replied,
+
+~"A prophet is not without honor except in his own country and in his own house."~
+*** Read
+**** Input book(s) and all info here:
+***** 
+****** starting page: 
+****** ending page  : 
+****** summarization: 
+** Evening
+*** Reflection
+*** Thanks
+*** Remembrance 
+*** Mobility
+* todo [#A] Plan [/]
+:PROPERTIES:
+DEADLINE: <2023-12-31 Sun>
+:END:
+- [ ] 
