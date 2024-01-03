@@ -1,0 +1,71 @@
+* todo [#A] Daily
+:PROPERTIES:
+DEADLINE: <2024-01-03 Wed>
+:END:
+** done Morning
+*** done Prayer/Lives of the Saints/Lectionary
+*** done Thanksgiving
+Thank You, Lord for this day which You have given me. I shall remember Your blessings on me for they are very good. In remembering Your blessings may I be better enabled to bless others, so that we can all rejoice in You, the True God.
+*** done Reflection
+Yesterday was alright, I want today to be better though. I want to get a lot done today, and not only that, I want to start reading the book Fr. gave me, I've been holding it off and I just need to get it started. I do want to note in that book so it may be a little longer but it will be worthwhile to do so. I might split up reading it in two sections of the day.
+*** done Mobility
+** Daily TODOs
+*** done Duolingo
+*** done Typing
+| wpm | accuracy | word count |
+|-----+----------+------------|
+| 107 |      100 |         25 |
+|  91 |       98 |         25 |
+|  95 |       99 |         25 |
+|  98 |       97 |         25 |
+| 109 |      100 |         25 |
+|  96 |       99 |         25 |
+| 122 |      100 |         10 |
+|  99 |       96 |         10 |
+| 114 |      100 |         10 |
+| 109 |      100 |         10 |
+| 107 |       98 |         10 |
+| 107 |      100 |         10 |
+| 111 |      100 |         10 |
+| 108 |      100 |         10 |
+*** done Bible 
+**** Old Testament
+Moses hears from God the blessedness of the firstborn, as God delivered the Israelites from
+their firstborn being killed.
+
+Now the crossing of the Red Sea occurs, where Moses splits the river in two and the Israelites are
+delivered once they cross the sea and the Egyptians behind them are crushed. This represents Satan
+and his angels getting crushed through Christ's baptism. It also shows the deliverance and assurance
+of promises of the Lord. Finally, it shows how God's blessings has power over nature.
+
+The Israelites then sing a song of remembrance to God for the deliverance He fulfilled in them.
+The Israelites become thirsty and don't drink for three days, but God takes care of them and
+gives them drink from a tree (symbolizing the Cross and Baptism). They then traveled to Elim,
+where there were 12 fountains of water (apostles) and seventy palm trees and they rested there.
+**** Psalms
+The rest of Ps 24 is exalting the man who puts his trust in God, for "His soul shall dwell among good things;
+His seed shall inherit the earth."
+**** Proverbs
+These proverbs tell more of following the ways of the Lord, for the opposing path is perverse. It also
+mentions how He will make our paths straight.
+**** New Testament
+Christ is confronted by the Pharisees and scribes, where they question why His followers eat and not wash
+their hands, which is against the "tradition of the elders." Christ calls them out as hypocrites, saying
+that they made tradition such that it puts the commandment of God at no effect, thereby transgressing the
+first commandment.
+*** Read
+**** Input book(s) and all info here:
+***** 
+****** starting page: 
+****** ending page  : 
+****** summarization: 
+** Evening
+*** Reflection
+*** Thanks
+*** Remembrance 
+*** Mobility
+* todo [#A] Plan [/]
+:PROPERTIES:
+DEADLINE: <2024-01-03 Wed>
+:END:
+- [ ] 

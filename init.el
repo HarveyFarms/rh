@@ -121,6 +121,7 @@
 
 (require 'org)
 (setq org-startup-indented t)
+(add-hook 'org-mode-hook 'visual-line-mode)
 (add-hook 'org-mode-hook 'org-indent-mode)
 (setq org-M-RET-may-split-line nil)
 
