@@ -236,3 +236,4 @@
  '(size-indication-mode t)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
+
