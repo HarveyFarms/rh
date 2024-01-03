@@ -127,5 +127,4 @@ time cost to find a bit of memory).
 ** DONE Get Laura's packages
 * Break study
 :PROPERTIES:
-SCHEDULED: <2023-12-29 Fri +1d>
 :END:

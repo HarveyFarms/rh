@@ -1,0 +1,101 @@
+* done [#A] Daily
+:PROPERTIES:
+DEADLINE: <2024-01-02 Tue>
+:END:
+** done Morning
+*** done Prayer/Lives of the Saints/Lectionary
+*** done Thanksgiving
+Thank You Lord, for life, of which I know we aren't grateful enough for.
+Thank You, for my family which You have given me, help me so that I can
+show them Your goodness and the life You provide.
+Thank You, for Your Church, which keeps from falsehood that people make
+up and it restores man to his former image, one of divine likeness.
+*** done Reflection
+I watched three hours of a documentary of a cult where a woman was worshipped as
+God and there were many things about it but one being that they were all unhappy,
+as much as it seemed they were at peace with their drugs, it was clear to see they
+were unhappy, because they built their house on sand. Christ is the way to live,
+Christ is the One to worship, anything else leads to confusion and chaos. Christ
+reveals to us reality, in which we don't know in any other system. Glory to Your
+incomprehensible condenscension, O Word.
+*** done Mobility
+** done Daily TODOs
+*** done Duolingo
+*** done Typing
+| wpm | accuracy | word count |
+| 110 |      100 |         10 |
+| 108 |      100 |         10 |
+| 114 |      100 |         10 |
+| 102 |      100 |         10 |
+| 103 |      100 |         10 |
+| 105 |       99 |         25 |
+|  95 |       95 |         25 |
+|  93 |       98 |         25 |
+| 112 |      100 |         25 |
+| 111 |       99 |         25 |
+| 105 |      100 |         25 |
+*** done Bible 
+**** Old Testament
+Moses continued asking the Pharaoh to release the Israelites but he wouldn't do so,
+even after a plague of locusts and a plague of darkness.
+
+So God told Moses that the firstborn of all of the Egyptians would be killed, and all of the Egyptians
+would bow down to Moses because of this mighty act, and they would beg him to leave. 
+
+Before this would happen, the Lord told Moses things concerning the Passover lamb, of which was tied to
+this event in particular where God saved His people. This included a lamb to sacrifice, a blood mark on their
+doors, and unleavened bread, all which typify Christ. Then after the Lord comes to kill the firstborn, because
+of their unbelief, He sees if a blood mark is on the doors of the faithful, of which He wouldn't kill the firstborn
+of. The Israelites were saved, they plundered the Egyptians by the latter willingly giving them gold and headed out.
+Even some gentiles converted and were circumcised because they were faithful to God.
+**** Psalms
+Ps 24 is a priestly intercession before God, I only read the first half, it's very good.
+**** Proverbs
+The Wise Heart (Pr 4:19-23)
+- God intreats his son to follow his word, that they may not fail him
+- Mentions the heart, which is the method in keeping His word.
+- "Put away from yourself a crooked mouth / And remove unrighteous lips far from you."
+**** New Testament
+The NT reading is Christ walking on water. It ends with Christ healing multitudes with just a touch of His garment.
+
+I noticed some new things when reading the miracle of walking on water, such that Christ wasn't with His disciples on
+their boat this time, contrary to when He was when He was sleeping and the storms raged and He calmed them. I notice that
+He is building their faith, not being with them and showing greater signs will prepare them for building the Church possibly.
+*** done Read
+**** Input book(s) and all info here:
+***** Algorithms to Live By
+****** starting page: 170
+****** ending page  : 215
+****** summarization: 
+The first chapter in this reading was about relaxation, or understanding not all problems can be
+solved in a needed amount of time and give the best solution, learn to be fluid and change the problems
+accordingly, such that an answer is attainable that may not be the best, but it's close to the best in
+relation to the wide range of possibilities.
+
+The second chapter was about randomness, showing that randomness is actually a good thing for solving problems.
+Not all has to be strict and rigid, because sometimes it's either brute force or randomness, and randomness
+usually wins there for big problems. It's not just complete randomness though, it's guided randomness, it's
+randomness with a process and ultimately a goal in mind.
+***** When God is Not There
+****** starting page: 0
+****** ending page  : 31
+****** summarization:
+** done Evening
+*** done Reflection
+Today went alright, I read a lot but not all that I wanted. I'm waking up earlier and earlier to get a good
+schedule going. I only have two more nights here (not counting this one) so I'll make them count.
+*** done Thanks
+The Lord has given me a rest day. Every day on I shall keep His word, for His word keeps me.
+*** done Remembrance 
+This day I was gluttonous, let me be on guard of my stomach such that my soul is saved in place of it.
+*** done Mobility
+* done [#A] Plan [3/5]
+:PROPERTIES:
+DEADLINE: <2024-01-02 Tue>
+:END:
+- [X] calc practice/look ahead
+- [X] practice SDL
+- [X] physics
+- [ ] organize cs240 notes on org file
+  use LaTeX to practice that. 
+- [ ] read second book for daily todos 
