@@ -1,0 +1,92 @@
+* 2024-01-04
+** done todos [7/7]
+- [X] Read _Algorithms to Live By_
+- [X] Do the [[file:~/cc/cs245/assignments/review/review.pdf][review]] assignment for ciss245
+- [X] Read _When God is not there_
+- [X] practice [[file:~/pdfbank/math/calc-based_physics.pdf][vectors (P92)]] in physics textbook
+- [X] practice some [[file:~/pdfbank/math/calc1.pdf][calc (P109 is questions, P466-470 is answers)]]  concepts (work, look at exponential/inverse trig functions)
+- [X] organize [[~/cc/cs245/cs245.org][cs245.org]] more
+- [X] practice [[file:~/cc/cs240/sdl/main.cpp][SDL]]
+  
+** done Routine
+*** done Morning
+**** done Prayer/Lives of the Saints/Lectionary
+**** done Thanksgiving
+- This wonderful new day that shall be filled with repentance
+- the very breath I breathe
+- every pump of my heart
+- every good thing originates from the Lord
+- My family
+- My friends
+- For my past,present,and future troubles, which God uses to sculpt me into 
+  His likeness if I am a co-worker in this process
+**** done Reflection
+Yesterday went alright, today will go even better. Not planning to touch my phone at all.
+May God help me in this endeavor.
+**** done Mobility
+*** done Daily TODOs
+**** done Duolingo
+**** done Typing
+| wpm | accuracy | word count |
+|-----+----------+------------|
+| 124 |      100 |         10 |
+|  84 |       97 |         10 |
+|  91 |       94 |         10 |
+| 103 |      100 |         10 |
+| 111 |      100 |         10 |
+|  99 |       98 |         10 |
+|  91 |       96 |         25 |
+|  86 |       94 |         25 |
+|  95 |       96 |         25 |
+| 107 |       99 |         25 |
+|  90 |       97 |         25 |
+| 101 |       97 |         25 |
+|  94 |       97 |         25 |
+| 103 |       98 |         25 |
+| 113 |      100 |         25 |
+|  92 |       96 |         50 |
+**** done Bible 
+***** Old Testament
+Moses gets complaints from the Israelites while they are traveling that they're starving and that it would've been better for their firstborn to die instead of the whole multitude of them, Moses tells them that they aren't complaining to him, they are complaining to their Lord. They are ungrateful and without faith. Lord, have mercy. So God rains down manna from the heavens which feeds the people, and through Moses establishes the Sabbath. "Man was not made for Sabbath, but Sabbath for man." The people continue breaking these things which Moses gives them as a guide for spiritual life, which ultimately leads to their downfall. But the lineage will be maintained for our Lord to redeem all of creation.
+
+Later, after the Israelites were out of the Forest of Sin, they were thirsty, and again complained to Moses thereby rebelling against God. God then told Moses to go to a certain rock with his staff, and Moses split the rock in two, wherefore it gushed water for the Israelites. The rock symbolizes the Eucharist, in which the nature of something is completely changed yet it remains itself (bread and wine turning into the body and blood of Christ.)
+
+There was an army of Amalek which the Israelites defeated, it has a telling story of how Moses prayed during the war.
+
+Moses' father-in-law (Jethro) came down to see Moses and noticed that Moses was judge over all of the land, so Jethro told Moses that he should appoint wise men to do this job, and when it get's serious to then come to Moses. This typifies the Church and wise counsel, of which the wise also take part of.
+***** Psalms
+Ps 25 is a beautiful psalm that is praising God for even just the act of worship, in how beautiful and great it is.
+***** Proverbs
+Chapter 5 is about lust, marriage, fornication, etc. The first 6 verses tell reader to hold fast to wisdom, that they may guard good thinking and hold fast to
+the commands that Christ gives, of which first is to avoid a base woman, who drips honey from her lips and seems good for a season, but will turn out bitter,
+for they lack the wisdom of God. Commentary that I like on these verses is as follows:
+
+~Wisdom is twofold. It is Christ Himself, and secondly, it is His words or teachings (v.1) His children who incline their ear to Him and His teaching will guard good thinking, which is called perception (v.2). Perception is the crown of the virtues. And the good thinking in this case revolves around Wisdom's command concerning fornication vs. marriage. Moreover, His teaching regarding this matter is called a command, because it is not subject to change. His command is to stay away from sex outside marriage, for this parth will lead to Hades and death (vv.3-6)~
+***** New Testament
+Firstly, a woman came to Jesus for her daughter to be healed, she cried out for the Lord to have mercy on her. The disciples wanted Christ to heal her daughter so she would stop crying so loudly, but Christ refused. Christ then told her it is not good to take the children's (jews) bread and give it to the little dogs (gentiles). This was to test her faith, not out of a lack of compassion. She showed that she was faithful, when she said, "Yes, Lord, yet even the little dogs eat the crumbs which fall from their masters' table." Of which Jesus saw her faith and let her daughter be healed according to her faith. The Gospel was first to the jews, of which God made them a sojourner in this world and promised to deliver them, but after the resurrection all of creation was redeemed, so even the gentiles can be saved.
+
+Christ then healed more people, multitudes actually, of which Chrysostom has a wise quote (Mt 15:29-31), then He broke some bread into enough to feed four thousand men.
+*** done Evening
+**** done Reflection
+Today went great, my workflow is a little better with my new things. All in all, I did well today.
+**** done Thanks
+The Lord blessed me with meeting Annette, and getting to talk to her one on one since it's usually awkward with just the both of us.
+
+The Lord also blessed me with productivity today, may I worship Him worthily these next few days, since I get the blessed opportunity to live and see Him in His holy Temple.
+**** done Remembrance 
+I have been gluttonous today. I ate a well-rounded supper, and somehow after that I ate even more, ice-cream, cookies. Have mercy on me, Lord. These things can lead to horrific sins, deliver me, O Lord, from the smallest of sins, but compared to Your holiness they are immeasurable grand. But according to Your ocean of infinite mercy, they are blotted out. Have mercy on me, O God, Your worthless servant.
+**** done Mobility
+** done Read
+*** Input book(s) and all info here:
+**** Algorithms to Live By
+***** starting page: 229
+***** ending page  : 263
+***** summarization: 
+finished the book, good read.
+**** When God Is Not There
+***** starting page: 15
+***** ending page  : 31
+***** summarization:
+story of girl who had a brain tumor and when it got worse, the best doctors in the world said
+she was going to die soon. Her family turned to God fully and fervently prayed, accepting all
+outcomes no matter how they came about. She survived and is still living today. Glory to God.

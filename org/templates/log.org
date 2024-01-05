@@ -1,0 +1,32 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: %t %<%H:%M>
+* Routine
+** Morning
+*** Prayer/Lives of the Saints/Lectionary
+*** Thanksgiving
+*** Reflection
+*** Mobility
+*** Duolingo
+*** Typing
+| wpm | accuracy | word count |
+|-----+----------+------------|
+|     |          |            |
+** Evening
+*** Typing
+| wpm | accuracy | word count |
+|-----+----------+------------|
+|     |          |            |
+*** Mobility
+*** Remembrance 
+*** Reflection
+*** Thanksgiving
+* Plan [/]
+- [ ] 
+* Read
+** Bible 
+*** Old Testament ()
+*** Psalms ()
+*** Proverbs ()
+*** New Testament ()
+* Extra

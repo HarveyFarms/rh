@@ -1,0 +1,13 @@
+#+title: Learning SDL
+#+author: Ryan Harvey
+
+* resources
+** API reference
+- name https://wiki.libsdl.org/SDL2/CategoryAPI
+- category https://wiki.libsdl.org/SDL2/APIByCategory
+** tutorials
+*** website
+https://www.parallelrealities.co.uk/tutorials/
+*** youtube playlists
+1. [[https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx][20+ videos ~10-30 minute videos]]
+2. [[https://www.youtube.com/watch?v=1KD4Ae0tX0g&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR][50+ videos ~10-30 minute videos]]_

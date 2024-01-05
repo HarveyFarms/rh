@@ -1,4 +1,0 @@
-* TODO %^
-:PROPERTIES:
-DEADLINE: %^t
-:END:
