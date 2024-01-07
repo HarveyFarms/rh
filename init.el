@@ -226,14 +226,22 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(blink-cursor-mode nil)
- '(column-number-mode t)
  '(display-battery-mode t)
  '(display-line-numbers-type 'relative)
  '(display-time-mode t)
  '(global-display-line-numbers-mode t)
+ '(line-number-mode nil)
  '(menu-bar-mode nil)
+ '(org-capture-templates
+   '(("l" "log" plain
+      (here)
+      (file "~/rh/org/templates/log.org")
+      :immediate-finish t)
+     ("b" "Book entry" plain
+      (here)
+      (file "~/rh/org/templates/book.org")
+      :immediate-finish t)) t)
  '(scroll-bar-mode nil)
- '(size-indication-mode t)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
 
