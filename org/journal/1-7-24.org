@@ -1,6 +1,6 @@
 #+title: Daily Log
 #+author: Ryan Harvey
-#+date: %t %<%H:%M>
+#+date: <2024-01-07 Sun> 16:13
 * log 
 ** Routine
 *** Morning
