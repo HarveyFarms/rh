@@ -20,7 +20,15 @@ This semester is about to start! I'm excited. I know what to expect from last se
 |  86 |       97 |         25 |
 |  93 |      100 |         25 |
 |  77 |       95 |         25 |
-**** Mobility
+| 105 |       96 |         25 |
+|  84 |       96 |         25 |
+|  90 |       99 |         25 |
+| 104 |       99 |         25 |
+|  90 |       94 |         25 |
+|  92 |       93 |         25 |
+| 108 |       99 |         25 |
+| 105 |      100 |         25 |
+**** done Mobility
 *** Evening
 **** Typing
 **** Mobility
@@ -31,15 +39,18 @@ This semester is about to start! I'm excited. I know what to expect from last se
 - [X] do all reading in the morning
 - [X] git push before leaving; make sure you have everything as well.
 - [X] mark off bible plan for today after finishing
-- [ ] CLASSES START
+- [ ] First day of semester
   - [ ] plan out ciss245 notes (use cs245.org!!!)
   - [ ] look ahead for calc 2  (use m204... .org !!!)
-  - [ ] check out world literature and american history class
-      for how difficult they'll be and other things ... 
+  - [ ] world lit 
+    - [ ] fill out syllabus in org file
+    - [ ] do hmwk
 - [ ] Audit situation
 - [ ] get books for classes
+  opens 8:30
 - [ ] On-campus job
 - [ ] mailbox
+  - [ ] see what mailbox # is and things ...
 ** Read
 *** Bible 
 **** Old Testament (Ex 28; 29)
@@ -78,3 +89,41 @@ This chapter was over the healing of the paralytic at the pool of Bethseda.
 
 When Paul says that he preaches, "Christ crucified, a stumbling block to the jews and to the greeks foolishness." I somehow never fully grasp and forget sometimes that God is resurrection. He saves us from our worldly rational logic which leads only to despair in dark times. God is with us as well, He reveals Himself to us when we have the eyes to see and the ears to hear. 
 ** Extra
+schedule for first semester ...
+
+| Sunday | Monday       | Tuesday      | Wednesday    | Thursday      | Friday       | Saturday |
+|--------+--------------+--------------+--------------+---------------+--------------+----------|
+|--------+--------------+--------------+--------------+---------------+--------------+----------|
+| Church | english 9:05 | history 9:30 | english 9:05 | history 9:30  | english 9:05 |          |
+|        | cs350  11:15 |              | cs350  11:15 | cs245    2:00 | cs350  11:15 |          |
+|        | cs245   2:30 |              | cs245   2:30 |               | cs245   2:30 |          |
+*** ENGL-264W-OCA
+:PROPERTIES:
+SCHEDULED: <2024-01-08 Mon 9:05 +1w>
+SCHEDULED: <2024-01-10 Wed 9:05 +1w>
+SCHEDULED: <2024-01-12 Fri 9:05 +1w>
+:END:
+*** cs350
+:PROPERTIES:
+SCHEDULED: <2024-01-08 Mon 11:15 +1w>
+SCHEDULED: <2024-01-10 Wed 11:15 +1w>
+SCHEDULED: <2024-01-12 Fri 11:15 +1w>
+:END:
+*** cs245
+:PROPERTIES:
+SCHEDULED: <2024-01-08 Mon 14:30 +1w>
+SCHEDULED: <2024-01-10 Wed 14:30 +1w>
+SCHEDULED: <2024-01-11 Thu 14:00 +1w>
+SCHEDULED: <2024-01-12 Fri 14:30 +1w>
+:END:
+*** m222
+:PROPERTIES:
+SCHEDULED: <2024-01-08 Mon 12:20 +1w>
+SCHEDULED: <2024-01-10 Wed 12:20 +1w>
+SCHEDULED: <2024-01-12 Fri 12:20 +1w>
+:END:
+*** HIST-121-OCA
+:PROPERTIES:
+SCHEDULED: <2024-01-09 Tue 9:30 +1w>
+SCHEDULED: <2024-01-11 Thu 9:30 +1w>
+:END:
