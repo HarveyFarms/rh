@@ -1,4 +1,4 @@
 *** %?
-**** starting page:
+**** starting page: 
 **** ending page  : 
-**** summarization:
+**** summarization: 

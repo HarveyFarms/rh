@@ -7,17 +7,14 @@
 **** Prayer/Lives of the Saints/Lectionary
 **** Thanksgiving
 **** Reflection
-**** Mobility
 **** Duolingo
 **** Typing
 | wpm | accuracy | word count |
 |-----+----------+------------|
 |     |          |            |
+**** Mobility
 *** Evening
 **** Typing
-| wpm | accuracy | word count |
-|-----+----------+------------|
-|     |          |            |
 **** Mobility
 **** Remembrance 
 **** Reflection

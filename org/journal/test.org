@@ -1,3 +1,0 @@
-#+title: Daily Log
-#+author: Ryan Harvey
-#+date: %t
