@@ -29,28 +29,51 @@ This semester is about to start! I'm excited. I know what to expect from last se
 | 108 |       99 |         25 |
 | 105 |      100 |         25 |
 **** done Mobility
-*** Evening
-**** Typing
-**** Mobility
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-** Plan [3/8]
+*** done Evening
+**** done Typing
+| words per minute | accuracy | word count |
+|------------------+----------+------------|
+|               95 |       94 |         25 |
+|               95 |      100 |         25 |
+|              100 |       99 |         25 |
+|               96 |       95 |         25 |
+|               96 |       96 |         25 |
+|              102 |       96 |         25 |
+|               92 |       97 |         25 |
+|               94 |       98 |         25 |
+|              100 |      100 |         25 |
+**** done Mobility
+**** done Remembrance 
+I feel like I stunt my spiritual growth/vision when I enter Dulany, get a plate bigger than I can eat, and struggle to eat it all just so I can be able to say I didn't waste any food. It's a lose-lose game that I put myself in, not even the devil partakes in these actions I make that I don't even think about.
+
+Deliver me, O Lord, from my trials, but don't take these trials away while I'm in the midst of this life, for I shall be chastened by Your will, O Christ. As Hebrew 12:6-11 says:
+
+~For whom the Lord loves He chastens,~
+~And scourges every son whom He receives~
+
+**** done Reflection
+Today was exhausting, I didn't get a whole lot done, but I got the bare minimum done, Glory to God. May the Lord give me a harder day tomorrow.
+**** done Thanksgiving
+Thank You Lord, for this day which You have given me.
+
+It was filled with friends that haven't been in weeks,
+Joy was seen from ear to ear.
+** Plan [6/6]
 - [X] do all reading in the morning
 - [X] git push before leaving; make sure you have everything as well.
 - [X] mark off bible plan for today after finishing
-- [ ] First day of semester
-  - [ ] plan out ciss245 notes (use cs245.org!!!)
-  - [ ] look ahead for calc 2  (use m204... .org !!!)
-  - [ ] world lit 
-    - [ ] fill out syllabus in org file
-    - [ ] do hmwk
-- [ ] Audit situation
-- [ ] get books for classes
+- [X] First day of semester
+  - [X] plan out ciss245 notes (use cs245.org!!!)
+  - [X] look ahead for calc 2  (use m204... .org !!!)
+  - [X] world lit 
+    - [X] fill out syllabus in org file
+    - [X] do hmwk
+- [X] get books for classes
   opens 8:30
-- [ ] On-campus job
-- [ ] mailbox
-  - [ ] see what mailbox # is and things ...
+- [X] mailbox
+  - [X] see what mailbox # is and things ...
+# - [-] Audit situation
+# - [-] On-campus job
 ** Read
 *** Bible 
 **** Old Testament (Ex 28; 29)
