@@ -21,11 +21,11 @@ Yesterday was stressful, I didn't think I would have no time to do anything duri
 **** Remembrance 
 **** Reflection
 **** Thanksgiving
-** Plan [3/9]
+** Plan [7/9]
 - [X] Do discussion post for engl
 - [X] git push
-- [ ] eat
-- [ ] Go to HIST class
+- [X] eat
+- [X] Go to HIST class
 - [ ] spend rest of day in pomodoro
   - [ ] cs245
     - [ ] chapter 1 study
@@ -33,11 +33,17 @@ Yesterday was stressful, I didn't think I would have no time to do anything duri
     - [ ] assignment 1 peek
 - [ ] Go see Monacell from 2-3pm to ask about that last line in sonnet 179
 - [X] Audit situation
-- [-] On-campus job
-- [ ] Typing
+- [X] On-campus job
+ Stafford Library - Library Student Assistant 
+ Student Success - Student Success Ambassador 
+ Computer Sciences - Student Employee
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  |  94 |  96 |  25 |
+  |  97 |  98 |  25 |
+  | 109 | 100 |  25 |
+  |  94 |  96 |  25 |
 ** Read
 *** Bible 
 **** Old Testament (Ex 30-32)
