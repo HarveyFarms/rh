@@ -21,17 +21,18 @@ Yesterday was stressful, I didn't think I would have no time to do anything duri
 **** Remembrance 
 **** Reflection
 **** Thanksgiving
-** Plan [7/9]
+** Plan [8/9]
 - [X] Do discussion post for engl
 - [X] git push
 - [X] eat
 - [X] Go to HIST class
-- [ ] spend rest of day in pomodoro
+- [-] spend rest of day in pomodoro
   - [ ] cs245
     - [ ] chapter 1 study
     - [ ] quiz 1
     - [ ] assignment 1 peek
-- [ ] Go see Monacell from 2-3pm to ask about that last line in sonnet 179
+  - [X] hist121 reading
+- [X] Go see Monacell from 2-3pm to ask about that last line in sonnet 179
 - [X] Audit situation
 - [X] On-campus job
  Stafford Library - Library Student Assistant 
