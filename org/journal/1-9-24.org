@@ -15,22 +15,18 @@
 Yesterday was stressful, I didn't think I would have no time to do anything during the day. Maybe I'm exaggerating, I will get use to it and I will have to slip in times to do things, no problem.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Mobility
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-** Plan [8/9]
+*** done Evening
+** Plan [9/9]
 - [X] Do discussion post for engl
 - [X] git push
 - [X] eat
 - [X] Go to HIST class
-- [-] spend rest of day in pomodoro
-  - [ ] cs245
-    - [ ] chapter 1 study
-    - [ ] quiz 1
-    - [ ] assignment 1 peek
+- [X] spend rest of day in pomodoro
+  - [X] cs245
+    - [X] chapter 1 study
+      ended on pg 22
+    - [X] quiz 1
+    - [X] assignment 1 peek
   - [X] hist121 reading
 - [X] Go see Monacell from 2-3pm to ask about that last line in sonnet 179
 - [X] Audit situation

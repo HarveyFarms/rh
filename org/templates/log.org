@@ -4,7 +4,7 @@
 * log 
 ** Routine
 *** Morning
-**** Prayer/Lives of the Saints/Lectionary
+**** Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
 **** Thanksgiving
 **** Reflection
 **** Duolingo
