@@ -17,12 +17,19 @@ Magnesium is what I took before bed yesterday and I happened to wake up fully re
 **** Remembrance 
 **** Reflection
 **** Thanksgiving
-** Plan [/]
-- [ ] 
-- [ ] Typing
+** Plan [2/4]
+- [X] hist take lecture notes
+- [ ] get headphones from mailbox
+- [ ] ciss245
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 106 | 100 |  25 |
+  |  98 |  97 |  25 |
+  |  91 |  98 |  25 |
+  |  89 |  99 |  25 |
+  |  88 |  96 |  25 |
+  | 100 |  97 |  25 |
 ** Read
 *** Bible 
 **** Old Testament (Ex 35-37)
