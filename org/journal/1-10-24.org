@@ -12,20 +12,24 @@ Last hard day of the week, mondays and wednesdays will be all over the place and
 Lord, grant us the strength to finish out this day and the week well.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Mobility
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-** Plan [0/3]
-- [ ] Get headphones from mailbox
-- [ ] Go find and talk to physics professor about calc-based physics
-  - [ ] after ciss350
-- [ ] Typing
-  | wpm | acc | wrd |
-  |-----+-----+-----|
-  |     |     |     |
+*** done Evening
+**** done Typing
+| wpm | acc | amt |
+|-----+-----+-----|
+| 109 |  99 |  25 |
+| 101 |  99 |  25 |
+| 101 |  96 |  25 |
+| 100 |  99 |  25 |
+|  92 |  97 |  25 |
+|  96 |  98 |  25 |
+**** done Mobility
+**** done Remembrance 
+I got frusturated today instead of keeping calm and having the peace that Christs gives, have mercy.
+**** done Reflection
+Today went well, I fixed a major problem while also being able to read a good amount for both school and a class. Glory to God.
+**** done Thanksgiving
+The Lord blesses me greatly, yet I fail to notice it and render my prayer to Him. Now that we know this, let us pray to the Lord.
+** Plan [0/0]
 ** Read
 *** Bible 
 **** Old Testament (Ex 33-34)
