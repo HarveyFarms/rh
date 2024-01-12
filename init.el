@@ -2,6 +2,14 @@
 (setq inhibit-startup-screen t) ; Disable the startup screen
 (eshell)
 
+(defun run-shell-command-no-output (command)
+  "Run shell COMMAND and display output in echo area."
+  (interactive "sShell command: ")
+  (message "%s" (shell-command-to-string command)))
+
+(global-set-key (kbd "M-!") 'run-shell-command-no-output)
+
+
 (setq pop-up-windows nil)
 (setq ring-bell-function 'ignore)
 

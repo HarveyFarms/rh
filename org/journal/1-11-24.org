@@ -17,9 +17,10 @@ Magnesium is what I took before bed yesterday and I happened to wake up fully re
 **** Remembrance 
 **** Reflection
 **** Thanksgiving
-** Plan [2/4]
+** Plan [3/4]
 - [X] hist take lecture notes
-- [ ] get headphones from mailbox
+- [X] get headphones from mailbox
+  Will have to wait until tomorrow until order is automatically refunded to order again at correct address.
 - [ ] ciss245
 - [X] Typing
   | wpm | acc | wrd |
