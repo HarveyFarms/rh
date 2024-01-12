@@ -11,12 +11,22 @@ I lay down and slept, I awoke, for the Lord will help me.
 Magnesium is what I took before bed yesterday and I happened to wake up fully refreshed, so I'll keep that in mind for the future. Also, getting the virtual machine set up was a huge win, just wanted to acknowledge that.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Mobility
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
+*** done Evening
+**** done Typing
+| wpm | acc | amt |
+|-----+-----+-----|
+|  94 | 100 |  25 |
+|  93 |  98 |  25 |
+|  89 |  98 |  25 |
+|  93 |  97 |  25 |
+|  90 |  96 |  25 |
+**** done Mobility
+**** done Remembrance 
+Today I have rejected to pray to God even when a moment before I am earnest to and I decide to, have mercy on me, O God, creator of all, and eternal One.
+**** done Reflection
+Today was okay ... fixed some things, didn't read much for school, after these first few weeks I'll get in a schedule where I'm able to do two notes of cs245 a week and also able to keep up with the rest of my studies. Once I get in a groove, I should be good.
+**** done Thanksgiving
+The Lord has led me to people that explain reality in a greater detail, according to His Church's tradition. The eternal now is what I need to focus on, for that is what Christ mingled with the chronological time we live day to day, in order that we may commune with Him, world without end, Amen.
 ** Plan [4/4]
 - [X] hist take lecture notes
 - [X] get headphones from mailbox
