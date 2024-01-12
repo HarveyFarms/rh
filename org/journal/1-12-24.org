@@ -19,12 +19,14 @@ take these notes very carefully yet diligently.
 **** Reflection
 **** Thanksgiving
 **** Mobility
-** Plan [/]
-- [ ] 
-- [ ] Typing
+** Plan [1/2]
+- [ ] recursion notes
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 102 |  99 |  25 |
+  |  88 |  96 |  25 |
+  |  94 |  98 |  25 |
 ** Read
 *** Bible 
 **** Old Testament (Ex 38-40)
@@ -46,3 +48,6 @@ Then Christ said to a fruitless fig tree "Let no fruit ever grow on you again." 
 **** summarization: 
 This chapter was about a plane crash. The bishop went there and felt useless, and the next morning he held a service for a feast, in which he ended with the Trisagion. Great questions arose within him, and he didn't bat them away nor fall into despair with them. Our God is one whom suffered in this world, alongside us, so that He might save those whom follow Him, those who love justice and righteousness, his flock. When we try to comprehend everything, and if we say that God is totally comprehendible, there would be no point in living. Experience, emotion, and doubts of faith are apart of our human nature, and these can't be fully explained with words. We can cry out to God, but we should never lose hope in Him. For throughout all time, God has delivered us from evil and pain through Christ, the God-man, who suffered for righteousness sake and for the ability for us to commune with Him, and drink His Body and Blood. We should never set our hope on this world, we should live for the other world in this life, in full hopes that God will save us from the sorrows of this life.
 ** Extra
+*** ciss245 notes
+(talking after finishing palindrome recursion problem in the notes) "Fascinating and very comfortable with recursion I hope I can keep up the practice of it."
+(after implementing max_split) "This was interesting. Recursion is great and the divide and conquer algorithm makes it better."
