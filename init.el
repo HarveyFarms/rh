@@ -174,7 +174,7 @@
          (".*\\*Warnings\\*.*" .  (display-buffer-no-window)))
        )))
 
-(global-set-key (kbd "C-M-;") 'ibuffer)	;
+(global-set-key (kbd "C-M-;") 'switch-to-buffer)	;
 
 (use-package auto-complete
   :ensure t

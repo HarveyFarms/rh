@@ -17,11 +17,12 @@ Magnesium is what I took before bed yesterday and I happened to wake up fully re
 **** Remembrance 
 **** Reflection
 **** Thanksgiving
-** Plan [3/4]
+** Plan [4/4]
 - [X] hist take lecture notes
 - [X] get headphones from mailbox
   Will have to wait until tomorrow until order is automatically refunded to order again at correct address.
-- [ ] ciss245
+- [X] ciss245
+  Will keep working on notes and then finish a01
 - [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
@@ -31,6 +32,7 @@ Magnesium is what I took before bed yesterday and I happened to wake up fully re
   |  89 |  99 |  25 |
   |  88 |  96 |  25 |
   | 100 |  97 |  25 |
+  | 100 | 100 |  25 |
 ** Read
 *** Bible 
 **** Old Testament (Ex 35-37)
