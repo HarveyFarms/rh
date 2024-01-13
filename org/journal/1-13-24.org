@@ -1,0 +1,43 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-01-13 Sat> 09:46
+* log 
+** Routine
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Thanksgiving
+I slept in, the Lord granted me rest after a hard week, now Lord, with this day You have given me, strengthen me to work according to Your will.
+**** done Reflection
+Slept in, so I changed my alarm so that won't happen.
+
+I plan to do a lot today, get assignments done, finish up some reading, and keep on the 245 notes.
+**** done Duolingo
+**** done Mobility
+*** Evening
+**** Typing
+**** Remembrance 
+**** Reflection
+**** Thanksgiving
+**** Mobility
+** Plan [0/7]
+- [ ] math hmwk
+- [ ] ciss245 a01
+  - [ ] redo question 2 to refresh brain on loops more 
+- [ ] ciss245 notes
+  - [ ] finish recursion notes w/practice + notes
+  - [ ] start struct notes
+- [ ] readings
+  don't take forever on these, at most 2 hours for both
+ - [ ] hist reading
+ - [ ] engl reading
+- [ ] Typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
+** Read
+*** Bible 
+**** Old Testament ()
+**** Psalms ()
+**** Proverbs ()
+**** New Testament ()
+** Extra

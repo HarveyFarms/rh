@@ -13,14 +13,34 @@ this semester will be harder than last semester and more crucial to my learning 
 take these notes very carefully yet diligently.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-**** Mobility
-** Plan [1/2]
-- [ ] recursion notes
+*** done Evening
+**** done Typing
+| wpm | acc | amt |
+|  99 |  99 |  25 |
+| 112 |  99 |  25 |
+|  93 |  95 |  25 |
+|  99 | 100 |  25 |
+|  99 | 100 |  25 |
+|  91 |  97 |  25 |
+|  90 |  98 |  25 |
+| 102 |  98 |  25 |
+| 100 |  95 |  25 |
+|  95 |  98 |  25 |
+|  99 |  99 |  25 |
+| 107 | 100 |  25 |
+
+had to end on 100 acc and 100+ wpm
+**** done Remembrance 
+Lord, I had broke the fast out of sheer uncontrol of my actions and the feel of a constant need for food, have mercy on me, O God.
+
+Also Lord, I fantasize all day long, because I'm lonely, Lord. Take the fantasizations away from me, I beg You ...
+**** done Reflection
+Today was great, got good progress on the notes hope to keep it up.
+**** done Thanksgiving
+**** done Mobility
+** Plan [2/2]
+- [X] recursion notes
+  almost finished with them, made good progress today.
 - [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
