@@ -19,8 +19,9 @@ I plan to do a lot today, get assignments done, finish up some reading, and keep
 **** Reflection
 **** Thanksgiving
 **** Mobility
-** Plan [0/7]
-- [ ] math hmwk
+** Plan [1/6]
+- [X] math hmwk
+- [ ] bible and Where Is God reading
 - [ ] ciss245 a01
   - [ ] redo question 2 to refresh brain on loops more 
 - [ ] ciss245 notes
@@ -28,16 +29,30 @@ I plan to do a lot today, get assignments done, finish up some reading, and keep
   - [ ] start struct notes
 - [ ] readings
   don't take forever on these, at most 2 hours for both
- - [ ] hist reading
- - [ ] engl reading
+  - [ ] hist reading
+  - [ ] engl reading
 - [ ] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |
 ** Read
 *** Bible 
-**** Old Testament ()
-**** Psalms ()
-**** Proverbs ()
-**** New Testament ()
+**** Old Testament (Lv 1-4)
+The beginning of Leviticus was about how to worship God in the OT. But this wasn't completely done away with, most of the symbols are seen typified in the Church today. It is also shown how the worship in antiquity helped the people to eventually come to worship their God in truth, and to have the only acceptable offering that was finalized on the Cross.
+**** Psalms (32:13:22)
+This psalm continued talks of how worldly power (however it's manifested) won't save someone when it comes to judgement from God. We shall hope in the Lord, and cry out, "Let Your mercy be upon us, O Lord, for we have set our hope on You."
+**** Proverbs (6:26-31)
+This reading is the beginning of a section called "Playing with fire" of which it entreats the man of God to not let the desire of a woman conquer him, for the value of a prostitute is as one meal in a lifetime. The man's soul is precious, and it should be guarded as such with the Lord's commandments.
+**** New Testament (Mt 21:23-46)
+Christ starts off by giving the Pharisees what they wanted, an answer to how He is an authority. He said, "which if you tell Me, I likewise will tell you by what authority I do these things: The baptism of John--where was it from? From heaven or from men?" The Pharisees were stooped, for to deny John the Baptist, a well-known prophet of good works according to Abraham's faith, would be to deny Abraham's faith, which was in Christ Jesus.
+
+Christ then tells two more parables:
+1. A son told his Father he would do the Father's will but he didn't, whereas the other son confessed he wouldn't do the Father's will but ends up doing it, who is in the right?
+   The Pharisees say the second man, but this is condemnation for them.
+2. The landowner of a vineyard lets people tend to it, while he travels to a far land. These people end up destroying all of the servants and eventually even the son of the landowner, so as to receive the vineyard for themselves. 
+   But when the landowner comes back, he will punish them, the Pharisees said, again condemning themselves.
+*** When God Is Not There
+**** starting page: 171
+**** ending page  : 193
+**** summarization: 
 ** Extra
