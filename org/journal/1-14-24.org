@@ -19,8 +19,12 @@ Josh coming to Church is amazing I don't even know what to think of it.
 **** Reflection
 **** Thanksgiving
 **** Mobility
-** Plan [/]
-- [ ] 
+** Plan [0/4]
+- [ ] ciss245 notes
+  - [ ] finish recursion
+  - [ ] start struct
+- [ ] read hist
+- [ ] read engl
 - [ ] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
@@ -31,4 +35,8 @@ Josh coming to Church is amazing I don't even know what to think of it.
 **** Psalms (33:1-11)
 **** Proverbs (6:32-36)
 **** New Testament (Mt 22:1-22)
+*** When God Is Not There
+**** starting page: 193
+**** ending page  : 214
+**** summarization: 
 ** Extra
