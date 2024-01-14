@@ -13,20 +13,15 @@ Slept in, so I changed my alarm so that won't happen.
 I plan to do a lot today, get assignments done, finish up some reading, and keep on the 245 notes.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-**** Mobility
-** Plan [3/5]
+*** done Evening
+** Plan [4/4]
 - [X] math hmwk
 - [X] bible and Where Is God reading
-- [ ] ciss245 a01
-  - [ ] redo question 2 to refresh brain on loops more 
-- [ ] ciss245 notes
-  - [ ] finish recursion notes w/practice + notes
-  - [ ] start struct notes
+- [X] ciss245 a01
+  - [X] redo question 2 to refresh brain on loops more 
+# - [ ] ciss245 notes
+#   - [ ] finish recursion notes w/practice + notes
+#   - [ ] start struct notes
 - [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
@@ -55,4 +50,5 @@ Christ then tells two more parables:
 **** starting page: 171
 **** ending page  : 193
 **** summarization: 
+Beautiful chapter talking of elderly wisdom and ultimately the wisdom that Christ brings, that we do not live for this life, though this life is necessary, just as the Cross was necessary for the Resurrection.
 ** Extra
