@@ -13,30 +13,47 @@ Yesterday went well, but today should fix my sleeping schedule.
 Josh coming to Church is amazing I don't even know what to think of it.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Typing
-**** Remembrance 
-**** Reflection
-**** Thanksgiving
-**** Mobility
-** Plan [0/4]
-- [ ] ciss245 notes
-  - [ ] finish recursion
+*** done Evening
+** Plan [3/4]
+- [-] ciss245 notes
+  - [X] finish recursion
   - [ ] start struct
-- [ ] read hist
-- [ ] read engl
-- [ ] Typing
+    start this tmrw
+- [X] read hist
+- [X] read engl
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  |  88 |  92 |  25 |
+  |  91 |  98 |  25 |
+  | 100 |  99 |  25 |
+  |  80 |  91 |  25 |
+  | 106 |  97 |  25 |
+  | 117 |  99 |  25 |
+  | 112 | 100 |  25 |
 ** Read
 *** Bible 
 **** Old Testament (Ex 5:1-7:10)
+This reading continued on with how priests and the people will atone for their sins, unknown and then known, and other trespasses.
+
+One major theme is that there is not discrimination for poor people, for they were accomodated to be able to atone for their sins as well.
 **** Psalms (33:1-11)
+This psalm talks of how one should receive Holy Communion.
+
+~Rich men turned poor and went / hungry; / But those who seek the Lord shall not / lack any good thing.~
 **** Proverbs (6:32-36)
+This proverb warns of doing evil things, for the consequences will both hurt them in this life and the life to come.
 **** New Testament (Mt 22:1-22)
+First, Christ tells of a parable about who enters into the Kingdom: The wedding. Where a father invites all of those "close" to Him and they do not go, and some of these people even kill the people preaching. The Father then is just and renders justice to the wicked of whom the servants were killed. After inviting the "highway men" or men of lowly status, one person at the wedding was without a wedding garment, therefore he was cast out by the Father, for ~many are called, but few are chosen~
+
+Christ is then confronted with a trap from the Pharisees, who ask Him whether it is lawful to pay taxes to Caesar, since Christ was against worldly things. Christ then makes fools of them, and in his words a stumbling block came upon them, for He said that what should be rendered to Caesar shall be rendered, and also what shall be rendered to God shall be rendered to Him and Him only. The Pharisees were marveled by this, for their worldly thinking may have led them to think He was just a liberal of their day. This is also very telling of the Orthodox view of authority when living in one's country, and it makes sense, for it lines up biblically. So personally a revolution wouldn't be in the minds of an Orthodox Christian in terms of worldly government, especially when the Church is completely severed from such a movement.
 *** When God Is Not There
 **** starting page: 193
 **** ending page  : 214
+**** summarization: 
+Book ended with talking of a monk who had suffered all of his life and yearned for the Kingdom after death.
+*** The Divine Liturgy
+**** starting page: i
+**** ending page  : introduction
 **** summarization: 
 ** Extra
