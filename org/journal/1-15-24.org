@@ -18,17 +18,49 @@ No school today, I should get plenty done, though. Most importantly I need to fi
 ** Read
 *** Bible 
 **** Old Testament (Lv 7:11-9:24)
+The first half finished off the order and how to worship, where the second half of this reading talked of all of this being initiated, and the reading ended off with Aaron and his sons being consecrated as priests and making sacrifices to God. God then showed Himself after this through glory and fire and the Israelites fell on their face.
 **** Psalms (33:12-23)
+This is a continuation from yesterday's psalm, one of the attitude of receiving Holy Communion. This part is powerful, showing that the Lord is there for the righteous, for those that call upon His name. The Lord will keep those who call to Him, for He is a good and merciful God.
 **** Proverbs (6:37-40)
+This section ends off ch6, talking of how an adulterer will suffer when their actions can never be taken away from them, and that their spouse will never forget such an act, because it's a grave sin.
 **** New Testament (Mt 22:23-46)
+This reading was full of Pharisees and Sadducees asking Christ questions:
+1. Christ explains that the resurrection of the dead is not a continuation of worldly affairs, rather we become like angels of God in heaven.
+2. Christ tells the lawyer the greatest commandments:
+   1) You shall love the Lord your God with all of you heart, with all your soul, and will all your mind (first and greatest commandment)
+   2) You shall love your neighbor as yourself. (that being the recognization of the image of God within them just as yourself, and treating them accordingly with love.)
+3. Christ questions those who can't give an answer, essentially, "How is Christ not God when He's the son of David yet even David calls Him Lord?"
 *** The Divine Liturgy
-**** starting page: 
-**** ending page  : 
+**** starting page: 1 (3)
+**** ending page  : 15
 **** summarization: 
+Reading began with how the early Church celebrated the Eucharist, starting with Christ, and ending with the 3rd century successors of the apostles, where Liturgy began to take a more ordered form.
+
+- Multiple liturgies were mentioned but three remain in use today
+ 1) The Liturgy of St. James
+ 2) The Liturgy of St. Basil the Great
+ 3) The Liturgy of St. John Chrysostom
+
+The reading then ended with expounding on St. John Chrysostom, the 'golden-tongue', and his life, and then his Liturgy.
+
 ** Extra
-** Plan [/]
-- [ ] 
-- [ ] Typing
+** Plan [1/3]
+- [ ] ciss245
+  - [ ] start struct
+  - [ ] do some quizzes
+  - [ ] start a02 (at least peek)
+- [-] one pomodoro each
+  - [X] extra hist study
+  - [X] extra engl reading
+  - [X] learn vim kbd macros
+  - [X] learn some lisp (math at least)
+  - [X] sdl
+  - [ ] sdl p2
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 111 | 100 |  25 |
+  |  99 |  95 |  25 |
+  | 100 |  98 |  25 |
+  | 102 |  99 |  25 |
+  | 103 | 100 |  25 |
