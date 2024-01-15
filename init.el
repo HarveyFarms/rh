@@ -1,7 +1,6 @@
 ;; Open Eshell at startup
 (setq inhibit-startup-screen t) ; Disable the startup screen
-(term "/bin/bash")
-(setq confirm-kill-processes nil)
+(eshell)
 
 (defun run-shell-command-no-output (command)
   "Run shell COMMAND and display output in echo area."
