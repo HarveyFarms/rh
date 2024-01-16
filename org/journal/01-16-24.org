@@ -1,0 +1,49 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-01-16 Tue> 14:38
+* log 
+** Routine
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Reflection
+stayed up way too late last night trying to figure out an assignment for cs245, finished it this morning but the whole process was painful, let's not do that again.
+**** done Duolingo
+*** Evening
+**** Typing
+**** Reflection
+**** Mobility
+** Read
+*** Bible 
+**** Old Testament ()
+**** Psalms ()
+**** Proverbs ()
+**** New Testament ()
+*** The Divine Liturgy
+**** starting page: 
+**** ending page  : 
+**** summarization: 
+** Extra
+** Plan [3/5]
+- [X] finish a02
+- [ ] read bible and liturgy book
+- [ ] ciss245 notes
+- [X] upload a02, q03, q04, q05
+- [X] Typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |  75 |  83 |  25 |
+  | 113 | 100 |  25 |
+  |  99 |  96 |  25 |
+  |  89 |  94 |  25 |
+  | 103 | 100 |  25 |
+  |  74 |  90 |  25 |
+  | 112 |  99 |  25 |
+  |  89 |  93 |  25 |
+  |  91 |  97 |  25 |
+  |  97 |  97 |  25 |
+  |  96 |  97 |  25 |
+  | 101 |  96 |  25 |
+  |  92 |  99 |  25 |
+  |  97 |  97 |  25 |
+  | 131 | 100 |  10 |
+  | 119 | 100 |  10 |
