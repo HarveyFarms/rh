@@ -15,17 +15,20 @@ I can't stop sleeping 9+ hours. I need to change alarm again, I'm sleeping way t
 **** Prayer
 ** Read
 *** Bible 
-**** Old Testament ()
-**** Psalms ()
-**** Proverbs ()
-**** New Testament ()
+**** Old Testament (Lv 13)
+**** Psalms (34:17-28)
+**** Proverbs (7:7-12)
+**** New Testament (Mt 23:23-39)
 *** The Divine Liturgy
 **** starting page: 
 **** ending page  : 
 **** summarization: 
 ** Extra
-** Plan [/]
-- [ ] 
+** Plan [0/5]
+- [ ] struct notes 245
+- [ ] Candide reading
+- [ ] plan paper 1 for engl
+- [ ] read bible and liturgy book
 - [ ] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
