@@ -1,13 +1,14 @@
 #+title: Daily Log
 #+author: Ryan Harvey
-#+date: %t %<%H:%M>
+#+date: <2024-01-17 Wed> 08:14
 * log 
 ** Routine
-*** Morning
-**** Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
-**** Reflection
-**** Duolingo
-**** Mobility
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Reflection
+I can't stop sleeping 9+ hours. I need to change alarm again, I'm sleeping way too much.
+**** done Duolingo
+**** done Mobility
 *** Evening
 **** Reflection
 **** Mobility
