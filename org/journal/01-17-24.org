@@ -24,12 +24,18 @@ I can't stop sleeping 9+ hours. I need to change alarm again, I'm sleeping way t
 **** ending page  : 
 **** summarization: 
 ** Extra
-** Plan [0/5]
+** Plan [1/5]
 - [ ] struct notes 245
 - [ ] Candide reading
 - [ ] plan paper 1 for engl
 - [ ] read bible and liturgy book
-- [ ] Typing
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 147 | 100 |  10 |
+  | 100 |  98 |  10 |
+  | 107 | 100 |  10 |
+  | 100 | 100 |  25 |
+  |  96 |  99 |  25 |
+  |  96 |  98 |  25 |
+  | 105 | 100 |  25 |
