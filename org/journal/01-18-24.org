@@ -1,0 +1,38 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-01-18 Thu> 06:05
+* log 
+** Routine
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Reflection
+Woke up in the middle of last night and asked Reed and Marc a crazy question that seemed coherent in my sleep, completely delirious.
+
+I'm glad I woke up today at a decent time, I can get started on the day earlier and get plenty done.
+**** done Duolingo
+**** done Mobility
+*** Evening
+**** Reflection
+**** Mobility
+**** Prayer
+** Read
+*** Bible 
+**** Old Testament ()
+**** Psalms ()
+**** Proverbs ()
+**** New Testament ()
+*** The Divine Liturgy
+**** starting page: 
+**** ending page  : 
+**** summarization: 
+** Extra
+** Plan [0/6]
+- [ ] ENGL paper 1 work
+- [ ] Candide reading
+- [ ] structure notes finish
+- [ ] typedef notes start
+- [ ] take notes in hist and prepare for cougar bowl
+- [ ] Typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
