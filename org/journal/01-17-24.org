@@ -37,6 +37,7 @@ Christ becomes one with us when we are made His children (through Baptism) and w
 :PROPERTIES:
 SCHEDULED: <2024-01-18 Thu +4d>
 :END:
+[[id:80806e7c-5b78-4b43-b62e-d25e1009b412][here]]
 ** Plan [5/5]
 - [X] struct notes 245
   almost done with them, should finish tomorrow. I need to get in a good habit of stopping things when the day comes to an end. Because I can study tomorrow, and I may need to study more things before then.
