@@ -2,6 +2,32 @@
 (setq inhibit-startup-screen t) ; Disable the startup screen
 (eshell)
 
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(blink-cursor-mode nil)
+ '(display-battery-mode t)
+ '(display-line-numbers-type 'relative)
+ '(display-time-mode t)
+ '(global-display-line-numbers-mode t)
+ '(line-number-mode nil)
+ '(menu-bar-mode nil)
+ '(org-capture-templates
+   '(("l" "log" plain
+      (here)
+      (file "~/rh/org/templates/log.org")
+      :immediate-finish t)
+     ("b" "Book entry" plain
+      (here)
+      (file "~/rh/org/templates/book.org")
+      :immediate-finish t)) t)
+ '(org-cycle-hide-block-startup t)
+ '(org-cycle-inline-images-display t)
+ '(scroll-bar-mode nil)
+ '(tool-bar-mode nil)
+ '(tooltip-mode nil))
+
 (defun run-shell-command-no-output (command)
   "Run shell COMMAND and display output in echo area."
   (interactive "sShell command: ")
@@ -228,31 +254,6 @@
 (global-set-key (kbd "C-c p") 'open-chrome) ; Adjust the keybinding
 
 (custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(blink-cursor-mode nil)
- '(display-battery-mode t)
- '(display-line-numbers-type 'relative)
- '(display-time-mode t)
- '(global-display-line-numbers-mode t)
- '(line-number-mode nil)
- '(menu-bar-mode nil)
- '(org-capture-templates
-   '(("l" "log" plain
-      (here)
-      (file "~/rh/org/templates/log.org")
-      :immediate-finish t)
-     ("b" "Book entry" plain
-      (here)
-      (file "~/rh/org/templates/book.org")
-      :immediate-finish t)) t)
- '(org-cycle-hide-block-startup t)
- '(org-cycle-inline-images-display t)
- '(scroll-bar-mode nil)
- '(tool-bar-mode nil)
- '(tooltip-mode nil))
 
 (defun toggle-between-buffers ()
   "Toggle between the current buffer and the last buffer."
