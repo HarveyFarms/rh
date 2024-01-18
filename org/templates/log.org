@@ -1,6 +1,7 @@
 #+title: Daily Log
 #+author: Ryan Harvey
 #+date: %t %<%H:%M>
+#+STARTUP: content
 * log 
 ** Routine
 *** Morning
