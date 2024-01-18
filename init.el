@@ -128,7 +128,6 @@
 (setq org-directory "~/rh/org/")
 
 (require 'org)
-(setq org-startup-indented t)
 (add-hook 'org-mode-hook 'visual-line-mode)
 (add-hook 'org-mode-hook 'org-indent-mode)
 (setq org-M-RET-may-split-line nil)
@@ -263,3 +262,5 @@
     (switch-to-buffer (other-buffer))))
 
 (global-set-key (kbd "C-M-'") 'toggle-between-buffers)
+
+(setq org-startup-folded t)
