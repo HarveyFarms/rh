@@ -9,10 +9,12 @@
 I can't stop sleeping 9+ hours. I need to change alarm again, I'm sleeping way too much.
 **** done Duolingo
 **** done Mobility
-*** Evening
-**** Reflection
-**** Mobility
-**** Prayer
+*** done Evening
+**** done Reflection
+Today was full of troubles. At my first class I threw remarks against someone and all throughout the day I would slander people and pick fights. I think it was because of my lack of prayer today. Lord, have mercy.
+**** done Mobility
+just some toe stretches before bed.
+**** done Prayer
 ** Read
 *** Bible 
 **** Old Testament (Lv 13)
@@ -31,10 +33,15 @@ This reading is Christ further condemning the scribes and Pharisees and anyone w
 **** summarization: 
 Christ becomes one with us when we are made His children (through Baptism) and we eat His flesh (through the Eucharist). The Church is what Christ sent so that He could mingle Himself with His followers, those who have the true faith. Blessed is He who comes in the name of the Lord.
 ** Extra
-** Plan [2/5]
-- [ ] struct notes 245
-- [ ] Candide reading
-- [ ] plan paper 1 for engl
+*** todo paper 1 engl schedule
+:PROPERTIES:
+SCHEDULED: <2024-01-18 Thu +4d>
+:END:
+** Plan [5/5]
+- [X] struct notes 245
+  almost done with them, should finish tomorrow. I need to get in a good habit of stopping things when the day comes to an end. Because I can study tomorrow, and I may need to study more things before then.
+- [X] Candide reading
+- [X] plan paper 1 for engl
 - [X] read bible and liturgy book
 - [X] Typing
   | wpm | acc | wrd |
