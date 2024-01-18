@@ -253,3 +253,11 @@
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
 
+(defun toggle-between-buffers ()
+  "Toggle between the current buffer and the last buffer."
+  (interactive)
+  (if (eq (current-buffer) (other-buffer))
+      (switch-to-prev-buffer)
+    (switch-to-buffer (other-buffer))))
+
+(global-set-key (kbd "C-M-'") 'toggle-between-buffers)
