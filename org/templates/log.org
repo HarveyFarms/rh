@@ -5,8 +5,8 @@
 ** Routine
 *** Morning
 **** Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
-**** Reflection
 **** Duolingo
+**** Reflection
 **** Mobility
 *** Evening
 **** Reflection
@@ -25,7 +25,7 @@
 ** Extra
 ** Plan [/]
 - [ ] 
-- [ ] Typing
+- [ ] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |

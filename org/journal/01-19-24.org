@@ -3,29 +3,42 @@
 #+date: <2024-01-19 Fri> 06:05
 * log 
 ** Routine
-*** Morning
-**** Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
-**** Reflection
-**** Duolingo
-**** Mobility
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Duolingo
+**** done Reflection
+Last night was completely wasted, when I could've gotten very good work done. So now, I will have the analogy of jumping into water when I need to get started on something. Sure, I can hesisitate for a few seconds, but it's either I jump in or somebody pushes me in while I'm not ready (cramming for a class).
+**** done Mobility
 *** Evening
 **** Reflection
 **** Mobility
 **** Prayer
 ** Read
 *** Bible 
-**** Old Testament ()
-**** Psalms ()
-**** Proverbs ()
-**** New Testament ()
+**** Old Testament (Lv 16-18)
+This reading was dense. First, it tells of the sacrifice Aaron started that was important for Jews and the coming Christ. This sacrifice was an annual one, to be for all peoples for the forgiveness of their sins. It was taken very seriously. The next chapter was about the sanctity of blood, that it should be regarded with respect and not eaten, so as to prepare the way for Christ. The last chapter was a very compact yet covering all sexually immoral sins.
+**** Psalms (36:1-20)
+This psalm compares the evil with the one who trusts in the Lord.
+**** Proverbs (7:21-24)
+This psalm finishes the story of a woman trapping the man into fornication. Grueling images.
+**** New Testament (Mt 24:29-51)
+This section is all about the End, where Christ will come again in glory. He tells his disciples what will happen in the End, who will experience it, when it will happen (anytime, so be on watch!), where it will happen, and why it will happen. (the 5 W's)
 *** The Divine Liturgy
-**** starting page: 
-**** ending page  : 
+**** starting page: 38
+**** ending page  : 48
 **** summarization: 
+Sacred icons were mentioned, and how they relate to the words we read in the Bible.
+
+Also the priest is related to Christ, for the priest is the agent through whom Christ works through. The Holy Trinity together works together in the Liturgy but Christ is the one working through the priest, for as Christ is human so He saves the human race.
 ** Extra
-** Plan [/]
-- [ ] 
-- [ ] Typing
+** Plan [1/7]
+- [X] reading plan
+- [ ] engl discussion board post
+- [ ] struct notes
+- [ ] typedef notes
+- [ ] math notes
+- [ ] math hmwk
+- [ ] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |
