@@ -37,7 +37,7 @@ Three notecards were added. First, this reading talked of reconciliation before 
 **** ending chapter  : 30
 **** summarization: 
 ** Extra
-*** todo engl discussion board post
+*** done engl discussion board post
 DEADLINE: <2024-01-19 Fri 09:00>
 ** Plan [4/6]
 - [X] ENGL paper 1 work

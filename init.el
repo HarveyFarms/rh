@@ -264,3 +264,17 @@
  '(scroll-bar-mode nil)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
+
+(defun kill-other-buffers ()
+  "Kill all buffers except the current buffer and eshell."
+  (interactive)
+  (let ((buffers-to-keep '("*eshell*")))
+    (mapc (lambda (buffer)
+            (unless (or (eq buffer (current-buffer))
+                        (member (buffer-name buffer) buffers-to-keep))
+              (kill-buffer buffer)))
+          (buffer-list)))
+  (message "Buffers deleted except the current buffer and eshell."))
+
+(global-set-key (kbd "C-M-]") 'kill-other-buffers)
+(global-set-key (kbd "C-M-=") 'ibuffer)
