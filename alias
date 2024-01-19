@@ -4,4 +4,4 @@ alias m make $*
 alias gsy pushd ~/rh ; m; ~/cc ; m; ~ ; c r
 alias gpu pushd ~/rh ; m p; cd ~/cc ; m r ; ~ ; c r
 alias log (find-file (expand-file-name (concat "~/rh/org/journal/" (format-time-string "%m-%d-%y") ".org")))
-alias fma find-file-noselect main.cpp
+alias main find-file main.cpp
