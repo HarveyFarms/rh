@@ -32,12 +32,17 @@ Sacred icons were mentioned, and how they relate to the words we read in the Bib
 Also the priest is related to Christ, for the priest is the agent through whom Christ works through. The Holy Trinity together works together in the Liturgy but Christ is the one working through the priest, for as Christ is human so He saves the human race.
 ** Extra
 *** todo library interview
+:PROPERTIES:
 SCHEDULED: <2024-01-22 Mon 15:30>
-** Plan [3/8]
+:END:
+**** times able to work
+here's the hours they want [[file:~/rh/org/extra/librarywant.png]]
+** Plan [4/9]
 - [X] reading plan
 - [X] engl discussion board post
 - [X] hist notes on ch3
   will read small bits of this and take good notes for cougar bowl (shouldn't care too much for this class)
+- [X] verify morning interview with library
 - [ ] struct notes
 - [ ] typedef notes
 - [ ] math notes

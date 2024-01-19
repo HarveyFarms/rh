@@ -260,7 +260,7 @@
       (file "~/rh/org/templates/book.org")
       :immediate-finish t)) t)
  '(org-cycle-hide-block-startup t)
- '(org-cycle-inline-images-display nil)
+ '(org-cycle-inline-images-display t)
  '(scroll-bar-mode nil)
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
