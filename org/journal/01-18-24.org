@@ -37,13 +37,13 @@ Three notecards were added. First, this reading talked of reconciliation before 
 **** ending page     : 410
 **** summarization: 
 ** Extra
-** Plan [0/6]
+** Plan [1/6]
 - [ ] ENGL paper 1 work
 - [ ] Candide reading
 - [ ] structure notes finish
 - [ ] typedef notes start
 - [ ] take notes in hist and prepare for cougar bowl
-- [ ] Typing
+- [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 103 |  97 |  25 |
