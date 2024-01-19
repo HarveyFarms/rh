@@ -34,15 +34,17 @@ This is a packed chapter, and I haven't even finished it yet. Christ tells of th
 Three notecards were added. First, this reading talked of reconciliation before the Sacrifice, for Christ values the love of our fellow man before an unworthy sacrifice. Second, Kairos was mentioned, a service in the liturgy that translates to God's timing, of which Christ came into this world and everything was renewed, the Timeless One came into time, so as to renew all of man and open up the heavens. Between this and the third note was the Theotokos as the "gate that faces the east." The third note was of the Cross, the glory of Christ, of which Orthodox Christians make the sign of to show that Christ has conquered the enemy, and bestowed life unto all. We shall take great care of this sign, for Christ has given it to us as a weapon, and the more care we show the sign when we use it (especially to know that it's what Christ Himself suffered on to then resurrect) the more benefits God will bless us with as we use it as a weapon against the demons.
 *** Candide
 **** starting chapter: 20
-**** ending page     : 410
+**** ending chapter  : 30
 **** summarization: 
 ** Extra
-** Plan [1/6]
-- [ ] ENGL paper 1 work
-- [ ] Candide reading
+*** todo engl discussion board post
+DEADLINE: <2024-01-19 Fri 09:00>
+** Plan [4/6]
+- [X] ENGL paper 1 work
+- [X] Candide reading
 - [ ] structure notes finish
 - [ ] typedef notes start
-- [ ] take notes in hist and prepare for cougar bowl
+- [X] take notes in hist and prepare for cougar bowl
 - [X] Typing
   | wpm | acc | wrd |
   |-----+-----+-----|
