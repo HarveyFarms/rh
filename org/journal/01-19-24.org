@@ -33,9 +33,11 @@ Also the priest is related to Christ, for the priest is the agent through whom C
 ** Extra
 *** todo library interview
 SCHEDULED: <2024-01-22 Mon 15:30>
-** Plan [1/7]
+** Plan [3/8]
 - [X] reading plan
-- [ ] engl discussion board post
+- [X] engl discussion board post
+- [X] hist notes on ch3
+  will read small bits of this and take good notes for cougar bowl (shouldn't care too much for this class)
 - [ ] struct notes
 - [ ] typedef notes
 - [ ] math notes
