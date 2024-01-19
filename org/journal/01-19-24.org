@@ -37,6 +37,8 @@ SCHEDULED: <2024-01-22 Mon 15:30>
 :END:
 **** times able to work
 here's the hours they want [[file:~/rh/org/extra/librarywant.png]]
+8 to 9 AM , 6-7 PM on MWF
+8 to 9:30 AM , 11 to 12:30 pm on TTh
 ** Plan [4/9]
 - [X] reading plan
 - [X] engl discussion board post
