@@ -9,10 +9,15 @@
 **** done Reflection
 Last night was completely wasted, when I could've gotten very good work done. So now, I will have the analogy of jumping into water when I need to get started on something. Sure, I can hesisitate for a few seconds, but it's either I jump in or somebody pushes me in while I'm not ready (cramming for a class).
 **** done Mobility
-*** Evening
-**** Reflection
-**** Mobility
-**** Prayer
+*** done Evening
+**** done Reflection
+Today was great, had a lot of work done, and ended off the day with playing ping pong. Great day should imitate in the future.
+
+I'm ahead in the notes, but that's not the goal, I will slow down and absorb everything, but keep trudging through, not stopping to let others catch up, because I am in love with the notes and learning so that I can eventually make Galaxian!
+
+Also, I might work for Liow, which will get me a better understaning of the Fedora machine and other things about the CS Club. This is a great opportunity especially since I'm only a freshman. God blessed me, may I continue to praise Him and hold onto Him, for He is my life.
+**** done Mobility
+**** done Prayer
 ** Read
 *** Bible 
 **** Old Testament (Lv 16-18)
@@ -31,32 +36,17 @@ Sacred icons were mentioned, and how they relate to the words we read in the Bib
 
 Also the priest is related to Christ, for the priest is the agent through whom Christ works through. The Holy Trinity together works together in the Liturgy but Christ is the one working through the priest, for as Christ is human so He saves the human race.
 ** Extra
-*** todo library interview
-:PROPERTIES:
-SCHEDULED: <2024-01-22 Mon 15:30>
-:END:
-**** times able to work
-here's the hours they want [[file:~/rh/org/extra/librarywant.png]]
-MWF - 8 to 9 AM , 6-7 PM 
-TTh - 8 to 9:30 AM 
-T   - 11 to 3:30 (until Feb 20)
-Th  - 11 to 2:00 pm 
-S   - 7:30 to 10 pm 
-
-Sunday    7:30-10 pm (2.5hrs)
-Tuesday   11-3:30pm  (7  hrs)
-Thursday  11-2pm     (10 hrs)
-Friday    3:30-5:30pm(12 hrs)
-** Plan [7/9]
+** Plan [9/9]
 - [X] reading plan
 - [X] engl discussion board post
 - [X] hist notes on ch3
   will read small bits of this and take good notes for cougar bowl (shouldn't care too much for this class)
 - [X] verify morning interview with library
 - [X] struct notes
-- [ ] typedef notes
+- [X] typedef notes
 - [X] math notes
-- [ ] math hmwk
+- [X] math hmwk
+  will do this tmrw along with other things
 - [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
