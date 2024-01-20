@@ -47,17 +47,22 @@ Sunday    7:30-10 pm (2.5hrs)
 Tuesday   11-3:30pm  (7  hrs)
 Thursday  11-2pm     (10 hrs)
 Friday    3:30-5:30pm(12 hrs)
-** Plan [5/9]
+** Plan [7/9]
 - [X] reading plan
 - [X] engl discussion board post
 - [X] hist notes on ch3
   will read small bits of this and take good notes for cougar bowl (shouldn't care too much for this class)
 - [X] verify morning interview with library
-- [ ] struct notes
+- [X] struct notes
 - [ ] typedef notes
 - [X] math notes
 - [ ] math hmwk
-- [ ] typing
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  |  92 |  95 |  10 |
+  |  92 |  95 |  10 |
+  | 106 |  97 |  10 |
+  | 119 | 100 |  10 |
+  |  97 | 100 |  10 |
+  | 101 | 100 |  25 |
