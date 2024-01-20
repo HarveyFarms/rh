@@ -2,13 +2,12 @@
 (setq inhibit-startup-screen t) ; Disable the startup screen
 (eshell)
 
+(setq org-startup-folded t)
+
 (defun run-shell-command-no-output (command)
   "Run shell COMMAND and display output in echo area."
   (interactive "sShell command: ")
   (message "%s" (shell-command-to-string command)))
-
-(global-set-key (kbd "M-!") 'run-shell-command-no-output)
-
 
 (setq pop-up-windows nil)
 (setq ring-bell-function 'ignore)
@@ -94,11 +93,6 @@
    ((equal theme-number 3) (load-theme 'doom-gruvbox t))
    (t (message "Invalid theme number"))))
 
-(global-set-key (kbd "C-c t 1") (lambda () (interactive) (switch-theme 1)))
-(global-set-key (kbd "C-c t 2") (lambda () (interactive) (switch-theme 2)))
-(global-set-key (kbd "C-c t 3") (lambda () (interactive) (switch-theme 3)))
-
-
 (use-package vertico
   :ensure t
   :init
@@ -119,11 +113,6 @@
   (local-set-key (kbd "C-k") 'org-agenda-previous-line))
 
 (add-hook 'org-agenda-mode-hook 'my-org-agenda-custom-keys)
-
-
-(global-set-key (kbd "C-c l") #'org-store-link)
-(global-set-key (kbd "C-c a") #'org-agenda)
-(global-set-key (kbd "C-c c") #'org-capture)
 
 (setq org-directory "~/rh/org/")
 
@@ -173,7 +162,6 @@
          (".*\\*Warnings\\*.*" .  (display-buffer-no-window)))
        )))
 
-(global-set-key (kbd "C-M-;") 'switch-to-buffer)	;
 
 (use-package auto-complete
   :ensure t
@@ -205,11 +193,6 @@
   (elscreen-start))
 
 ;; Set up keybindings
-(global-set-key (kbd "C-x 8") 'elscreen-previous)
-(global-set-key (kbd "C-x 9") 'elscreen-next)
-(global-set-key (kbd "C-x 0") 'elscreen-create)
-(global-set-key (kbd "C-x +") 'elscreen-goto)
-(global-set-key (kbd "C-x -") 'elscreen-kill)
 
 (setq ibuffer-never-show-predicates
       (list "\\*scratch\\*" "\\*Messages\\*" "output\\*"))
@@ -225,18 +208,7 @@
   (interactive)
   (browse-url "https://www.youtube.com/watch?v=lcrVmGOMXeA")) 
 
-(global-set-key (kbd "C-c p") 'open-chrome) ; Adjust the keybinding
 
-(defun toggle-between-buffers ()
-  "Toggle between the current buffer and the last buffer."
-  (interactive)
-  (if (eq (current-buffer) (other-buffer))
-      (switch-to-prev-buffer)
-    (switch-to-buffer (other-buffer))))
-
-(global-set-key (kbd "C-M-'") 'toggle-between-buffers)
-
-(setq org-startup-folded t)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -265,6 +237,14 @@
  '(tool-bar-mode nil)
  '(tooltip-mode nil))
 
+(defun toggle-between-buffers ()
+  "Toggle between the current buffer and the last buffer."
+  (interactive)
+  (if (eq (current-buffer) (other-buffer))
+      (switch-to-prev-buffer)
+    (switch-to-buffer (other-buffer))))
+
+
 (defun kill-other-buffers ()
   "Kill all buffers except the current buffer and eshell."
   (interactive)
@@ -276,5 +256,20 @@
           (buffer-list)))
   (message "Buffers deleted except the current buffer and eshell."))
 
+(global-set-key (kbd "C-c l") #'org-store-link)
+(global-set-key (kbd "C-c a") #'org-agenda)
+(global-set-key (kbd "C-c c") #'org-capture)
+(global-set-key (kbd "C-M-;") 'switch-to-buffer)	;
+(global-set-key (kbd "C-x 8") 'elscreen-previous)
+(global-set-key (kbd "C-x 9") 'elscreen-next)
+(global-set-key (kbd "C-x 0") 'elscreen-create)
+(global-set-key (kbd "C-x +") 'elscreen-goto)
+(global-set-key (kbd "C-x -") 'elscreen-kill)
+(global-set-key (kbd "C-c p") 'open-chrome) ; Adjust the keybinding
+(global-set-key (kbd "C-M-'") 'toggle-between-buffers)
 (global-set-key (kbd "C-M-]") 'kill-other-buffers)
 (global-set-key (kbd "C-M-=") 'ibuffer)
+(global-set-key (kbd "M-!") 'run-shell-command-no-output)
+(global-set-key (kbd "C-c t 1") (lambda () (interactive) (switch-theme 1)))
+(global-set-key (kbd "C-c t 2") (lambda () (interactive) (switch-theme 2)))
+(global-set-key (kbd "C-c t 3") (lambda () (interactive) (switch-theme 3)))

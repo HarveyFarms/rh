@@ -5,3 +5,6 @@ alias gsy pushd ~/rh ; m; ~/cc ; m; ~ ; c r
 alias gpu pushd ~/rh ; m p; cd ~/cc ; m r ; ~ ; c r
 alias log (find-file (expand-file-name (concat "~/rh/org/journal/" (format-time-string "%m-%d-%y") ".org")))
 alias main find-file main.cpp
+alias hmain find-file-noselect main.cpp
+alias course find-file course.org
+alias hcourse find-file-noselect course.org
