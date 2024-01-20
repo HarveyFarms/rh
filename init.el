@@ -83,7 +83,7 @@
  '(org-level-4 ((t (:height 1.05 :weight bold))))
  '(org-level-5 ((t (:height 1.0 :weight bold)))))
 
-(load-theme 'doom-one t)
+(load-theme 'doom-gruvbox t)
 
 (defun switch-theme (theme-number)
   (interactive "P")
@@ -256,20 +256,24 @@
           (buffer-list)))
   (message "Buffers deleted except the current buffer and eshell."))
 
-(global-set-key (kbd "C-c l") #'org-store-link)
-(global-set-key (kbd "C-c a") #'org-agenda)
-(global-set-key (kbd "C-c c") #'org-capture)
-(global-set-key (kbd "C-M-;") 'switch-to-buffer)	;
 (global-set-key (kbd "C-x 8") 'elscreen-previous)
 (global-set-key (kbd "C-x 9") 'elscreen-next)
 (global-set-key (kbd "C-x 0") 'elscreen-create)
 (global-set-key (kbd "C-x +") 'elscreen-goto)
 (global-set-key (kbd "C-x -") 'elscreen-kill)
+
 (global-set-key (kbd "C-c p") 'open-chrome) ; Adjust the keybinding
+
 (global-set-key (kbd "C-M-'") 'toggle-between-buffers)
 (global-set-key (kbd "C-M-]") 'kill-other-buffers)
 (global-set-key (kbd "C-M-=") 'ibuffer)
+(global-set-key (kbd "C-M-;") 'switch-to-buffer)	;
+
 (global-set-key (kbd "M-!") 'run-shell-command-no-output)
+
 (global-set-key (kbd "C-c t 1") (lambda () (interactive) (switch-theme 1)))
 (global-set-key (kbd "C-c t 2") (lambda () (interactive) (switch-theme 2)))
 (global-set-key (kbd "C-c t 3") (lambda () (interactive) (switch-theme 3)))
+
+(global-set-key (kbd "C-c a") #'org-agenda)
+(global-set-key (kbd "C-c c") #'org-capture)
