@@ -1,0 +1,32 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-01-21 Sun> 11:38
+* log 
+** Routine
+*** done Morning
+**** done Prayer/[[https://goarch.org][Lives of the Saints/Lectionary]]
+**** done Duolingo
+**** done Reflection
+set an alarm for church, was in PM. So dumb, I don't even know how to explain that to Fr.
+**** done Mobility
+*** Evening
+**** Reflection
+**** Mobility
+**** Prayer
+** Read
+*** Bible 
+**** Old Testament ()
+**** Psalms ()
+**** Proverbs ()
+**** New Testament ()
+*** The Divine Liturgy
+**** starting page: 
+**** ending page  : 
+**** summarization: 
+** Extra
+** Plan [/]
+- [ ] 
+- [ ] typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
