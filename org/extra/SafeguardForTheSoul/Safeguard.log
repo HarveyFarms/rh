@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.29)  29 NOV 2023 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.29)  21 JAN 2024 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -383,44 +383,44 @@ LaTeX Info: Redefining \nameref on input line 25.
 \@outlinefile=\write3
 \openout3 = `Safeguard.out'.
 
- [1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
-] [9] [10] [11] [12] [13]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 398
-.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 398
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [14]
-(./Safeguard.aux)
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
+] [9] [10]
+[11] [12] [13] [14] [15] (./Safeguard.aux)
 Package rerunfilecheck Info: File `Safeguard.out' has not changed.
-(rerunfilecheck)             Checksum: F704A388D3927FFC255D05BFD9DA7A99;10100.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10275 strings out of 478287
- 156324 string characters out of 5849288
- 446666 words of memory out of 5000000
- 28169 multiletter control sequences out of 15000+600000
- 478895 words of font info for 54 fonts, out of 8000000 for 9000
+ 10225 strings out of 478287
+ 155514 string characters out of 5849288
+ 443439 words of memory out of 5000000
+ 28115 multiletter control sequences out of 15000+600000
+ 481208 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,531b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,405b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
 /fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfti1095.pfb>
-Output written on Safeguard.pdf (14 pages, 143188 bytes).
+type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on Safeguard.pdf (15 pages, 162501 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 434 compressed objects within 5 object streams
- 165 named destinations out of 1000 (max. 500000)
- 481 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

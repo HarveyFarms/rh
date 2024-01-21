@@ -4,7 +4,6 @@
 * Purpose of this document
 I need to have a document that is where I need it when I need to refer to it or edit it, however I need.
 This document will consist of how I will take notes with org-mode, in either classes or self-study.
-
 * General practice
 ** Detailed Explanation
 I will only take org-mode notes if I need to.
