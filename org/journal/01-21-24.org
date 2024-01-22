@@ -39,13 +39,13 @@ The last vision Christ gives is of the Last Judgement, where Christ will seperat
 **** summarization: 
 This chapter was about the vesting of the celebrant and the symbolism and reality that goes on during and through the priest's vestments.
 ** Extra
-** Plan [3/7]
+** Plan [6/7]
 - [X] read bible and divine liturgy book
 - [X] stretch for 5 mins
-- [ ] finish math hmwk
+- [X] finish math hmwk
 - [ ] 245 notes
-- [ ] engl paper plan
-- [ ] hist study
+- [X] engl paper plan
+- [X] hist study
 - [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
