@@ -14,13 +14,13 @@
 **** Prayer
 ** Read
 *** Bible 
-**** Old Testament ()
-**** Psalms ()
-**** Proverbs ()
-**** New Testament ()
+**** Old Testament (Lv 24; 25)
+**** Psalms (37:12-23)
+**** Proverbs (8:6-10)
+**** New Testament (Mt 26:1-25)
 *** The Divine Liturgy
-**** starting page: 
-**** ending page  : 
+**** starting page: 63
+**** ending page  : 71
 **** summarization: 
 ** Extra
 ** Plan [/]
