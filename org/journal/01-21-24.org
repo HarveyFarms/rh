@@ -9,10 +9,11 @@
 **** done Reflection
 set an alarm for church, was in PM. So dumb, I don't even know how to explain that to Fr.
 **** done Mobility
-*** Evening
-**** Reflection
-**** Mobility
-**** Prayer
+*** done Evening
+**** done Reflection
+stayed up to do ciss245, since there's no school tmrw I thought why not, I'll never do that on a school night (or important night)
+**** done Mobility
+**** done Prayer
 ** Read
 *** Bible 
 **** Old Testament (Lv 19-21)
@@ -39,11 +40,11 @@ The last vision Christ gives is of the Last Judgement, where Christ will seperat
 **** summarization: 
 This chapter was about the vesting of the celebrant and the symbolism and reality that goes on during and through the priest's vestments.
 ** Extra
-** Plan [6/7]
+** Plan [7/7]
 - [X] read bible and divine liturgy book
 - [X] stretch for 5 mins
 - [X] finish math hmwk
-- [ ] 245 notes
+- [X] 245 notes
 - [X] engl paper plan
 - [X] hist study
 - [X] typing
