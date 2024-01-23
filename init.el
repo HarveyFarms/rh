@@ -209,7 +209,7 @@
  ;; If there is more than one, they won't work right.
  '(blink-cursor-mode nil)
  '(custom-safe-themes
-   '("dbade2e946597b9cda3e61978b5fcc14fa3afa2d3c4391d477bdaeff8f5638c5" default))
+   '("8c7e832be864674c220f9a9361c851917a93f921fedb7717b1b5ece47690c098" "dbade2e946597b9cda3e61978b5fcc14fa3afa2d3c4391d477bdaeff8f5638c5" default))
  '(display-battery-mode t)
  '(display-line-numbers-type 'relative)
  '(display-time-mode t)
@@ -250,6 +250,10 @@
           (buffer-list)))
   (message "Buffers deleted except the current buffer and eshell."))
 
+(add-hook 'org-mode-hook
+          (lambda ()
+            (text-scale-set 5)))
+
 (global-set-key (kbd "C-x 8") 'elscreen-previous)
 (global-set-key (kbd "C-x 9") 'elscreen-next)
 (global-set-key (kbd "C-x 0") 'elscreen-create)
@@ -271,3 +275,4 @@
 
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
+(global-set-key (kbd "C-s") #'save-buffer)
