@@ -30,8 +30,16 @@ The Eucharist, Prediction of Peter's Denial, and Gethsemane.
 **** summarization: 
 This section was on the cutting up of the prosphora is preparation for the Eucharist. Christ's death and resurrection were mentioned, and great glory was revealed through this.
 ** Extra
-** Plan [/]
-- [ ] 
+** Plan [0/5]
+- [ ] engl study
+- [ ] hist study
+- [ ] math answer check w Robert
+- [ ] ciss245
+  - [ ] a03 start
+  - [ ] q07 
+  - [ ] q08
+  - [ ] q09
+  - [ ] q10
 - [ ] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
