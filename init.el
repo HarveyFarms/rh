@@ -83,15 +83,7 @@
  '(org-level-4 ((t (:height 1.05 :weight bold))))
  '(org-level-5 ((t (:height 1.0 :weight bold)))))
 
-(load-theme 'doom-gruvbox t)
-
-(defun switch-theme (theme-number)
-  (interactive "P")
-  (cond
-   ((equal theme-number 1) (load-theme 'doom-nord-light t))
-   ((equal theme-number 2) (load-theme 'doom-one t))
-   ((equal theme-number 3) (load-theme 'doom-gruvbox t))
-   (t (message "Invalid theme number"))))
+(load-theme 'tao-yin t)
 
 (use-package vertico
   :ensure t
@@ -216,6 +208,8 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(blink-cursor-mode nil)
+ '(custom-safe-themes
+   '("dbade2e946597b9cda3e61978b5fcc14fa3afa2d3c4391d477bdaeff8f5638c5" default))
  '(display-battery-mode t)
  '(display-line-numbers-type 'relative)
  '(display-time-mode t)
