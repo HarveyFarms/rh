@@ -9,10 +9,11 @@
 **** done Reflection
 I hadn't done Duolingo for three days, so I had to do six straight mini lessons to get my streak back (I'm at day 200). Also, I finally woke up early today, I think today will be structured and well productive, God willing.
 **** done Mobility
-*** Evening
-**** Reflection
-**** Mobility
-**** Prayer
+*** done Evening
+**** done Reflection
+Today was a good day. Tomorrow is a fast day, let us fast for the Lord, Amen.
+**** done Mobility
+**** done Prayer
 ** Read
 *** Bible 
 **** Old Testament (Lv 26; 27)
@@ -30,12 +31,12 @@ The Eucharist, Prediction of Peter's Denial, and Gethsemane.
 **** summarization: 
 This section was on the cutting up of the prosphora is preparation for the Eucharist. Christ's death and resurrection were mentioned, and great glory was revealed through this.
 ** Extra
-** Plan [3/5]
+** Plan [5/5]
 - [X] engl study
 - [X] hist study
-- [ ] math answer check w Robert
-- [-] ciss245
-  - [ ] a03 start
+- [X] math answer check w Robert
+- [X] ciss245
+  - [X] a03 start
   - [X] q07 
   - [X] q2101
 - [X] typing
