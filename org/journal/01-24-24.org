@@ -32,9 +32,21 @@ Christ was arrested, tried by the Pharisees, and Peter denied Him three times.
 **** ending page  : 90
 **** summarization: 
 ** Extra
-** Plan [/]
-- [ ] 
+*** todo discussion post
+:PROPERTIES:
+DEADLINE: <2024-01-26 Fri>
+:END:
+** Plan [0/8]
+- [ ] get some questions done on a03
+- [ ] note more on classes/objects
+- [ ] study engl and create summary for Candide
+- [ ] come prepared for hist tomorrow
+- [ ] discuss math hmwk answers w Robert and change if necessary
+  - [ ] make sure it's turned in before midnight
+- [ ] upload math to its org
+- [ ] get keyboard from mail
 - [ ] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |
+  
