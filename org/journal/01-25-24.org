@@ -30,17 +30,23 @@ Christ is taken up to Pontius Pilate, where He was speechless against the false 
 **** ending page  : 106
 **** summarization: 
 ** Extra
-** Plan [0/8]
+** Plan [3/9]
 - [ ] read divine liturgy book
-- [ ] have cougar bowl paper ready for hist today 
+- [X] have cougar bowl paper ready for hist today 
 - [ ] do more a03
-- [ ] get keyboard from mail
+- [X] get keyboard from mail
+  amazing
 - [ ] do some classes/objects notes
 - [ ] set up ping pong
 - [ ] read and prepare for engl tmrw
-  - [ ] make discussion post
-  - [ ] create notes on Candide
-- [ ] typing
+- [ ] create discussion post for engl
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 119 | 100 |  10 |
+  |  98 | 100 |  10 |
+  |  90 |  91 |  10 |
+  | 105 | 100 |  10 |
+  | 101 | 100 |  10 |
+  |  99 | 100 |  25 |
+  |  99 | 100 |  25 |
