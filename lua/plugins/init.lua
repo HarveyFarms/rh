@@ -5,7 +5,7 @@
 -- * disable/enabled LazyVim plugins
 -- * override the configuration of LazyVim plugins
 return {
-  -- add gruvbox
+  --[[ -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
   -- Configure LazyVim to load gruvbox
@@ -14,7 +14,7 @@ return {
     opts = {
       colorscheme = "gruvbox",
     },
-  },
+  }, ]]
 
   -- add this to your lua/plugins.lua, lua/plugins/init.lua,  or the file you keep your other plugins:
   {
