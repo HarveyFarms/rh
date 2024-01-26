@@ -1,10 +1,10 @@
 #+title: Daily Log
 #+author: Ryan Harvey
-#+date: %t %<%H:%M>
+#+date: <2024-01-26 Fri> 14:21
 * log 
 ** daily
 *** [[https://goarch.org][morning prayer/Lives of the Saints/Lectionary]]
-*** duolingo
+*** done duolingo
 *** morning reflection
 *** morning mobility
 *** evening reflection
@@ -21,9 +21,16 @@
 **** ending page  : 
 **** summarization: 
 ** extra
-** plan [/]
-- [ ] 
+** plan [3/7]
+- [X] discussion post
+- [X] voltaire candide notes
+[[id:80806e7c-5b78-4b43-b62e-d25e1009b412][paper 1]]
+- [X] practice beau soir by debussy for cs jam
+- [ ] finish a03
+- [ ] work on class notes
+- [ ] sleep at a decent time tonight (10:30 at latest), pray and read daily readings
 - [ ] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |
+

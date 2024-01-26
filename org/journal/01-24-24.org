@@ -32,7 +32,7 @@ Christ was arrested, tried by the Pharisees, and Peter denied Him three times.
 **** ending page  : 90
 **** summarization: 
 ** Extra
-*** todo discussion post
+*** done discussion post
 :PROPERTIES:
 DEADLINE: <2024-01-26 Fri>
 :END:
