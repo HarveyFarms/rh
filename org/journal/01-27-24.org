@@ -22,8 +22,8 @@ woke up late again, really wondering whether I should do my daily readings or no
 **** ending page  : 96
 **** summarization: 
 ** extra
-** plan [1/11]
-- [ ] finish a03
+** plan [2/11]
+- [X] finish a03
 - [ ] classes/OOP notes
 - [ ] Candide evidences
 - [ ] set up plan for hist analysis paper
