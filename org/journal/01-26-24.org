@@ -7,31 +7,33 @@
 *** done duolingo
 *** morning reflection
 *** morning mobility
-*** evening reflection
+*** done evening reflection
+Today had wild highs and lows, from sinning horribly in the morning to praying with some fervor that I hadn't done in a while. Practice for track was hard as well. Crazy day, I just hope I can continue my prayer and spiritual life and GO TO CHURCH SUNDAY!! also to get some work done. Have mercy, Lord.
 *** evening mobility
-*** evening prayer
+*** done evening prayer
 ** read
-*** Bible 
+*** +Bible+ 
 **** Old Testament ()
 **** Psalms ()
 **** Proverbs ()
 **** New Testament ()
-*** The Divine Liturgy
+*** +The Divine Liturgy+
 **** starting page: 
 **** ending page  : 
 **** summarization: 
 ** extra
-** plan [4/8]
+** plan [8/8]
 - [X] discussion post
 - [X] voltaire candide notes
 [[id:80806e7c-5b78-4b43-b62e-d25e1009b412][paper 1]]
 - [X] practice beau soir by debussy for cs jam
-- [ ] finish a03
+- [X] finish a03
 - [X] do q2201 q2301, q2401, q2501
-- [ ] work on class notes
-- [ ] sleep at a decent time tonight (10:30 at latest), pray and read daily readings
-- [ ] typing
+- [X] work on class notes
+- [X] sleep at a decent time tonight (10:30 at latest), pray and read daily readings
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
   |     |     |     |
 
+  
