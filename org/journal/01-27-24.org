@@ -22,17 +22,18 @@ woke up late again, really wondering whether I should do my daily readings or no
 **** ending page  : 96
 **** summarization: 
 ** extra
-** plan [2/11]
+** plan [9/9]
 - [X] finish a03
-- [ ] classes/OOP notes
-- [ ] Candide evidences
-- [ ] set up plan for hist analysis paper
-- [ ] read bible/div. lit. at the end of the day
-- [ ] go to sleep before 10:30 wake up before 6 and take cold shower
-- [ ] avoid doom-scrolling
-- [ ] see the neices
-- [ ] calculate money for supernote pen
-- [ ] pray for job opportunity with Liow
+- [X] classes/OOP notes
+- [X] Candide evidences
+- [X] set up plan for hist analysis paper
+- [X] avoid doom-scrolling
+- [X] see the neices
+- [X] calculate money for supernote pen
+- [X] pray 
+  job opportunity with Liow
+  thanksgiving for money for supernote pen
+  thanksgiving in general
 - [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|

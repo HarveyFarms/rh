@@ -1,0 +1,25 @@
+#include <SDL2/SDL.h>
+
+const int WIN_X = 1920;
+const int WIN_Y = 1080;
+
+SDL_Window * window = NULL;
+SDL_Renderer * renderer = NULL;
+
+void init();
+
+int main()
+{
+  return 0;
+}
+
+void init()
+{
+  if (SDL_Init(SDL_INIT_EVERYTHING) < 0) return 1;
+  else  
+  {
+    window = SDL_CreateWindow("test 1", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WIN_X, WIN_Y, SDL_WINDOW_FULLSCREEN)
+  }
+
+
+}
