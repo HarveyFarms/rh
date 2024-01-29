@@ -1,9 +1,9 @@
 #include "App.h"
 
+App * app = new App;
+
 int main()
 {
-  App * app = new App;
-
   if (!app->init()) return 1;
 
   app->is_running = true;
@@ -22,3 +22,4 @@ int main()
 
   return 0;
 }
+
