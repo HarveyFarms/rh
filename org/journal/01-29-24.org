@@ -3,13 +3,14 @@
 #+date: <2024-01-29 Mon> 15:34
 * log 
 ** daily
-*** [[https://goarch.org][morning prayer/Lives of the Saints/Lectionary]]
+*** +[[https://goarch.org][morning prayer/Lives of the Saints/Lectionary]]+ 
 *** done duolingo
-*** morning reflection
-*** morning mobility
-*** evening reflection
-*** evening mobility
-*** evening prayer
+*** +morning reflection+
+*** done morning mobility
+*** done evening reflection
+this day was crazy, that's all. I had a lot of fun, time to get back on schedule, goodnight.
+*** done evening mobility
+*** done evening prayer
 ** +read+
 *** Bible 
 **** Old Testament ()
