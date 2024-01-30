@@ -1,4 +1,5 @@
-# for c++ programs
+git:
+	git add -A ; git commit -m "sync" ; git push
 c:
 	g++ *.cpp
 r:
@@ -9,8 +10,5 @@ sdl:
 	g++ main.cpp -lSDL2
 
 # for github ... 
-git:
-	git add -A ; git commit -m "sync" ; git push
 p:
 	git pull
-
