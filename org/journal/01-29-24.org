@@ -1,0 +1,31 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-01-29 Mon> 15:34
+* log 
+** daily
+*** [[https://goarch.org][morning prayer/Lives of the Saints/Lectionary]]
+*** done duolingo
+*** morning reflection
+*** morning mobility
+*** evening reflection
+*** evening mobility
+*** evening prayer
+** +read+
+*** Bible 
+**** Old Testament ()
+**** Psalms ()
+**** Proverbs ()
+**** New Testament ()
+*** The Divine Liturgy
+**** starting page: 
+**** ending page  : 
+**** summarization: 
+** extra
+*** supernote pen broke!
+this happened in cs245 while doing math hmwk. I'm just glad I have things set up so that it doesn't really matter, and that I can continue my work on notebook and pen for a week or so (until my new supernote pen comes in)
+** plan [/]
+- [ ] 
+- [ ] typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
