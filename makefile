@@ -11,7 +11,6 @@ sdl:
 # for github ... 
 git:
 	git add -A ; git commit -m "sync" ; git push
-
 p:
 	git pull
 
