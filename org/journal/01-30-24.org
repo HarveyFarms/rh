@@ -9,10 +9,11 @@
 Finally! I wake up at a decent time. Now I can get back on schedule. It will be hard to jump back on but I'll make it, just as long as my school work is up to date I need not worry.
 *** done morning mobility
 *** done morning shower
-*** evening shower
-*** evening reflection
-*** evening mobility
-*** evening prayer
+*** done evening shower
+*** done evening reflection
+wow, today went amazing. Thank the Lord, our God!
+*** done evening mobility
+*** done evening prayer
 ** read
 *** Bible 
 **** Old Testament (Nm 4:34-6:26)
@@ -30,6 +31,9 @@ This is the beginning of the path to crucifixion of Christ. They mocked Christ w
 the departed, incense, and Christ clothed in majesty. (~The Lord has reigned. He has clothed Himself in majesty~)
 ** extra
 *** todo engl paper 1 p1
+:PROPERTIES:
+:ID:       1bf26a3c-1d59-49d5-bc27-6d0bdde05a9c
+:END:
 [[id:eef3c38c-d932-4c78-b022-ead76a43e62d][suffering is justified]]
 *** todo engl paper 1 p2
 [[id:51ae4aeb-40f8-4b5b-9998-ce0efa33caa7][there are happy people in the world]]
@@ -37,15 +41,15 @@ the departed, incense, and Christ clothed in majesty. (~The Lord has reigned. He
 [[id:29ad8e9b-0f80-440d-8fcb-ef491b487ef4][philosophy is the end all be all for how to live]]
 *** todo engl paper 1 p4
 [[id:59477df8-00fa-4ebc-b9f2-58bb78bf0b1f][introduction / conclusion]]
-** plan [7/9]
+** plan [9/9]
 - [X] daily readings
 - [X] finish sections and prep for engl paper
   maybe start typing, but tomorrow should be the beginning of one page per day
 - [X] get ready for cougar bowl/read ch4/review last chapters/lectures.
 - [X] look at primary source documents for ideas on hist paper
-- [ ] start a06
+- [X] start a06
   when done with a06 we'll review past notes and then continue in the notes
-- [ ] practice calc2 stuff
+- [X] practice calc2 stuff
 - [X] use pomodoro (move around during break)
 - [X] submit math hmwk again
 - [X] typing
