@@ -28,12 +28,17 @@ Christ gives up His spirit on the cross. The veil of the temple was broken, and 
 **** ending page  : 106
 **** summarization: 
 ** extra
-** plan [0/5]
-- [ ] constructors notes
-- [ ] read ahead for engl
-- [ ] start engl paper 1, first subtheme
-- [ ] prepare cougar bowl questions
-- [ ] typing
+** plan [4/4]
+- [X] redo math assignment
+- [X] read ahead for engl
+- [X] start engl paper 1, first subtheme
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 100 |  97 |  25 |
+  | 105 |  93 |  10 |
+  | 101 |  96 |  25 |
+  | 100 |  98 |  10 |
+  | 102 | 100 |  25 |
+  | 108 | 100 |  10 |
+  
