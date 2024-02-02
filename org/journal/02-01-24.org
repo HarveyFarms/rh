@@ -32,10 +32,10 @@ Christos Anesti!
 **** ending page  : 110
 **** summarization: 
 ** extra
-** plan [0/5]
+** plan [2/5]
 - [ ] constructor notes
-- [ ] hist study
-- [ ] paper 1 engl progress
+- [X] hist study
+- [X] paper 1 engl progress
 - [ ] avoid vain doomscrolling
 - [ ] typing
   | wpm | acc | wrd |
