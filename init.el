@@ -275,4 +275,10 @@
 
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
-(global-set-key (kbd "C-s") #'save-buffer)
+(defun save-buffer-and-enter-normal-mode ()
+  (interactive)
+  (save-buffer)
+  (evil-normal-state))
+
+(global-set-key (kbd "C-s") 'save-buffer-and-enter-normal-mode)
+
