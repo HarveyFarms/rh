@@ -9,10 +9,11 @@
 Glad I woke up earlier than usual, I should get some things done today ...
 *** done morning mobility
 *** done morning shower
-*** evening shower
-*** evening reflection
-*** evening mobility
-*** evening prayer
+*** done evening shower
+*** done evening reflection
+did a good amount today, Lord, have mercy
+*** done evening mobility
+*** done evening prayer
 ** read
 *** Bible 
 **** Old Testament (Nm 11:1-14:10)
@@ -33,10 +34,21 @@ Mark starts with John the Baptist, the fulfillment of Elijah returning (shown by
 **** summarization: 
 this whole reading was of the peace that Christ brings. Peace is the characteristic of a godly man, it can be seen in all icons of godly men. There are levels of peace, and the highest peace is an inseperable bond of peace that comes from the love of God and the love to God.
 ** extra
-** plan [/]
-- [ ] 
-- [ ] typing
+** plan [5/5]
+- [X] paper 1 progress
+  will work on this tmrw
+- [X] unsub from app
+- [X] math hmwk progress
+- [X] supernote pen watchout
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 114 | 100 |  10 |
+  | 106 |  93 |  10 |
+  | 122 | 100 |  10 |
+  |  98 |  99 |  25 |
+  |  92 |  98 |  25 |
+  |  99 | 100 |  25 |
+  |  86 |  99 |  25 |
+  | 103 | 100 |  25 |
 

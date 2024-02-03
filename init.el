@@ -4,6 +4,8 @@
 
 (setq org-startup-folded t)
 
+(use-package org-pdftools
+  :hook (org-mode . org-pdftools-setup-link))
 (defun run-shell-command-no-output (command)
   "Run shell COMMAND and display output in echo area."
   (interactive "sShell command: ")
