@@ -1,0 +1,13 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-02-04 Sun> 06:42
+* log 
+** plan [1/6]
+- [X] duolingo
+- [ ] math hmwk fix
+- [ ] finish paper 1
+- [ ] finish constructor notes
+- [ ] typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
