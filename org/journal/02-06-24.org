@@ -24,14 +24,20 @@ got good sleep, need to get back on schedule though
 **** ending page  : 
 **** summarization: 
 ** extra
-** plan [2/7]
+** plan [7/7]
 - [X] hist test
 - [X] talk to hr about job
-- [ ] constructor notes finish up IntDynArr class
-- [ ] start destructor notes
-- [ ] do some quizzes
-- [ ] check out a07
-- [ ] typing
+  will talk to them again so I'm added for Liow
+- [X] constructor notes finish up IntDynArr class
+  finally
+- [X] start destructor notes
+  finished as well
+- [X] do some quizzes
+  will check out tmrw
+- [X] check out a07
+  will check out tmrw
+- [X] typing
   | wpm | acc | wrd |
   |-----+-----+-----|
-  |     |     |     |
+  | 108 |  99 |  25 |
+  |  93 |  98 |  25 |
