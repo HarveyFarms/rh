@@ -1,0 +1,37 @@
+#+title: Daily Log
+#+author: Ryan Harvey
+#+date: <2024-02-06 Tue> 08:20
+* log 
+** daily
+*** done [[https://goarch.org][morning prayer/Lives of the Saints/Lectionary]]
+*** done duolingo
+*** done morning reflection
+got good sleep, need to get back on schedule though
+*** done morning mobility
+*** morning shower
+*** evening shower
+*** evening reflection
+*** evening mobility
+*** evening prayer
+** read
+*** Bible 
+**** Old Testament (Nm 14:11-15:41)
+**** Psalms (45)
+**** Proverbs (9:12-15)
+**** New Testament (Mk 1:21-45)
+*** The Divine Liturgy
+**** starting page: 
+**** ending page  : 
+**** summarization: 
+** extra
+** plan [2/7]
+- [X] hist test
+- [X] talk to hr about job
+- [ ] constructor notes finish up IntDynArr class
+- [ ] start destructor notes
+- [ ] do some quizzes
+- [ ] check out a07
+- [ ] typing
+  | wpm | acc | wrd |
+  |-----+-----+-----|
+  |     |     |     |
