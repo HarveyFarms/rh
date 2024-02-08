@@ -7,6 +7,17 @@ vim.api.nvim_set_keymap("n", "<C-j>", ":normal o<CR>", { noremap = true, silent 
 
 -- Map Ctrl-J to ":normal O" in normal mode
 vim.api.nvim_set_keymap("n", "<C-k>", ":normal O<CR>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("n", "<leader>n", ":b#<CR>", { noremap = true, silent = true })
 
 vim.api.nvim_set_keymap("i", "<C-y>", "<Esc>:normal gcc<CR>", { noremap = true, silent = true })
-vim.api.nvim_set_keymap("n", "<leader>fj", ":Neorg journal today<CR>", { noremap = true, silent = true })
+
+vim.api.nvim_set_keymap(
+  "n",
+  "<leader>fj",
+  ":Neorg workspace home<CR>:Neorg journal today<CR>",
+  { noremap = true, silent = true }
+)
+
+-- for workspaces in neorg
+vim.api.nvim_set_keymap("n", "<leader>wh", ":Neorg workspace homeCR>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("n", "<leader>ws", ":Neorg workspace school<CR>", { noremap = true, silent = true })

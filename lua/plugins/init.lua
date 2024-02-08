@@ -32,13 +32,13 @@ return {
             config = {
               workspaces = {
                 home = "~/rh/neorg",
-                cs245 = "~/cc/cs245",
+                school = "~/cc",
               },
             },
           },
           ["core.journal"] = {
             config = {
-              journal_folder = "~/rh/neorg/journal",
+              journal_folder = "journal",
             },
           },
           ["core.concealer"] = {
