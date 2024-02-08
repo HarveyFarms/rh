@@ -19,6 +19,64 @@ return {
     { "akinsho/toggleterm.nvim", version = "*", config = true },
   },
   {
+    "nvim-neorg/neorg",
+    ft = "norg",
+    cmd = "Neorg",
+    priority = 30,
+    run = ":Neorg sync-parsers",
+    config = function()
+      require("neorg").setup({
+        load = {
+          ["core.defaults"] = {},
+          ["core.dirman"] = {
+            config = {
+              workspaces = {
+                home = "~/rh/neorg",
+                cs245 = "~/cc/cs245",
+              },
+            },
+          },
+          ["core.journal"] = {
+            config = {
+              journal_folder = "~/rh/neorg/journal",
+            },
+          },
+          ["core.concealer"] = {
+            config = {
+              folds = true,
+              icon_present = "varied",
+            },
+          },
+          ["core.tempus"] = { config = {} },
+          ["core.presenter"] = { config = {
+            zen_mode = "zen-mode",
+          } },
+          ["core.ui.calendar"] = { config = {} },
+          ["core.export"] = { config = {} },
+          ["core.export.markdown"] = { config = {} },
+          ["core.manoeuvre"] = { config = {} },
+          ["core.summary"] = { config = {} },
+          ["core.autocommands"] = { config = {} },
+          ["core.clipboard"] = { config = {} },
+          ["core.dirman.utils"] = { config = {} },
+          ["core.fs"] = { config = {} },
+          ["core.highlights"] = { config = {} },
+          ["core.integrations.treesitter"] = { config = {} },
+          ["core.mode"] = { config = {} },
+          ["core.neorgcmd"] = { config = {} },
+          ["core.neorgcmd.commands.module.list"] = { config = {} },
+          ["core.neorgcmd.commands.module.load"] = { config = {} },
+          ["core.neorgcmd.commands.return"] = { config = {} },
+          ["core.queries.native"] = { config = {} },
+          ["core.scanner"] = { config = {} },
+          ["core.storage"] = { config = {} },
+          ["core.syntax"] = { config = {} },
+          ["core.ui"] = { config = {} },
+        },
+      })
+    end,
+  },
+  {
     "ThePrimeagen/harpoon",
     branch = "harpoon2",
     dependencies = { "nvim-lua/plenary.nvim" },
@@ -42,41 +100,6 @@ return {
         desc = "harpoon quick menu",
       },
       {
-        "<leader>1",
-        function()
-          require("harpoon"):list():select(1)
-        end,
-        desc = "harpoon to #1",
-      },
-      {
-        "<leader>2",
-        function()
-          require("harpoon"):list():select(2)
-        end,
-        desc = "harpoon to #2",
-      },
-      {
-        "<leader>3",
-        function()
-          require("harpoon"):list():select(3)
-        end,
-        desc = "harpoon to #3",
-      },
-      {
-        "<leader>4",
-        function()
-          require("harpoon"):list():select(4)
-        end,
-        desc = "harpoon to #4",
-      },
-      {
-        "<leader>5",
-        function()
-          require("harpoon"):list():select(5)
-        end,
-        desc = "harpoon to #5",
-      },
-      {
         "<C-N>",
         function()
           require("harpoon"):list():next()
@@ -89,6 +112,17 @@ return {
           require("harpoon"):list():prev()
         end,
         desc = "harpoon previous",
+      },
+    },
+  },
+  -- Lua
+  {
+    "folke/zen-mode.nvim",
+    config = {
+      window = {
+        backdrop = 1, -- shade the backdrop of the Zen window. Set to 1 to keep the same as Normal
+        width = 1, -- width of the Zen window
+        height = 1, -- height of the Zen window
       },
     },
   },

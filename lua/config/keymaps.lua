@@ -9,3 +9,4 @@ vim.api.nvim_set_keymap("n", "<C-j>", ":normal o<CR>", { noremap = true, silent 
 vim.api.nvim_set_keymap("n", "<C-k>", ":normal O<CR>", { noremap = true, silent = true })
 
 vim.api.nvim_set_keymap("i", "<C-y>", "<Esc>:normal gcc<CR>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("n", "<leader>fj", ":Neorg journal today<CR>", { noremap = true, silent = true })

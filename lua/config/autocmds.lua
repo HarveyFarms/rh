@@ -3,3 +3,4 @@
 -- Add any additional autocmds here
 -- Set autochdir
 vim.cmd("set autochdir")
+vim.cmd("ZenMode")
