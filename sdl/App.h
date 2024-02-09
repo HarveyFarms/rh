@@ -6,16 +6,18 @@
 const int WIN_X = 1920;
 const int WIN_Y = 1080;
 
-struct App 
+class App 
 {
-  SDL_Window * window;
-  SDL_Renderer * renderer;
-  bool is_running;
-
+public:
   bool init();
   void prepare_scene();
   void handle_input();
   void present_scene();
+  bool is_active();
+private:
+  SDL_Window * window;
+  SDL_Renderer * renderer;
+  bool is_running = true;
 };
 
 

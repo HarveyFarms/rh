@@ -6,8 +6,7 @@ int main()
 
   if (!app->init()) return 1;
 
-  app->is_running = true;
-  while (app->is_running)
+  while (app->is_active())
   {
     app->prepare_scene();
 

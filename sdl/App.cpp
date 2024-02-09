@@ -1,4 +1,3 @@
-#include <SDL2/SDL.h>
 #include "App.h"
 
 bool App::init()
@@ -45,5 +44,10 @@ void App::handle_input()
 void App::present_scene()
 {
   SDL_RenderPresent(renderer);
+}
+
+bool App::is_active()
+{
+  return is_running;
 }
 
