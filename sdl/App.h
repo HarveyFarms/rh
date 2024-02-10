@@ -13,11 +13,11 @@ public:
   void prepare_scene();
   void handle_input();
   void present_scene();
-  bool is_active();
+  bool is_running();
 private:
   SDL_Window * window;
   SDL_Renderer * renderer;
-  bool is_running = true;
+  bool active = true;
 };
 
 

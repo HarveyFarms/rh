@@ -32,7 +32,7 @@ void App::handle_input()
     switch (event.type)
     {
       case SDL_QUIT:
-        is_running = false;
+        active = false;
         break;
       default:
         break;
@@ -46,8 +46,8 @@ void App::present_scene()
   SDL_RenderPresent(renderer);
 }
 
-bool App::is_active()
+bool App::is_running()
 {
-  return is_running;
+  return active;
 }
 
