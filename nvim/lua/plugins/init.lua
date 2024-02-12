@@ -51,9 +51,6 @@ return {
             },
           },
           ["core.tempus"] = { config = {} },
-          ["core.presenter"] = { config = {
-            zen_mode = "zen-mode",
-          } },
           ["core.ui.calendar"] = { config = {} },
           ["core.export"] = { config = {} },
           ["core.export.markdown"] = { config = {} },
@@ -117,9 +114,5 @@ return {
         desc = "harpoon previous",
       },
     },
-  },
-  -- Lua
-  {
-    "folke/zen-mode.nvim",
   },
 }
