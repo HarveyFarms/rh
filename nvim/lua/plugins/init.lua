@@ -121,12 +121,5 @@ return {
   -- Lua
   {
     "folke/zen-mode.nvim",
-    config = {
-      window = {
-        backdrop = 1, -- shade the backdrop of the Zen window. Set to 1 to keep the same as Normal
-        width = 1, -- width of the Zen window
-        height = 1, -- height of the Zen window
-      },
-    },
   },
 }
