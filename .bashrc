@@ -8,8 +8,8 @@ case $- in
 *) return ;;
 esac
 
-alias gsy='cd ~/rh ; m git ; cd ~/cc ; m git ; cd ~/pdfbank ; m ; cd ; c'
-alias gpu='cd ~/rh ; m p; cd ~/cc ; m p; cd ~/pdfbank ; m p ; cd ; c'
+alias gsy='cd ~; cp .bashrc rh/ ; cp -r .cache/calendar.vim rh/ ; cd ~/rh ; m git ; cd ~/cc ; m git ; cd ~/pdfbank ; m ; cd ; c'
+alias gpu='cp -r .config/nvim rh/ ; cd ~/rh ; m p; cd ~/cc ; m p; cd ~/pdfbank ; m p ; cd ; c'
 alias m='make'
 alias x='emacs --fullscreen'
 alias v='nvim'
