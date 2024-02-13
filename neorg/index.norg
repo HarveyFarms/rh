@@ -2,6 +2,7 @@
 ** journal
    This is the main usage of this workspace, daily journals and todos
    To access journal, press <leader>fj
+   To access calendar, do <leader>fc
 
 ** extra projects
 *** idea for tracking reading:
