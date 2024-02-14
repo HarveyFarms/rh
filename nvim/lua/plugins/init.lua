@@ -8,6 +8,12 @@
 return {
   -- add this to your lua/plugins.lua, lua/plugins/init.lua,  or the file you keep your other plugins:
   {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "habamax",
+    },
+  },
+  {
     "itchyny/calendar.vim",
   },
   {
