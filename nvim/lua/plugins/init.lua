@@ -14,6 +14,10 @@ return {
     },
   },
   {
+    "akinsho/bufferline.nvim",
+    enabled = false,
+  },
+  {
     "itchyny/calendar.vim",
   },
   {
