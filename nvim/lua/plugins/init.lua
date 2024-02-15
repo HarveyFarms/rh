@@ -10,7 +10,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "habamax",
+      colorscheme = "catppuccin",
     },
   },
   {
@@ -56,6 +56,7 @@ return {
               icon_present = "varied",
             },
           },
+
           ["core.tempus"] = { config = {} },
           ["core.ui.calendar"] = { config = {} },
           ["core.export"] = { config = {} },
@@ -70,8 +71,6 @@ return {
           ["core.integrations.treesitter"] = { config = {} },
           ["core.mode"] = { config = {} },
           ["core.neorgcmd"] = { config = {} },
-          ["core.neorgcmd.commands.module.list"] = { config = {} },
-          ["core.neorgcmd.commands.module.load"] = { config = {} },
           ["core.neorgcmd.commands.return"] = { config = {} },
           ["core.queries.native"] = { config = {} },
           ["core.scanner"] = { config = {} },
