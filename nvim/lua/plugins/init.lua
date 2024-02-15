@@ -14,20 +14,6 @@ return {
     },
   },
   {
-    "itchyny/calendar.vim",
-  },
-  {
-    "numToStr/Comment.nvim",
-    opts = {
-      -- add any options here
-    },
-    lazy = false,
-  },
-  {
-    -- amongst your other plugins
-    { "akinsho/toggleterm.nvim", version = "*", config = true },
-  },
-  {
     "nvim-neorg/neorg",
     ft = "norg",
     cmd = "Neorg",
@@ -81,6 +67,20 @@ return {
         },
       })
     end,
+  },
+  {
+    "itchyny/calendar.vim",
+  },
+  {
+    "numToStr/Comment.nvim",
+    opts = {
+      -- add any options here
+    },
+    lazy = false,
+  },
+  {
+    -- amongst your other plugins
+    { "akinsho/toggleterm.nvim", version = "*", config = true },
   },
   {
     "ThePrimeagen/harpoon",
