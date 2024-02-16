@@ -50,7 +50,7 @@ return {
           },
           ["core.journal"] = {
             config = {
-              journal_folder = "journal",
+              journal_folder = "rh/neorg/journal",
             },
           },
           ["core.concealer"] = {
