@@ -14,6 +14,9 @@ return {
     },
   },
   {
+    "nvim-treesitter/nvim-treesitter",
+  },
+  {
     "itchyny/calendar.vim",
   },
   {
@@ -29,10 +32,10 @@ return {
   },
   {
     "nvim-neorg/neorg",
+    run = ":Neorg sync-parsers",
     ft = "norg",
     cmd = "Neorg",
     priority = 30,
-    run = ":Neorg sync-parsers",
     config = function()
       require("neorg").setup({
         load = {
