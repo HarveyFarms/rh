@@ -3,10 +3,6 @@ c:
 r:
 	./a.out
 
-# for sdl programs specifically
-sdl:
-	g++ main.cpp -lSDL2
-
 # for github ... 
 p:
 	git pull
