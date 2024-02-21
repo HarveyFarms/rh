@@ -20,4 +20,4 @@ vim.api.nvim_set_keymap(
 -- for workspaces in neorg
 vim.api.nvim_set_keymap("n", "<leader>wh", ":Neorg workspace home<CR>", { noremap = true, silent = true })
 vim.api.nvim_set_keymap("n", "<leader>ws", ":Neorg workspace school<CR>", { noremap = true, silent = true })
-vim.api.nvim_set_keymap("n", "<leader>fq", ":Calendar -view=month<CR>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("n", "<leader>fq", ":Calendar -view=month <CR>", { noremap = true, silent = true })
