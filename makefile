@@ -5,6 +5,6 @@ r:
 
 # for github ... 
 p:
-	git fetch
+	git pull
 git:
 	git add -A ; git commit -m "sync" ; git push
