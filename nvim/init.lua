@@ -6,3 +6,6 @@ vim.api.nvim_command(
 vim.api.nvim_command(
   "autocmd VimEnter * lua vim.defer_fn(function() vim.api.nvim_command('Neorg journal today') end, 0)"
 )
+vim.api.nvim_command(
+  "autocmd VimEnter * lua vim.defer_fn(function() vim.api.nvim_command('bdelete ~/rh/neorg/index.norg') end, 0)"
+)

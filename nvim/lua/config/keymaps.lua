@@ -13,7 +13,7 @@ vim.api.nvim_set_keymap("i", "<C-y>", "<Esc>:normal gcc<CR>", { noremap = true, 
 vim.api.nvim_set_keymap(
   "n",
   "<leader>fj",
-  ":Neorg workspace home<CR>:Neorg journal today<CR>",
+  ":Neorg workspace home<CR>:Neorg journal today<CR>:bdelete ~/rh/neorg/index.norg<CR>",
   { noremap = true, silent = true }
 )
 
