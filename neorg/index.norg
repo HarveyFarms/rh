@@ -1,8 +1,8 @@
 * home workspace
 ** journal
-   This is the main usage of this workspace, daily journals and todos
+   This is the main usage of this workspace, daily journals and todos within them
    To access journal, press <leader>fj
-   To access calendar, do <leader>fc
+   To access calendar, do <leader>fq
 
 ** extra projects
 *** idea for tracking reading:
