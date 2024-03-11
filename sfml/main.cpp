@@ -1,32 +1,19 @@
+#include <iostream>
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
-
-enum blah {
-  start,
-  end,
-  middle,
-  next,
-  beginning,
-  latter,
-  later
-}
+#include "need.h"
 
 int main()
 {
   // Create the main window
-  sf::RenderWindow window(sf::VideoMode(800, 600), "SFML window");
+  sf::RenderWindow window(sf::VideoMode(1920, 1080), "SFML window");
 
   // Load a sprite to display
   sf::Texture texture;
   if (!texture.loadFromFile("cute_image.jpeg"))
     return EXIT_FAILURE;
   sf::Sprite sprite(texture);
-
-  // Create a graphical text to display
-  sf::Font font;
-  if (!font.loadFromFile("arial.ttf"))
-    return EXIT_FAILURE;
-  sf::Text text("Hello SFML", font, 50);
+  sprite.setScale(6, 6);
 
   /* // Load a music to play */
   /* sf::Music music; */
@@ -53,9 +40,6 @@ int main()
  
         // Draw the sprite
         window.draw(sprite);
- 
-        // Draw the string
-        window.draw(text);
  
         // Update the window
         window.display();
