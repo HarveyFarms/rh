@@ -1,5 +1,4 @@
 alias gsy='cp ~/.bashrc ~/rh/ ; cp -r ~/.config/nvim ~/rh/ ; cp -r ~/.cache/calendar.vim ~/rh/ ; cd ~/rh ; m git ; cd ~/cc ; m git ; cd ~/pdfbank ; m git ; cd'
-alias gsyc='cp ~/.bashrc ~/rh/ ; cp -r ~/.config/nvim ~/rh/ ; cp -r ~/.cache/calendar.vim ~/rh/ ; cd ~/rh ; m git ; c ; cd ~/cc ; m git ; c ; cd ~/pdfbank ; m git ; cd ; c'
 alias gpu='cd ~/rh ; m p ; cp .bashrc .. ; cp -r nvim ../.config/ ; cp -r calendar.vim ../.cache/ ; cd ~/cc ; m p ; cd ~/pdfbank ; m p ; cd'
 alias python='python3'
 alias m='make'
