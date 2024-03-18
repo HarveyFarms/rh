@@ -88,3 +88,4 @@ if ! shopt -oq posix; then
 fi
 
 alias alex='python /home/ryan/.alex/alexrunner.py'
+export PATH="$PATH:$HOME/.config/emacs/bin"
