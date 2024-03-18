@@ -4,6 +4,7 @@
    To access journal, press <leader>fj
    To access calendar, do <leader>fq
 
+   {:journal/2024/03/18.norg: morning}
 ** extra projects
 *** idea for tracking reading:
     I could have a file for particular books to track reading sessions and summaries
