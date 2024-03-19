@@ -50,3 +50,4 @@
 ;; (unpin! t)
 (package! org-roam
   :recipe (:host github :repo "org-roam/org-roam" :branch "main"))
+(package! org-roam-ui)

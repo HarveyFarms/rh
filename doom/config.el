@@ -77,7 +77,14 @@
 (map! :leader
       (:prefix-map ("j" . "journal")
        :desc "Capture new journal entry" "n" #'org-roam-dailies-capture-today
-       :desc "Go to today's journal entry" "t" #'org-roam-dailies-find-today
-       :desc "Go to yesterday's journal entry" "y" #'org-roam-dailies-find-yesterday
-       :desc "Go to tomorrow's journal entry" "o" #'org-roam-dailies-find-tomorrow
+       :desc "Go to today's journal entry" "t" #'org-roam-dailies-goto-today
+       :desc "Go to yesterday's journal entry" "y" #'org-roam-dailies-goto-yesterday
+       :desc "Go to tomorrow's journal entry" "o" #'org-roam-dailies-goto-tomorrow
        :desc "Find date" "f" #'org-roam-dailies-find-date))
+(defun save-buffer-and-switch-to-normal-mode ()
+  "Save the buffer and switch to normal mode."
+  (interactive)
+  (save-buffer)
+  (evil-normal-state))
+
+(global-set-key (kbd "C-s") 'save-buffer-and-switch-to-normal-mode)

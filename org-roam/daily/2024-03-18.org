@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       474fe635-bf0f-42b0-a634-dd27b8bbfa38
+:END:
+#+title: 2024-03-18
+
+* todo
+- [ ] engl
+  write discussion post
+- [ ] hist reading of fred doug
+- [ ] galaxian
+- [ ] other

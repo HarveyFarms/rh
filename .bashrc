@@ -11,6 +11,7 @@ alias v='nvim'
 alias c='clear'
 alias o='xdg-open'
 alias python='python3.10'
+alias cc='emacs --fullscreen ~/cc/cc.org &'
 
 case "$TERM" in
 xterm-color | *-256color) color_prompt=yes ;;
