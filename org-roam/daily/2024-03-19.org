@@ -14,3 +14,8 @@
   know the difference between dailies and creating nodes for knowledge 😋🧠
 - [ ] fill out org calendar/todos again
   figure out orgs agenda and how it fits with a calendar
+
+* TODO S&T Miner Invite
+:PROPERTIES:
+DEADLINE: <2024-03-23 Sat>
+:END:
