@@ -1,0 +1,14 @@
+* TODO Bible
+:PROPERTIES:
+:LAST_REPEAT: [2024-03-19 Tue 12:15]
+:END:
+- State "OKAY"       from "TODO"       [2024-03-19 Tue 12:15]
+- State "NO"         from "TODO"       [2024-03-19 Tue 12:15]
+- State "YES"        from "TODO"       [2024-03-19 Tue 12:14]
+:PROPERTIES:
+DEADLINE: <2024-06-19 Wed +1m>
+:END:
+* TODO Liturgy book
+:PROPERTIES:
+DEADLINE: <2024-03-19 Tue +1m>
+:END:

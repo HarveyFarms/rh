@@ -1,0 +1,32 @@
+* TODO Frederick Douglass Quiz
+:PROPERTIES:
+DEADLINE: <2024-04-04 Thu>
+:END:
+* TODO World Lit Paper 2 Draft due
+:PROPERTIES:
+DEADLINE: <2024-04-03 Thu>
+:END:
+* TODO World Lit Paper 2 due
+:PROPERTIES:
+DEADLINE: <2024-04-08 Thu>
+:END:
+* TODO last cougar bowl
+:PROPERTIES:
+DEADLINE: <2024-04-11 Thu>
+:END:
+* TODO primary source analysis paper due
+:PROPERTIES:
+DEADLINE: <2024-04-16 Tue>
+:END:
+* TODO Calc 2 Final
+:PROPERTIES:
+DEADLINE: <2024-04-22 Mon 10:00>
+:END:
+* TODO World Lit Final
+:PROPERTIES:
+DEADLINE: <2024-04-23 Mon 10:00>
+:END:
+* TODO World Hist Final
+:PROPERTIES:
+DEADLINE: <2024-04-25 Mon 8:00>
+:END:

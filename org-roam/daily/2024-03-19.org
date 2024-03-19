@@ -2,20 +2,15 @@
 :ID:       afc33cf9-de6f-44f3-82e7-457fabaf03f2
 :END:
 #+title: 2024-03-19
-* todo [0/9]
+* todo [1/9]
 - [ ] read Bible
 - [ ] read Liturgy book
 - [ ] read Fred Doug
 - [ ] read CH12 and Primary Source Documents
 - [ ] work for 5+ hours
 - [ ] get sun + stretch
-- [ ] re-turn-in math hmwk
+- [X] re-turn-in math hmwk
 - [ ] create shortcuts and templates for org-roam
   know the difference between dailies and creating nodes for knowledge 😋🧠
 - [ ] fill out org calendar/todos again
   figure out orgs agenda and how it fits with a calendar
-
-* TODO S&T Miner Invite
-:PROPERTIES:
-DEADLINE: <2024-03-23 Sat>
-:END:
