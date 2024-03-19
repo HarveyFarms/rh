@@ -81,7 +81,6 @@
        :desc "Go to yesterday's journal entry" "y" #'org-roam-dailies-goto-yesterday
        :desc "Go to tomorrow's journal entry" "o" #'org-roam-dailies-goto-tomorrow
        :desc "Find date" "f" #'org-roam-dailies-find-date))
-
 (defun save-buffer-and-switch-to-normal-mode ()
   "Save the buffer and switch to normal mode."
   (interactive)
@@ -89,22 +88,4 @@
   (evil-normal-state))
 
 (global-set-key (kbd "C-s") 'save-buffer-and-switch-to-normal-mode)
-(use-package org-roam
-             :ensure t
-             :init
-             (setq org-roam-v2-ack t)
-             :custom
-             (org-roam-directory "~/org-roam")
-             (org-roam-completion-everywhere t)
-             (org-roam-capture-templates
-               '(("d" "default" plain
-                  "%?"
-                  :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n")
-                  :unnarrowed t)))
-             :bind (("C-c n l" . org-roam-buffer-toggle)
-                    ("C-c n f" . org-roam-node-find)
-                    ("C-c n i" . org-roam-node-insert)
-                    :map org-mode-map
-                    ("C-M-i" . completion-at-point))
-             :config
-             (org-roam-setup))
+(global-set-key (kbd "C-c c") (lambda () (interactive) (find-file "~/cc/cc.org")))

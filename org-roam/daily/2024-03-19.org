@@ -2,15 +2,17 @@
 :ID:       afc33cf9-de6f-44f3-82e7-457fabaf03f2
 :END:
 #+title: 2024-03-19
-* todo [1/9]
-- [ ] read Bible
-- [ ] read Liturgy book
-- [ ] read Fred Doug
+* todo [6/8]
+- [ ] after practice
+  - [ ] read Bible
+  - [ ] read Liturgy book
+- [X] read Fred Doug
+  will instead do this later, will read all of book a week or so before the quiz
 - [ ] read CH12 and Primary Source Documents
-- [ ] work for 5+ hours
-- [ ] get sun + stretch
+- [X] work for 5+ hours
+- [X] get sun + stretch
 - [X] re-turn-in math hmwk
-- [ ] create shortcuts and templates for org-roam
+- [X] create shortcuts and templates for org-roam
   know the difference between dailies and creating nodes for knowledge 😋🧠
-- [ ] fill out org calendar/todos again
+- [X] fill out org calendar/todos again
   figure out orgs agenda and how it fits with a calendar
