@@ -193,3 +193,5 @@
        ;;literate
        (default +bindings +smartparens))
 
+(setq plstore-cache-passphrase-for-symmetric-encryption t)
+(setq epa-file-cache-passphrase-for-symmetric-encryption t)

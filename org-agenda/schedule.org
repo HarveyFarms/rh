@@ -1,20 +1,52 @@
+pass:
+%28%22rharv99%40gmail.com%22%20org-gcal%29%0A
 * TODO S&T Miner Invite (wear navy)
 :PROPERTIES:
-DEADLINE: <2024-03-23 Sat>
+:org-gcal-managed: org
+:calendar-id: rharv99@gmail.com
+:ETag:     "3421910185798000"
+:entry-id: knqp7tvd7bcm0v38tcota93m8g/rharv99@gmail.com
+:END:
+:org-gcal:
+<2024-03-23 Sat>
 :END:
 * TODO Celebration of Excellence
 :PROPERTIES:
-DEADLINE: <2024-04-10 Wed 17:00>
+:org-gcal-managed: org
+:calendar-id: rharv99@gmail.com
+:ETag:     "3421908383034000"
+:entry-id: evhjh0r9orfuta8loual2iks14/rharv99@gmail.com
+:END:
+:org-gcal:
+<2024-04-10 Wed 17:00-17:55>
 :END:
 * TODO UCM relays
 :PROPERTIES:
-DEADLINE: <2024-04-12 Sat>
+:org-gcal-managed: org
+:calendar-id: rharv99@gmail.com
+:ETag:     "3421908429080000"
+:entry-id: oh6u2hkor948nectr6ht2lgbc0/rharv99@gmail.com
+:END:
+:org-gcal:
+<2024-04-12 Fri>
 :END:
 * TODO Pittsburg State Tune-up
 :PROPERTIES:
-DEADLINE: <2024-04-20 Sat>
+:org-gcal-managed: org
+:calendar-id: rharv99@gmail.com
+:ETag:     "3421908474290000"
+:entry-id: 1rc3eq9l8sfuuh47nuap0c5jdk/rharv99@gmail.com
+:END:
+:org-gcal:
+<2024-04-20 Sat>
 :END:
 * TODO Conference Outdoor
 :PROPERTIES:
-DEADLINE: <2024-05-02 Thu>
+:org-gcal-managed: org
+:calendar-id: rharv99@gmail.com
+:ETag:     "3421908501560000"
+:entry-id: j3t2cqkdtmd0gb3m0d9istkmt8/rharv99@gmail.com
+:END:
+:org-gcal:
+<2024-05-02 Thu>
 :END:

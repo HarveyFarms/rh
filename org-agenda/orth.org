@@ -1,0 +1,129 @@
+
+* Clean Monday
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240318_fa3mfshqhk8bekbnok6phiougs/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-03-18 Mon>
+
+Public holiday
+:END:
+
+* Annunciation of the Virgin Mary
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240325_fdocp95jv87fu5h5d2a5p7gc2c/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-03-25 Mon>
+
+Public holiday
+:END:
+
+* Greek Independence Day
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240325_sj5f3j16h66d6oingitiuj0c74/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-03-25 Mon>
+
+Public holiday
+:END:
+
+* Orthodox Good Friday
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240503_um4akofqt67p8fv31c2a1ec5i0/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-03 Fri>
+
+Public holiday
+:END:
+
+* Orthodox Easter Sunday
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240505_6dkgcmfdu17usebdsjmibn1f5k/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-05 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Greece
+:END:
+
+* Orthodox Easter Monday
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240506_8blb98ng11586g4fsmv86g5eqc/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-06 Mon>
+
+Public holiday
+:END:
+
+* Mother’s Day
+:PROPERTIES:
+:ETag:     "3392671497450000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240512_ebnfs9mireu4rtdboodqbi5iik/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-12 Sun>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Greece
+:END:
+
+* Labor Day / May Day
+:PROPERTIES:
+:ETag:     "3419800891484000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240501_1vdl4nige57d9b2bmrkc0as4oo/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-01 Wed>
+
+Observance
+To hide observances, go to Google Calendar Settings > Holidays in Greece
+:END:
+
+* Labor Day / May Day
+:PROPERTIES:
+:ETag:     "3419800891484000"
+:TRANSPARENCY: transparent
+:calendar-id: en.greek#holiday@group.v.calendar.google.com
+:entry-id: 20240507_ou2q6a04s1u952q2m1tg37aqn0/en.greek#holiday@group.v.calendar.google.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-07 Tue>
+
+Public holiday
+:END:

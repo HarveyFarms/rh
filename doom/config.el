@@ -81,6 +81,7 @@
        :desc "Go to yesterday's journal entry" "y" #'org-roam-dailies-goto-yesterday
        :desc "Go to tomorrow's journal entry" "o" #'org-roam-dailies-goto-tomorrow
        :desc "Find date" "f" #'org-roam-dailies-find-date))
+
 (defun save-buffer-and-switch-to-normal-mode ()
   "Save the buffer and switch to normal mode."
   (interactive)
@@ -88,4 +89,30 @@
   (evil-normal-state))
 
 (global-set-key (kbd "C-s") 'save-buffer-and-switch-to-normal-mode)
-(global-set-key (kbd "C-c c") (lambda () (interactive) (find-file "~/cc/cc.org")))
+(global-set-key (kbd "C-c g s") 'org-gcal-sync)
+(global-set-key (kbd "C-c g p") 'org-gcal-post-at-point)
+(use-package org-roam
+             :ensure t
+             :init
+             (setq org-roam-v2-ack t)
+             :custom
+             (org-roam-directory "~/org-roam")
+             (org-roam-completion-everywhere t)
+             (org-roam-capture-templates
+               '(("d" "default" plain
+                  "%?"
+                  :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n")
+                  :unnarrowed t)))
+             :bind (("C-c n l" . org-roam-buffer-toggle)
+                    ("C-c n f" . org-roam-node-find)
+                    ("C-c n i" . org-roam-node-insert)
+                    :map org-mode-map
+                    ("C-M-i" . completion-at-point))
+             :config
+             (org-roam-setup))
+
+
+(setq org-gcal-client-id "159150927089-vm128nk2ag2a41j0aft1dctg56gt90hj.apps.googleusercontent.com"
+      org-gcal-client-secret "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"
+      org-gcal-fetch-file-alist '(("rharv99@gmail.com" .  "~/rh/org-agenda/gcal.org")
+                                  ("en.greek#holiday@group.v.calendar.google.com" .  "~/rh/org-agenda/orth.org")))
