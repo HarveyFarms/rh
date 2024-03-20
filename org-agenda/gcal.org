@@ -125,3 +125,146 @@ IMPORTANT NOTICE: Please note that this Webex service allows audio and other inf
 :END:
 
 
+
+* Frederick Douglass Quiz
+:PROPERTIES:
+:ETag:     "3421907290558000"
+:calendar-id: rharv99@gmail.com
+:entry-id: c6j2tfdbe4q3274dh1964kfcj4/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-04 Thu 09:30-11:00>
+:END:
+
+* World Lit Paper 2 Draft due
+:PROPERTIES:
+:ETag:     "3421907981724000"
+:calendar-id: rharv99@gmail.com
+:entry-id: j93830aibirbe8qa07u4ogsv7g/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-03 Wed 09:05-10:00>
+:END:
+
+* World Lit Paper 2 due
+:PROPERTIES:
+:ETag:     "3421908037270000"
+:calendar-id: rharv99@gmail.com
+:entry-id: vqrka54g7vcak4a9p2boaokoqk/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-08 Mon 09:05-10:00>
+:END:
+
+* last cougar bowl
+:PROPERTIES:
+:ETag:     "3421908124496000"
+:calendar-id: rharv99@gmail.com
+:entry-id: dag2g3vom66ouvvd74ph62pbc0/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-11 Thu 09:30-10:50>
+:END:
+
+* primary source analysis paper due
+:PROPERTIES:
+:ETag:     "3421908183944000"
+:calendar-id: rharv99@gmail.com
+:entry-id: 6knq2fu5pf0u451e61fdlg5p1g/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-16 Tue 09:30-10:50>
+:END:
+
+* Calc 2 Final
+:PROPERTIES:
+:ETag:     "3421908214460000"
+:calendar-id: rharv99@gmail.com
+:entry-id: 2rklen36kfai26cftfusjil75c/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-22 Mon 10:00-12:00>
+:END:
+
+* World Lit Final
+:PROPERTIES:
+:ETag:     "3421908245996000"
+:calendar-id: rharv99@gmail.com
+:entry-id: imaa8ka558ig683vpglma0ad8o/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-23 Tue 10:00-12:00>
+:END:
+
+* World Hist Final
+:PROPERTIES:
+:ETag:     "3421908287128000"
+:calendar-id: rharv99@gmail.com
+:entry-id: 5qm32srjm1ah8t44eidi3d084g/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-25 Thu 08:00-10:00>
+:END:
+
+* Celebration of Excellence
+:PROPERTIES:
+:ETag:     "3421908383034000"
+:calendar-id: rharv99@gmail.com
+:entry-id: evhjh0r9orfuta8loual2iks14/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-10 Wed 17:00-17:55>
+:END:
+
+* UCM relays
+:PROPERTIES:
+:ETag:     "3421908429080000"
+:calendar-id: rharv99@gmail.com
+:entry-id: oh6u2hkor948nectr6ht2lgbc0/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-12 Fri 12:03-12:08>
+:END:
+
+* Pittsburg State Tune-up
+:PROPERTIES:
+:ETag:     "3421908474290000"
+:calendar-id: rharv99@gmail.com
+:entry-id: 1rc3eq9l8sfuuh47nuap0c5jdk/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-04-20 Sat 12:03-12:08>
+:END:
+
+* Conference Outdoor
+:PROPERTIES:
+:ETag:     "3421908501560000"
+:calendar-id: rharv99@gmail.com
+:entry-id: j3t2cqkdtmd0gb3m0d9istkmt8/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-05-02 Thu 12:04-12:09>
+:END:
+
+* S&T Miner Invite (wear navy)
+:PROPERTIES:
+:ETag:     "3421910185798000"
+:calendar-id: rharv99@gmail.com
+:entry-id: knqp7tvd7bcm0v38tcota93m8g/rharv99@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-03-23 Sat>
+:END:
