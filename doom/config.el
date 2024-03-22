@@ -74,33 +74,17 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
-(map! :leader
-      (:prefix-map ("j" . "journal")
-       :desc "Capture new journal entry" "n" #'org-roam-dailies-capture-today
-       :desc "Go to today's journal entry" "t" #'org-roam-dailies-goto-today
-       :desc "Go to yesterday's journal entry" "y" #'org-roam-dailies-goto-yesterday
-       :desc "Go to tomorrow's journal entry" "o" #'org-roam-dailies-goto-tomorrow
-       :desc "Find date" "f" #'org-roam-dailies-find-date))
-
 (defun save-buffer-and-switch-to-normal-mode ()
   "Save the buffer and switch to normal mode."
   (interactive)
   (save-buffer)
   (evil-normal-state))
 (global-set-key (kbd "C-s") 'save-buffer-and-switch-to-normal-mode)
-
-(map! :leader
-      (:prefix-map ("g" . "google calendar")
-                   :desc "gcal sync" "s" #'org-gcal-sync
-                   :desc "gcal fetch" "f" #'org-gcal-fetch
-                   :desc "gcal post at point" "p" #'org-gcal-post-at-point))
-
 (map! :leader
       (:prefix-map ("n" . "org roam")
                    :desc "buffer toggle" "l" #'org-roam-buffer-toggle
                    :desc "find node" "f" #'org-roam-node-find
                    :desc "insert node" "i" #'org-roam-node-insert))
-
 (use-package org-roam
              :ensure t
              :init
@@ -115,9 +99,3 @@
                   :unnarrowed t)))
              :config
              (org-roam-setup))
-
-
-(setq org-gcal-client-id "159150927089-vm128nk2ag2a41j0aft1dctg56gt90hj.apps.googleusercontent.com"
-      org-gcal-client-secret "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"
-      org-gcal-fetch-file-alist '(("rharv99@gmail.com" .  "~/rh/org-agenda/gcal.org")
-                                  ("en.greek#holiday@group.v.calendar.google.com" .  "~/rh/org-agenda/orth.org")))
