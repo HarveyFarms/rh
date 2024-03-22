@@ -87,10 +87,20 @@
   (interactive)
   (save-buffer)
   (evil-normal-state))
-
 (global-set-key (kbd "C-s") 'save-buffer-and-switch-to-normal-mode)
-(global-set-key (kbd "C-c g s") 'org-gcal-sync)
-(global-set-key (kbd "C-c g p") 'org-gcal-post-at-point)
+
+(map! :leader
+      (:prefix-map ("g" . "google calendar")
+                   :desc "gcal sync" "s" #'org-gcal-sync
+                   :desc "gcal fetch" "f" #'org-gcal-fetch
+                   :desc "gcal post at point" "p" #'org-gcal-post-at-point))
+
+(map! :leader
+      (:prefix-map ("n" . "org roam")
+                   :desc "buffer toggle" "l" #'org-roam-buffer-toggle
+                   :desc "find node" "f" #'org-roam-node-find
+                   :desc "insert node" "i" #'org-roam-node-insert))
+
 (use-package org-roam
              :ensure t
              :init
@@ -103,11 +113,6 @@
                   "%?"
                   :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n")
                   :unnarrowed t)))
-             :bind (("C-c n l" . org-roam-buffer-toggle)
-                    ("C-c n f" . org-roam-node-find)
-                    ("C-c n i" . org-roam-node-insert)
-                    :map org-mode-map
-                    ("C-M-i" . completion-at-point))
              :config
              (org-roam-setup))
 

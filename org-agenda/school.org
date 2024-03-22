@@ -1,82 +1,82 @@
 pass:
 %28%22rharv99%40gmail.com%22%20org-gcal%29%0A
 * TODO Frederick Douglass Quiz
+SCHEDULED: <2024-04-04 Thu 09:30-11:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421907290558000"
-:entry-id: c6j2tfdbe4q3274dh1964kfcj4/rharv99@gmail.com
+:ETag:     "3422149143300000"
+:entry-id: b20coulgr06tnl44tpui7v4c5o/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-04 Thu 09:30-11:00>
 :END:
 * TODO World Lit Paper 2 Draft due
+SCHEDULED: <2024-04-03 Wed 09:05-10:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421907981724000"
-:entry-id: j93830aibirbe8qa07u4ogsv7g/rharv99@gmail.com
+:ETag:     "3422149154184000"
+:entry-id: 10dhpiahjmkbsr7v56tt5tq3ao/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-03 Wed 09:05-10:00>
 :END:
 * TODO World Lit Paper 2 due
+SCHEDULED: <2024-04-08 Mon 09:05-10:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908037270000"
-:entry-id: vqrka54g7vcak4a9p2boaokoqk/rharv99@gmail.com
+:ETag:     "3422149161082000"
+:entry-id: jgbc94d5q30tbeevgdplk3etic/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-08 Mon 09:05-10:00>
 :END:
 * TODO last cougar bowl
+SCHEDULED: <2024-04-11 Thu 09:30-10:50>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908124496000"
-:entry-id: dag2g3vom66ouvvd74ph62pbc0/rharv99@gmail.com
+:ETag:     "3422149168174000"
+:entry-id: uoc0r0hndaetlsum0o594ov9n4/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-11 Thu 09:30-10:50>
 :END:
 * TODO primary source analysis paper due
+SCHEDULED: <2024-04-16 Tue 09:30-10:50>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908183944000"
-:entry-id: 6knq2fu5pf0u451e61fdlg5p1g/rharv99@gmail.com
+:ETag:     "3422149175304000"
+:entry-id: i4b6so91mjkpov573ephf6tqfg/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-16 Tue 09:30-10:50>
 :END:
 * TODO Calc 2 Final
+SCHEDULED: <2024-04-22 Mon 10:00-12:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908214460000"
-:entry-id: 2rklen36kfai26cftfusjil75c/rharv99@gmail.com
+:ETag:     "3422149181650000"
+:entry-id: 1mnv9g45lch2bivmvgrv0g65p0/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-22 Mon 10:00-12:00>
 :END:
 * TODO World Lit Final
+SCHEDULED: <2024-04-23 Tue 10:00-12:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908245996000"
-:entry-id: imaa8ka558ig683vpglma0ad8o/rharv99@gmail.com
+:ETag:     "3422149188204000"
+:entry-id: c3ph69k59llrn7svveskr1hl1g/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-23 Tue 10:00-12:00>
 :END:
 * TODO World Hist Final
+SCHEDULED: <2024-04-25 Thu 08:00-10:00>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908287128000"
-:entry-id: 5qm32srjm1ah8t44eidi3d084g/rharv99@gmail.com
+:ETag:     "3422149194070000"
+:entry-id: 5oia6iftme4fqohki8comlqui4/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-25 Thu 08:00-10:00>
 :END:

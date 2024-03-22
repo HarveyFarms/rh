@@ -4,7 +4,7 @@ pass:
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421910185798000"
+:ETag:     "3422149201260000"
 :entry-id: knqp7tvd7bcm0v38tcota93m8g/rharv99@gmail.com
 :END:
 :org-gcal:
@@ -21,32 +21,32 @@ pass:
 <2024-04-10 Wed 17:00-17:55>
 :END:
 * TODO UCM relays
+SCHEDULED: <2024-04-12 Fri>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908429080000"
-:entry-id: oh6u2hkor948nectr6ht2lgbc0/rharv99@gmail.com
+:ETag:     "3422149205384000"
+:entry-id: dmr498m04k9stvkm674tmf6r28/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-12 Fri>
 :END:
 * TODO Pittsburg State Tune-up
+SCHEDULED: <2024-04-20 Sat>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908474290000"
-:entry-id: 1rc3eq9l8sfuuh47nuap0c5jdk/rharv99@gmail.com
+:ETag:     "3422149209396000"
+:entry-id: 546r425lvfvrlf6v08pel4jpao/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-04-20 Sat>
 :END:
 * TODO Conference Outdoor
+SCHEDULED: <2024-05-02 Thu>
 :PROPERTIES:
 :org-gcal-managed: org
 :calendar-id: rharv99@gmail.com
-:ETag:     "3421908501560000"
-:entry-id: j3t2cqkdtmd0gb3m0d9istkmt8/rharv99@gmail.com
+:ETag:     "3422149207308000"
+:entry-id: krf5haqhb32v2t7mhalu1sh5ro/rharv99@gmail.com
 :END:
 :org-gcal:
-<2024-05-02 Thu>
 :END:
