@@ -85,6 +85,15 @@
                    :desc "buffer toggle" "l" #'org-roam-buffer-toggle
                    :desc "find node" "f" #'org-roam-node-find
                    :desc "insert node" "i" #'org-roam-node-insert))
+(defun my/goto-cc-org ()
+  "Navigate to ~/cc/cc.org."
+  (interactive)
+  (find-file "~/cc/cc.org"))
+
+(map! :leader
+      (:prefix-map ("c" . "columbia college")
+                   :desc "classes" "c" #'my/goto-cc-org))
+
 (use-package org-roam
              :ensure t
              :init
