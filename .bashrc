@@ -1,7 +1,7 @@
-alias gsy='cp -r ~/.config/emacs/ ~/rh/ ; cp -r ~/org-roam ~/rh ; cp -r ~/.config/doom/ ~/rh/ ; cp ~/.bashrc ~/rh/ ; cp -r ~/.config/nvim ~/rh/ ; 
+alias gsy='cp -r ~/org-roam ~/rh ; cp -r ~/.config/doom/ ~/rh/ ; cp ~/.bashrc ~/rh/ ; cp -r ~/.config/nvim ~/rh/ ; 
 cd ~/rh ; m git ; cd ~/cc ; m git ; cd ~/pdfbank ; m git ; cd'
 
-alias gpu='cd ~/rh ; m p ; cp -r emacs ../.config/ ; cp -r org-roam .. ; cp .bashrc .. ; cp -r nvim ../.config/ ; cp -r doom ../.config/ ;
+alias gpu='cd ~/rh ; m p ; cp -r org-roam .. ; cp .bashrc .. ; cp -r nvim ../.config/ ; cp -r doom ../.config/ ;
 cd ~/cc ; m p ; cd ~/pdfbank ; m p ; cd'
 
 alias python='python3'
