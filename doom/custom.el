@@ -23,7 +23,7 @@
      (gnus . org-gnus-no-new-news)
      (file . find-file)
      (wl . wl-other-frame)))
- '(org-startup-folded t)
+ '(org-startup-folded 'show2levels)
  '(org-startup-with-inline-images t)
  '(package-selected-packages
    '(org-gcal calfw-org calfw org-roam-bibtex org-pomodoro org-roam-ui org-roam-timestamps org-roam-ql-ql org-roam-ql org-roam)))
