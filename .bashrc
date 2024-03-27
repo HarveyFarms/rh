@@ -12,6 +12,7 @@ alias c='clear'
 alias o='xdg-open'
 alias python='python3.10'
 alias cc='emacs --fullscreen ~/cc/cc.org &'
+alias lect='o https://goarch.org'
 export PATH="/home/ryan/.cask/bin:$PATH"
 
 case "$TERM" in
